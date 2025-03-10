@@ -1,0 +1,82 @@
+[
+    {
+        "_id": "6400c72f85b98a70bbec921b",
+        "chapterTitleBn": "পরিবেশের জন্য ভাবনা",
+        "chapterTitleEn": "Concern about our environment",
+        "subjectId": "63fe296f26abd4392c88d04b",
+        "isPublished": false,
+        "isDifferentTopicsExist": true,
+        "position": 1,
+        "dateAdded": "2023-03-02T15:56:30.889Z"
+    },
+    {
+        "_id": "6400c73585b98a70bbec932b",
+        "chapterTitleBn": "পরমাণুর নিউক্লিয়াস",
+        "chapterTitleEn": "Atomic Nucleus",
+        "subjectId": "63fe296f26abd4392c88d04b",
+        "isPublished": false,
+        "isDifferentTopicsExist": true,
+        "position": 7,
+        "dateAdded": "2023-03-02T15:56:37.283Z"
+    },
+    {
+        "_id": "6400c73485b98a70bbec92f6",
+        "chapterTitleBn": "চলতড়িৎ",
+        "chapterTitleEn": "Current Electricity",
+        "subjectId": "63fe296f26abd4392c88d04b",
+        "isPublished": false,
+        "isDifferentTopicsExist": true,
+        "position": 6,
+        "dateAdded": "2023-03-02T15:56:36.200Z"
+    },
+    {
+        "_id": "6400c73375da2562beb1d662",
+        "chapterTitleBn": "আলো",
+        "chapterTitleEn": "Light",
+        "subjectId": "63fe296f26abd4392c88d04b",
+        "isPublished": false,
+        "isDifferentTopicsExist": true,
+        "position": 5,
+        "dateAdded": "2023-03-02T15:56:35.018Z"
+    },
+    {
+        "_id": "6400c7366b8a88cc4ce87044",
+        "chapterTitleBn": "পদার্থের ভৌত ও রাসায়নিক ধর্মসমূহ",
+        "chapterTitleEn": "Physical and chemical properties of matter",
+        "subjectId": "63fe296f26abd4392c88d04b",
+        "isPublished": false,
+        "isDifferentTopicsExist": true,
+        "position": 8,
+        "dateAdded": "2023-03-02T15:56:38.221Z"
+    },
+    {
+        "_id": "6400c73185b98a70bbec926c",
+        "chapterTitleBn": "রাসায়নিক গণনা",
+        "chapterTitleEn": "Chemical Calculations",
+        "subjectId": "63fe296f26abd4392c88d04b",
+        "isPublished": false,
+        "isDifferentTopicsExist": true,
+        "position": 3,
+        "dateAdded": "2023-03-02T15:56:33.140Z"
+    },
+    {
+        "_id": "6400c73085b98a70bbec9246",
+        "chapterTitleBn": "গ্যাসের আচরণ",
+        "chapterTitleEn": "Behaviour of gases",
+        "subjectId": "63fe296f26abd4392c88d04b",
+        "isPublished": false,
+        "isDifferentTopicsExist": true,
+        "position": 2,
+        "dateAdded": "2023-03-02T15:56:32.237Z"
+    },
+    {
+        "_id": "6400c7324d0ce2c6acb5e1ab",
+        "chapterTitleBn": "তাপের ঘটনাসমূহ",
+        "chapterTitleEn": "Thermal phenomena",
+        "subjectId": "63fe296f26abd4392c88d04b",
+        "isPublished": false,
+        "isDifferentTopicsExist": true,
+        "position": 4,
+        "dateAdded": "2023-03-02T15:56:34.091Z"
+    }
+]

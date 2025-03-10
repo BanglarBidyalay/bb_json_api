@@ -1,0 +1,101 @@
+[
+    {
+        "_id": "669b611d290a8247a3d93946",
+        "chapterTitleBn": "ইতিহাসের ধারণা",
+        "chapterTitleEn": "Idea of History",
+        "subjectId": "6400f822c339a7a7c3a38513",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 1,
+        "dateAdded": "2024-07-20T07:02:53.044Z"
+    },
+    {
+        "_id": "669b611f761e608f6a2e0541",
+        "chapterTitleBn": "ভারতীয় উপমহাদেশে আদিম মানুষ: যাযাবর জীবন থেকে স্থায়ী বসতি স্থাপন",
+        "chapterTitleEn": "Primitive People in the Indian Subcontinent: From Nomadic Life to Permanent Settlement",
+        "subjectId": "6400f822c339a7a7c3a38513",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 2,
+        "dateAdded": "2024-07-20T07:02:55.276Z"
+    },
+    {
+        "_id": "669b6122126562707a3ffa61",
+        "chapterTitleBn": "ভারতীয় উপমহাদেশের প্রাচীন ইতিহাসের ধারা: প্রথম পর্যায়: আনুমানিক খ্রিস্টপূর্ব ৭০০০-১৫০০ অব্দ",
+        "chapterTitleEn": "The Flow of Ancient History in the Indian Subcontinent: First Phase: Approx. 7000-1500 BCE",
+        "subjectId": "6400f822c339a7a7c3a38513",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 3,
+        "dateAdded": "2024-07-20T07:02:58.034Z"
+    },
+    {
+        "_id": "669b61251825b2ac0c3e58d8",
+        "chapterTitleBn": "ভারতীয় উপমহাদেশের প্রাচীন ইতিহাসের ধারা: দ্বিতীয় পর্যায়: আনুমানিক খ্রিস্টপূর্ব ১৫০০-৬০০ অব্দ",
+        "chapterTitleEn": "The Flow of Ancient History in the Indian Subcontinent: Second Phase: Approx. 1500-600 BCE",
+        "subjectId": "6400f822c339a7a7c3a38513",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 4,
+        "dateAdded": "2024-07-20T07:03:00.563Z"
+    },
+    {
+        "_id": "669b6127402f5e546ef71763",
+        "chapterTitleBn": "খ্রিস্টপূর্ব ষষ্ঠ শতকের ভারতীয় উপমহাদেশ: রাষ্ট্রব্যবস্থা এবং ধর্মের বিবর্তন উত্তর ভারত",
+        "chapterTitleEn": "The Indian Subcontinent in the 6th Century BCE: State System and Evolution of Religion in North India",
+        "subjectId": "6400f822c339a7a7c3a38513",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 5,
+        "dateAdded": "2024-07-20T07:03:03.034Z"
+    },
+    {
+        "_id": "669b612a402f5e546ef7216b",
+        "chapterTitleBn": "সাম্রাজ্য বিস্তার ও শাসন: আনুমানিক খ্রিস্টপূর্ব ষষ্ঠ শতক থেকে খ্রিস্টীয় সপ্তম শতকের প্রথম ভাগ",
+        "chapterTitleEn": "Empire Expansion and Governance: Approx. 6th Century BCE to Early 7th Century CE",
+        "subjectId": "6400f822c339a7a7c3a38513",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 6,
+        "dateAdded": "2024-07-20T07:03:06.054Z"
+    },
+    {
+        "_id": "669b612c402f5e546ef72922",
+        "chapterTitleBn": "অর্থনীতি ও জীবনযাত্রা: আনুমানিক খ্রিস্টপূর্ব ষষ্ঠ শতক থেকে খ্রিস্টীয় সপ্তম শতকের প্রথম ভাগ",
+        "chapterTitleEn": "Economy and Lifestyle: Approx. 6th Century BCE to Early 7th Century CE",
+        "subjectId": "6400f822c339a7a7c3a38513",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 7,
+        "dateAdded": "2024-07-20T07:03:08.558Z"
+    },
+    {
+        "_id": "669b612f126562707a402734",
+        "chapterTitleBn": "প্রাচীন ভারতীয় উপমহাদেশের সংস্কৃতিচর্চার নানাদিক: শিক্ষা, সাহিত্য, বিজ্ঞান ও শিল্প",
+        "chapterTitleEn": "Various Aspects of Cultural Practices in Ancient Indian Subcontinent: Education, Literature, Science, and Art",
+        "subjectId": "6400f822c339a7a7c3a38513",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 8,
+        "dateAdded": "2024-07-20T07:03:10.699Z"
+    },
+    {
+        "_id": "669b6131290a8247a3d95e0b",
+        "chapterTitleBn": "ভারত ও সমকালীন বহির্বিশ্ব: খ্রিস্টীয় সপ্তম শতকের প্রথম ভাগ পর্যন্ত",
+        "chapterTitleEn": "India and the Contemporary Outside World: Up to the Early 7th Century CE",
+        "subjectId": "6400f822c339a7a7c3a38513",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 9,
+        "dateAdded": "2024-07-20T07:03:12.992Z"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "_id": "669b6695402f5e546e05ad7e",
+        "chapterTitleBn": "গল্পবুড়ো (সুনির্মল বসু)",
+        "chapterTitleEn": "Storyteller (Sunirmal Basu)",
+        "subjectId": "6400f981c17b6f44511efdb6",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 1,
+        "dateAdded": "2024-07-20T07:26:13.384Z"
+    },
+    {
+        "_id": "669b6698402f5e546e05b26a",
+        "chapterTitleBn": "বুনো হাঁস (লীলা মজুমদার)",
+        "chapterTitleEn": "Wild Duck (Leela Majumdar)",
+        "subjectId": "6400f981c17b6f44511efdb6",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 2,
+        "dateAdded": "2024-07-20T07:26:15.787Z"
+    },
+    {
+        "_id": "669b669a126562707a4ec7ed",
+        "chapterTitleBn": "দারোগাবাবু এবং হাবু (ভবানীপ্রসাদ মজুমদার)",
+        "chapterTitleEn": "Inspector Babu and Habu (Bhabaniprasad Majumdar)",
+        "subjectId": "6400f981c17b6f44511efdb6",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 3,
+        "dateAdded": "2024-07-20T07:26:18.043Z"
+    },
+    {
+        "_id": "669b669c402f5e546e05bbbf",
+        "chapterTitleBn": "এতোয়া মুন্ডার কাহিনি (মহাশ্বেতা দেবী)",
+        "chapterTitleEn": "The Story of Etoya Munda (Mahasweta Devi)",
+        "subjectId": "6400f981c17b6f44511efdb6",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 4,
+        "dateAdded": "2024-07-20T07:26:20.576Z"
+    },
+    {
+        "_id": "669b669f290a8247a3e59c8e",
+        "chapterTitleBn": "পাখির কাছে, ফুলের কাছে (আল মাহমুদ)",
+        "chapterTitleEn": "To the Birds, To the Flowers (Al Mahmud)",
+        "subjectId": "6400f981c17b6f44511efdb6",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 5,
+        "dateAdded": "2024-07-20T07:26:22.851Z"
+    },
+    {
+        "_id": "669b66a1126562707a4ed4dd",
+        "chapterTitleBn": "ওরে গৃহবাসী (রবীন্দ্রনাথ ঠাকুর)",
+        "chapterTitleEn": "Oh Home Dweller (Rabindranath Tagore)",
+        "subjectId": "6400f981c17b6f44511efdb6",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 6,
+        "dateAdded": "2024-07-20T07:26:25.601Z"
+    },
+    {
+        "_id": "669b66a4fd25dec61dc996bb",
+        "chapterTitleBn": "বিমলার অভিমান (নবকৃষ্ণ ভট্টাচার্য)",
+        "chapterTitleEn": "Bimala's Resentment (Nabakrishna Bhattacharya)",
+        "subjectId": "6400f981c17b6f44511efdb6",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 7,
+        "dateAdded": "2024-07-20T07:26:27.962Z"
+    },
+    {
+        "_id": "669b66a7fd25dec61dc99b07",
+        "chapterTitleBn": "ছেলেবেলা (রবীন্দ্রনাথ ঠাকুর)",
+        "chapterTitleEn": "Childhood (Rabindranath Tagore)",
+        "subjectId": "6400f981c17b6f44511efdb6",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 8,
+        "dateAdded": "2024-07-20T07:26:30.816Z"
+    }
+]

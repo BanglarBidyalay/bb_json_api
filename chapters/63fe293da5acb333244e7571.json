@@ -1,0 +1,52 @@
+[
+    {
+        "_id": "6400c1ff4d0ce2c6acb4ed1c",
+        "chapterTitleBn": "জীবনের প্রবাহমানতা",
+        "chapterTitleEn": "Continuity of life",
+        "subjectId": "63fe293da5acb333244e7571",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 2,
+        "dateAdded": "2023-03-02T15:34:23.756Z"
+    },
+    {
+        "_id": "6400c2014d0ce2c6acb4ed79",
+        "chapterTitleBn": "অভিব্যক্তি ও অভিযোজন",
+        "chapterTitleEn": "Evolution and adaptation",
+        "subjectId": "63fe293da5acb333244e7571",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 4,
+        "dateAdded": "2023-03-02T15:34:25.676Z"
+    },
+    {
+        "_id": "6400c2024d0ce2c6acb4ed9b",
+        "chapterTitleBn": "পরিবেশ, তার সম্পদ এবং তাদের সংরক্ষণ",
+        "chapterTitleEn": "Environment, its resources and their conservation",
+        "subjectId": "63fe293da5acb333244e7571",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 5,
+        "dateAdded": "2023-03-02T15:34:26.556Z"
+    },
+    {
+        "_id": "6400c1fefd2f151f0b7f674c",
+        "chapterTitleBn": "জীবজগতে নিয়ন্ত্রণ ও সমন্বয়",
+        "chapterTitleEn": "Control and Coordination in living organisms",
+        "subjectId": "63fe293da5acb333244e7571",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 1,
+        "dateAdded": "2023-03-02T15:34:22.611Z"
+    },
+    {
+        "_id": "6400c200baba0f41f9a3e1b3",
+        "chapterTitleBn": "বংশগতি এবং কয়েকটি সাধারণ জিনগত রোগ",
+        "chapterTitleEn": "Heredity and Common genetic diseases",
+        "subjectId": "63fe293da5acb333244e7571",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 3,
+        "dateAdded": "2023-03-02T15:34:24.831Z"
+    }
+]

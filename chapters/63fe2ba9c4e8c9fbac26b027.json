@@ -1,0 +1,112 @@
+[
+    {
+        "_id": "6400dce395f30d7a0e0e5cb7",
+        "chapterTitleBn": "প্রাকৃতিক ঘটনা ও তার বিশ্লেষণ",
+        "chapterTitleEn": "Natural phenomena and their analysis",
+        "subjectId": "63fe2ba9c4e8c9fbac26b027",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 5,
+        "dateAdded": "2023-03-02T17:29:07.276Z"
+    },
+    {
+        "_id": "6400dce795102efb2eacf35a",
+        "chapterTitleBn": "পরিবেশের সংকট ও সংরক্ষণ",
+        "chapterTitleEn": "Environmental crisis and conservation",
+        "subjectId": "63fe2ba9c4e8c9fbac26b027",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 10,
+        "dateAdded": "2023-03-02T17:29:11.421Z"
+    },
+    {
+        "_id": "6400dce295102efb2eacf28d",
+        "chapterTitleBn": "কার্বন ও কার্বনঘটিত যৌগ",
+        "chapterTitleEn": "Carbon and carbonaceous compounds",
+        "subjectId": "63fe2ba9c4e8c9fbac26b027",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 4,
+        "dateAdded": "2023-03-02T17:29:06.275Z"
+    },
+    {
+        "_id": "6400dce495102efb2eacf2e2",
+        "chapterTitleBn": "দেহের গঠন",
+        "chapterTitleEn": "Structure of the body",
+        "subjectId": "63fe2ba9c4e8c9fbac26b027",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 6,
+        "dateAdded": "2023-03-02T17:29:08.227Z"
+    },
+    {
+        "_id": "6400dce1be556f6a0efc9c9d",
+        "chapterTitleBn": "কয়েকটি গ্যাসের পরিচিতি",
+        "chapterTitleEn": "Introduction of a few gases",
+        "subjectId": "63fe2ba9c4e8c9fbac26b027",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 3,
+        "dateAdded": "2023-03-02T17:29:05.234Z"
+    },
+    {
+        "_id": "6400dce5c17b6f44511ad561",
+        "chapterTitleBn": "মানুষের খাদ্য ও খাদ্য উৎপাদন",
+        "chapterTitleEn": "Human food and food production",
+        "subjectId": "63fe2ba9c4e8c9fbac26b027",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 8,
+        "dateAdded": "2023-03-02T17:29:09.797Z"
+    },
+    {
+        "_id": "6400dce895f30d7a0e0e5d94",
+        "chapterTitleBn": "আমাদের চারপাশের পরিবেশ ও উদ্ভিদজগৎ",
+        "chapterTitleEn": "The environment and flora around us",
+        "subjectId": "63fe2ba9c4e8c9fbac26b027",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 11,
+        "dateAdded": "2023-03-02T17:29:12.599Z"
+    },
+    {
+        "_id": "6400dce07bc196d5ad58653f",
+        "chapterTitleBn": "মৌল, যৌগ ও রাসায়নিক বিক্রিয়া",
+        "chapterTitleEn": "Elements, compounds and chemical reactions",
+        "subjectId": "63fe2ba9c4e8c9fbac26b027",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 2,
+        "dateAdded": "2023-03-02T17:29:04.249Z"
+    },
+    {
+        "_id": "6400dce6be556f6a0efc9d72",
+        "chapterTitleBn": "অন্তঃক্ষরা তন্ত্র ও বয়ঃসন্ধি",
+        "chapterTitleEn": "Intrauterine system and puberty",
+        "subjectId": "63fe2ba9c4e8c9fbac26b027",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 9,
+        "dateAdded": "2023-03-02T17:29:10.604Z"
+    },
+    {
+        "_id": "6400dce595102efb2eacf2f9",
+        "chapterTitleBn": "অণুজীবের জগৎ",
+        "chapterTitleEn": "The world of microorganisms",
+        "subjectId": "63fe2ba9c4e8c9fbac26b027",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 7,
+        "dateAdded": "2023-03-02T17:29:08.975Z"
+    },
+    {
+        "_id": "6400dcdfc17b6f44511ad460",
+        "chapterTitleBn": "ভৌত পরিবেশ",
+        "chapterTitleEn": "The physical environment",
+        "subjectId": "63fe2ba9c4e8c9fbac26b027",
+        "isPublished": false,
+        "isDifferentTopicsExist": true,
+        "position": 1,
+        "dateAdded": "2023-03-02T17:29:03.329Z"
+    }
+]

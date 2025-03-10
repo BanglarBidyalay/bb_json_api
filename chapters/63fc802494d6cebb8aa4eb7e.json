@@ -1,0 +1,82 @@
+[
+    {
+        "_id": "63fe28800f2cf777ffd1aee1",
+        "chapterTitleBn": "The Passing Away of Bapu: Nayantara Sehgal",
+        "chapterTitleEn": "The Passing Away of Bapu: Nayantara Sehgal",
+        "subjectId": "63fc802494d6cebb8aa4eb7e",
+        "isPublished": true,
+        "position": 3,
+        "dateAdded": "2023-02-28T16:14:56.060Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "63fe2870a5acb333244e53f7",
+        "chapterTitleBn": "Fable: Ralph Waldo Emerson",
+        "chapterTitleEn": "Fable: Ralph Waldo Emerson",
+        "subjectId": "63fc802494d6cebb8aa4eb7e",
+        "isPublished": true,
+        "position": 2,
+        "dateAdded": "2023-02-28T16:14:40.712Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "63fe28ebec4914ce566298c8",
+        "chapterTitleBn": "The Snail: William Cowper",
+        "chapterTitleEn": "The Snail: William Cowper",
+        "subjectId": "63fc802494d6cebb8aa4eb7e",
+        "isPublished": true,
+        "position": 8,
+        "dateAdded": "2023-02-28T16:16:43.601Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "63fcc217e6d8774e873b5ec0",
+        "chapterTitleBn": "Father's Help: R.K. NarayanFather's",
+        "chapterTitleEn": "Father's Help: R.K. NarayanFather's",
+        "subjectId": "63fc802494d6cebb8aa4eb7e",
+        "isPublished": true,
+        "position": 1,
+        "dateAdded": "2023-02-27T14:45:43.414Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "63fe28da26abd4392c88b724",
+        "chapterTitleBn": "The Cat: Andrew Barton Paterson",
+        "chapterTitleEn": "The Cat: Andrew Barton Paterson",
+        "subjectId": "63fc802494d6cebb8aa4eb7e",
+        "isPublished": true,
+        "position": 7,
+        "dateAdded": "2023-02-28T16:16:26.398Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "63fe289426abd4392c88abf2",
+        "chapterTitleBn": "My Own True family: Ted Hughes",
+        "chapterTitleEn": "My Own True family: Ted Hughes",
+        "subjectId": "63fc802494d6cebb8aa4eb7e",
+        "isPublished": true,
+        "position": 4,
+        "dateAdded": "2023-02-28T16:15:16.264Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "63fe28c8a5acb333244e61f2",
+        "chapterTitleBn": "Sea Fever: John Masefield",
+        "chapterTitleEn": "Sea Fever: John Masefield",
+        "subjectId": "63fc802494d6cebb8aa4eb7e",
+        "isPublished": true,
+        "position": 6,
+        "dateAdded": "2023-02-28T16:16:08.359Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "63fe28b40f2cf777ffd1b7a0",
+        "chapterTitleBn": "Our Runaway Kite: Lucy Maud Montgomery",
+        "chapterTitleEn": "Our Runaway Kite: Lucy Maud Montgomery",
+        "subjectId": "63fc802494d6cebb8aa4eb7e",
+        "isPublished": true,
+        "position": 5,
+        "dateAdded": "2023-02-28T16:15:48.836Z",
+        "isDifferentTopicsExist": false
+    }
+]

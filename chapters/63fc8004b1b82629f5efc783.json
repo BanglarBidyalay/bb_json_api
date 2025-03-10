@@ -1,0 +1,52 @@
+[
+    {
+        "_id": "63fe1fdbdba867d1c146c825",
+        "chapterTitleBn": "সাহিত্য সঞ্চয়ন - কবিতা",
+        "chapterTitleEn": "সাহিত্য সঞ্চয়ন - কবিতা",
+        "subjectId": "63fc8004b1b82629f5efc783",
+        "isPublished": true,
+        "position": 1,
+        "dateAdded": "2023-02-28T15:38:03.213Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "63fe2028c4e8c9fbac230a1e",
+        "chapterTitleBn": "নির্মিতি: অনুবাদ",
+        "chapterTitleEn": "নির্মিতি: অনুবাদ",
+        "subjectId": "63fc8004b1b82629f5efc783",
+        "isPublished": true,
+        "position": 5,
+        "dateAdded": "2023-02-28T15:39:20.711Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "63fe200ca5acb333244b4cc0",
+        "chapterTitleBn": "কোনি",
+        "chapterTitleEn": "কোনি",
+        "subjectId": "63fc8004b1b82629f5efc783",
+        "isPublished": true,
+        "position": 3,
+        "dateAdded": "2023-02-28T15:38:52.521Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "63fe1ff9c4e8c9fbac22f66e",
+        "chapterTitleBn": "সাহিত্য সঞ্চয়ন - গদ্য",
+        "chapterTitleEn": "সাহিত্য সঞ্চয়ন - গদ্য",
+        "subjectId": "63fc8004b1b82629f5efc783",
+        "isPublished": true,
+        "position": 2,
+        "dateAdded": "2023-02-28T15:38:33.830Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "63fe2019ec4914ce565f83cd",
+        "chapterTitleBn": "ব্যাকরণ: কারক ও অকারক সম্পর্ক",
+        "chapterTitleEn": "ব্যাকরণ: কারক ও অকারক সম্পর্ক",
+        "subjectId": "63fc8004b1b82629f5efc783",
+        "isPublished": true,
+        "position": 4,
+        "dateAdded": "2023-02-28T15:39:05.371Z",
+        "isDifferentTopicsExist": false
+    }
+]

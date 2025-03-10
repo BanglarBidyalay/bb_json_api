@@ -1,0 +1,72 @@
+[
+    {
+        "_id": "6400cb23baba0f41f9a5adf4",
+        "chapterTitleBn": "বহির্জাত প্রক্রিয়া ও তাদের দ্বারা সৃষ্ট ভূমিরূপ",
+        "chapterTitleEn": "Exogenetic processes and resultant landforms",
+        "subjectId": "63fe2990c4e8c9fbac26351c",
+        "isPublished": false,
+        "isDifferentTopicsExist": true,
+        "position": 1,
+        "dateAdded": "2023-03-02T16:13:23.356Z"
+    },
+    {
+        "_id": "6400cb2485b98a70bbed6c51",
+        "chapterTitleBn": "বায়ুমণ্ডল",
+        "chapterTitleEn": "Atmosphere",
+        "subjectId": "63fe2990c4e8c9fbac26351c",
+        "isPublished": false,
+        "isDifferentTopicsExist": true,
+        "position": 2,
+        "dateAdded": "2023-03-02T16:13:24.134Z"
+    },
+    {
+        "_id": "6400cb27baba0f41f9a5ae8e",
+        "chapterTitleBn": "ভারত-অর্থনৈতিক পরিবেশ",
+        "chapterTitleEn": "India-Economic environment",
+        "subjectId": "63fe2990c4e8c9fbac26351c",
+        "isPublished": false,
+        "isDifferentTopicsExist": true,
+        "position": 6,
+        "dateAdded": "2023-03-02T16:13:27.513Z"
+    },
+    {
+        "_id": "6400cb264d0ce2c6acb6bc2b",
+        "chapterTitleBn": "ভারত ভূমিকা – ভারত প্রাকৃতিক পরিবেশ",
+        "chapterTitleEn": "India-Introduction, Physical Environment",
+        "subjectId": "63fe2990c4e8c9fbac26351c",
+        "isPublished": false,
+        "isDifferentTopicsExist": true,
+        "position": 5,
+        "dateAdded": "2023-03-02T16:13:26.575Z"
+    },
+    {
+        "_id": "6400cb254d0ce2c6acb6bc05",
+        "chapterTitleBn": "বর্জ্য ব্যবস্থাপনা",
+        "chapterTitleEn": "Waste management",
+        "subjectId": "63fe2990c4e8c9fbac26351c",
+        "isPublished": false,
+        "isDifferentTopicsExist": true,
+        "position": 4,
+        "dateAdded": "2023-03-02T16:13:25.654Z"
+    },
+    {
+        "_id": "6400cb28baba0f41f9a5aeb0",
+        "chapterTitleBn": "উপগ্রহ চিত্র ও ভূ-বৈচিত্র্যসূচক মানচিত্র",
+        "chapterTitleEn": "Satellite imagery and Topographical map",
+        "subjectId": "63fe2990c4e8c9fbac26351c",
+        "isPublished": false,
+        "isDifferentTopicsExist": true,
+        "position": 7,
+        "dateAdded": "2023-03-02T16:13:28.475Z"
+    },
+    {
+        "_id": "6400cb2475da2562beb2aff2",
+        "chapterTitleBn": "বারিমণ্ডল",
+        "chapterTitleEn": "Hydrosphere",
+        "subjectId": "63fe2990c4e8c9fbac26351c",
+        "isPublished": false,
+        "isDifferentTopicsExist": true,
+        "position": 3,
+        "dateAdded": "2023-03-02T16:13:24.890Z"
+    }
+]

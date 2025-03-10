@@ -1,0 +1,145 @@
+[
+    {
+        "_id": "669b5d3b290a8247a3c870fe",
+        "chapterTitleBn": "Revision Lesson",
+        "chapterTitleEn": "Revision Lesson",
+        "subjectId": "6400f81f9799bba273de2074",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 1,
+        "dateAdded": "2024-07-20T06:46:19.206Z"
+    },
+    {
+        "_id": "669b5d3c402f5e546ee59a4c",
+        "chapterTitleBn": "It All Began With Drip-Drip",
+        "chapterTitleEn": "It All Began With Drip-Drip",
+        "subjectId": "6400f81f9799bba273de2074",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 2,
+        "dateAdded": "2024-07-20T06:46:20.290Z"
+    },
+    {
+        "_id": "669b5d3d402f5e546ee59e1a",
+        "chapterTitleBn": "The Adventurous Clown",
+        "chapterTitleEn": "The Adventurous Clown",
+        "subjectId": "6400f81f9799bba273de2074",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 3,
+        "dateAdded": "2024-07-20T06:46:21.764Z"
+    },
+    {
+        "_id": "669b5d3f126562707a2ebaf1",
+        "chapterTitleBn": "The Rainbow",
+        "chapterTitleEn": "The Rainbow",
+        "subjectId": "6400f81f9799bba273de2074",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 4,
+        "dateAdded": "2024-07-20T06:46:22.990Z"
+    },
+    {
+        "_id": "669b5d40126562707a2ebed3",
+        "chapterTitleBn": "The Shop That Never Was",
+        "chapterTitleEn": "The Shop That Never Was",
+        "subjectId": "6400f81f9799bba273de2074",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 5,
+        "dateAdded": "2024-07-20T06:46:24.316Z"
+    },
+    {
+        "_id": "669b5d41402f5e546ee5ac0c",
+        "chapterTitleBn": "Land of the Pharaohs",
+        "chapterTitleEn": "Land of the Pharaohs",
+        "subjectId": "6400f81f9799bba273de2074",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 6,
+        "dateAdded": "2024-07-20T06:46:25.458Z"
+    },
+    {
+        "_id": "669b5d42626d598084e27446",
+        "chapterTitleBn": "How The Little Kite Learned to Fly",
+        "chapterTitleEn": "How The Little Kite Learned to Fly",
+        "subjectId": "6400f81f9799bba273de2074",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 7,
+        "dateAdded": "2024-07-20T06:46:26.638Z"
+    },
+    {
+        "_id": "669b5d44290a8247a3c89057",
+        "chapterTitleBn": "The Magic Fish Bone",
+        "chapterTitleEn": "The Magic Fish Bone",
+        "subjectId": "6400f81f9799bba273de2074",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 8,
+        "dateAdded": "2024-07-20T06:46:28.184Z"
+    },
+    {
+        "_id": "669b5fb5626d598084ed6736",
+        "chapterTitleBn": "Goodbye to the Moon",
+        "chapterTitleEn": "Goodbye to the Moon",
+        "subjectId": "6400f81f9799bba273de2074",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 9,
+        "dateAdded": "2024-07-20T06:56:53.365Z"
+    },
+    {
+        "_id": "669b5fb7402f5e546ef0a477",
+        "chapterTitleBn": "I Will Go With My Father A-ploughing",
+        "chapterTitleEn": "I Will Go With My Father A-ploughing",
+        "subjectId": "6400f81f9799bba273de2074",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 10,
+        "dateAdded": "2024-07-20T06:56:55.519Z"
+    },
+    {
+        "_id": "669b5fbb626d598084ed7ddf",
+        "chapterTitleBn": "Smart Ice Cream",
+        "chapterTitleEn": "Smart Ice Cream",
+        "subjectId": "6400f81f9799bba273de2074",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 11,
+        "dateAdded": "2024-07-20T06:56:59.265Z"
+    },
+    {
+        "_id": "669b5fbe402f5e546ef0bba8",
+        "chapterTitleBn": "The Blind Boy",
+        "chapterTitleEn": "The Blind Boy",
+        "subjectId": "6400f81f9799bba273de2074",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 12,
+        "dateAdded": "2024-07-20T06:57:01.679Z"
+    },
+    {
+        "_id": "669b5fc0626d598084ed9567",
+        "chapterTitleBn": "Rip Van Winkle",
+        "chapterTitleEn": "Rip Van Winkle",
+        "subjectId": "6400f81f9799bba273de2074",
+        "userId": "Automated",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 13,
+        "dateAdded": "2024-07-20T06:57:04.325Z"
+    }
+]

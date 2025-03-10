@@ -1,0 +1,134 @@
+[
+    {
+        "_id": "6519181ac72a1ab0b6d99b65",
+        "chapterTitleBn": "আমাদের চারপাশের ঘটনাসমূহ",
+        "chapterTitleEn": "Amader Charpasher Ghotonasomuho",
+        "subjectId": "6400f8209799bba273de20f3",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 2,
+        "dateAdded": "2023-10-01T06:56:26.784Z"
+    },
+    {
+        "_id": "65191871c72a1ab0b6d9cf54",
+        "chapterTitleBn": "মাপজোক বা পরিমাপ",
+        "chapterTitleEn": "Mapjok ba Porimap",
+        "subjectId": "6400f8209799bba273de20f3",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 5,
+        "dateAdded": "2023-10-01T06:57:53.559Z"
+    },
+    {
+        "_id": "65191873657079e95467f82e",
+        "chapterTitleBn": "মানুষের শরীর",
+        "chapterTitleEn": "Manusher Shorir",
+        "subjectId": "6400f8209799bba273de20f3",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 8,
+        "dateAdded": "2023-10-01T06:57:55.572Z"
+    },
+    {
+        "_id": "65191872657079e95467f7cc",
+        "chapterTitleBn": "তরল ও গ্যাসীয় পদার্থের স্থিতি ও গতি",
+        "chapterTitleEn": "Torol o Gyasiyo Podarther Sthiti o Gati",
+        "subjectId": "6400f8209799bba273de20f3",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 7,
+        "dateAdded": "2023-10-01T06:57:54.936Z"
+    },
+    {
+        "_id": "65191876657079e95467f9cd",
+        "chapterTitleBn": "বর্জ্য পদার্থ",
+        "chapterTitleEn": "Borjo Podarthon",
+        "subjectId": "6400f8209799bba273de20f3",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 12,
+        "dateAdded": "2023-10-01T06:57:58.368Z"
+    },
+    {
+        "_id": "65191874c72a1ab0b6d9d14f",
+        "chapterTitleBn": "জীববৈচিত্র্য ও তার শ্রেণিবিভাগ",
+        "chapterTitleEn": "Jibboichitro o Tar Shrenibibhag",
+        "subjectId": "6400f8209799bba273de20f3",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 10,
+        "dateAdded": "2023-10-01T06:57:56.956Z"
+    },
+    {
+        "_id": "65191870d2475c3cc43ef84b",
+        "chapterTitleBn": "মৌলিক, যৌগিক ও মিশ্র পদার্থ",
+        "chapterTitleEn": "Maulik, Jaugik o Mishro Podarthon",
+        "subjectId": "6400f8209799bba273de20f3",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 3,
+        "dateAdded": "2023-10-01T06:57:52.144Z"
+    },
+    {
+        "_id": "65191870657079e95467f6a3",
+        "chapterTitleBn": "শিলা ও খনিজ পদার্থ",
+        "chapterTitleEn": "Shila o Khonij Podarthon",
+        "subjectId": "6400f8209799bba273de20f3",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 4,
+        "dateAdded": "2023-10-01T06:57:52.905Z"
+    },
+    {
+        "_id": "65191527657079e954661590",
+        "chapterTitleBn": "পরিবেশ ও জীবজগতের পারস্পরিক নির্ভরতা",
+        "chapterTitleEn": "Paribesh o Jibjogoter Parasporik Nirbhorta",
+        "subjectId": "6400f8209799bba273de20f3",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 1,
+        "dateAdded": "2023-10-01T06:43:51.745Z"
+    },
+    {
+        "_id": "65191872ce0a13d3c419d9a6",
+        "chapterTitleBn": "বল ও শক্তির প্রাথমিক ধারণা",
+        "chapterTitleEn": "Bol o Shoktir Prathomik Dharona",
+        "subjectId": "6400f8209799bba273de20f3",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 6,
+        "dateAdded": "2023-10-01T06:57:54.276Z"
+    },
+    {
+        "_id": "65191874c72a1ab0b6d9d0e7",
+        "chapterTitleBn": "সাধারণ যন্ত্রসমূহ",
+        "chapterTitleEn": "Sadharan Jontrsomuho",
+        "subjectId": "6400f8209799bba273de20f3",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 9,
+        "dateAdded": "2023-10-01T06:57:56.227Z"
+    },
+    {
+        "_id": "65191875ce0a13d3c419db9d",
+        "chapterTitleBn": "কতকগুলি বিশেষ প্রাণীর বাসস্থান ও আচার-আচরণ",
+        "chapterTitleEn": "Kotokguli Bishesh Pronir Bashsthan o Achar-Acharon",
+        "subjectId": "6400f8209799bba273de20f3",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 11,
+        "dateAdded": "2023-10-01T06:57:57.658Z"
+    }
+]

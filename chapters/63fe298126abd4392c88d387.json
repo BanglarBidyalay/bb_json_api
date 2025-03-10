@@ -1,0 +1,82 @@
+[
+    {
+        "_id": "6400c99185b98a70bbed1bf8",
+        "chapterTitleBn": "সংঘবদ্ধতার গোড়ার কথা",
+        "chapterTitleEn": "The beginning of the organization",
+        "subjectId": "63fe298126abd4392c88d387",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 4,
+        "dateAdded": "2023-03-02T16:06:41.779Z"
+    },
+    {
+        "_id": "6400c99085b98a70bbed1bd0",
+        "chapterTitleBn": "প্রতিরোধ ও বিদ্রোহ",
+        "chapterTitleEn": "Resistance and rebellion",
+        "subjectId": "63fe298126abd4392c88d387",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 3,
+        "dateAdded": "2023-03-02T16:06:40.875Z"
+    },
+    {
+        "_id": "6400c990fd2f151f0b80e385",
+        "chapterTitleBn": "সংস্কার : বৈশিষ্ট্য ও মূল্যায়ন",
+        "chapterTitleEn": "Reform: Features and evaluation",
+        "subjectId": "63fe298126abd4392c88d387",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 2,
+        "dateAdded": "2023-03-02T16:06:39.873Z"
+    },
+    {
+        "_id": "6400c9924d0ce2c6acb66bc3",
+        "chapterTitleBn": "বিকল্প চিন্তা ও উদ্যোগ (উনিশ শতকের মধ্যভাগ থেকে বিশ শতকের প্রথমভাগ পর্যন্ত): | বৈশিষ্ট্য ও পর্যালোচনা",
+        "chapterTitleEn": "Alternative thinking and initiative (from the mid-nineteenth century to the early twentieth century): | Features and reviews",
+        "subjectId": "63fe298126abd4392c88d387",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 5,
+        "dateAdded": "2023-03-02T16:06:42.722Z"
+    },
+    {
+        "_id": "6400c993baba0f41f9a55e8f",
+        "chapterTitleBn": "বিশ শতকের ভারতে কৃষক, শ্রমিক ও বামপন্থী আন্দোলন: বৈশিষ্ট্য ও পর্যালোচনা",
+        "chapterTitleEn": "Peasant, Workers and Leftist Movements in Twentieth Century India: Features and Review",
+        "subjectId": "63fe298126abd4392c88d387",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 6,
+        "dateAdded": "2023-03-02T16:06:43.643Z"
+    },
+    {
+        "_id": "6400c9954d0ce2c6acb66c35",
+        "chapterTitleBn": "উত্তর-ঔপনিবেশিক ভারত: বিশ শতকের দ্বিতীয় পর্ব (১৯৪৭-১৯৬৪)",
+        "chapterTitleEn": "Post-Colonial India: Second Part of the Twentieth Century (1947-1984)",
+        "subjectId": "63fe298126abd4392c88d387",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 8,
+        "dateAdded": "2023-03-02T16:06:45.651Z"
+    },
+    {
+        "_id": "6400c98ffd2f151f0b80e326",
+        "chapterTitleBn": "ইতিহাসের ধারণা",
+        "chapterTitleEn": "The concept of history",
+        "subjectId": "63fe298126abd4392c88d387",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 1,
+        "dateAdded": "2023-03-02T16:06:38.770Z"
+    },
+    {
+        "_id": "6400c99475da2562beb26059",
+        "chapterTitleBn": "বিশ শতকের ভারতে নারী, ছাত্র ও প্রান্তিক জনগোষ্ঠীর আন্দোলন: বৈশিষ্ট্য ও বিশ্লেষণ",
+        "chapterTitleEn": "Movement of women, students and marginalized people in twentieth century India: Characteristics and analysis",
+        "subjectId": "63fe298126abd4392c88d387",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 7,
+        "dateAdded": "2023-03-02T16:06:44.732Z"
+    }
+]

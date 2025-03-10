@@ -1,0 +1,282 @@
+[
+    {
+        "_id": "6400bf5485b98a70bbeaeee4",
+        "chapterTitleBn": "রাশিবিজ্ঞান : গড়, মধ্যমা, ওজাইভ, সংখ্যাগুরুমান",
+        "chapterTitleEn": "Statistics : Mean , Median, Ogive, Mode.",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 26,
+        "dateAdded": "2023-03-02T15:23:00.463Z"
+    },
+    {
+        "_id": "63fe56fddba867d1c15218b4",
+        "chapterTitleBn": "আয়তঘন",
+        "chapterTitleEn": "Rectangular Parallelepiped or Cuboid",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": true,
+        "position": 4,
+        "dateAdded": "2023-02-28T19:33:17.442Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "6400bf46fd2f151f0b7eb36e",
+        "chapterTitleBn": "ত্রিভুজের পরিবৃত্ত ও অন্তবৃত্ত অঙ্কন",
+        "chapterTitleEn": "Construction : Construction of circumcircle and incircle of a triangle",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 11,
+        "dateAdded": "2023-03-02T15:22:46.241Z"
+    },
+    {
+        "_id": "6400bf496b8a88cc4ce6ca00",
+        "chapterTitleBn": "অংশীদারি কারবার",
+        "chapterTitleEn": "Partnership Business",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 14,
+        "dateAdded": "2023-03-02T15:22:49.173Z"
+    },
+    {
+        "_id": "63fe5712dba867d1c1521ad6",
+        "chapterTitleBn": "অনুপাত ও সমানুপাত",
+        "chapterTitleEn": "Ratio and Proportion",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": true,
+        "position": 5,
+        "dateAdded": "2023-02-28T19:33:38.370Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "63fe56a5a5acb333245680da",
+        "chapterTitleBn": "একচলবিশিষ্ট দ্বিঘাত সমীকরণ",
+        "chapterTitleEn": "Quadratic Equations in one variable",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": true,
+        "position": 1,
+        "dateAdded": "2023-02-28T19:31:49.852Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "63fe5763dba867d1c1522307",
+        "chapterTitleBn": "দ্বিঘাত করণী",
+        "chapterTitleEn": "Quadratic Surd",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": true,
+        "position": 7,
+        "dateAdded": "2023-02-28T19:34:59.805Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "6400bf5375da2562beb031f6",
+        "chapterTitleBn": "ত্রিকোণমিতিক অনুপাতের প্রয়োগ :উচ্চতা ও দূরত্ব",
+        "chapterTitleEn": "Application of Trigonometric Ratios : Heights &amp; Distances",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 25,
+        "dateAdded": "2023-03-02T15:22:59.584Z"
+    },
+    {
+        "_id": "63fe5730a5acb33324568f9a",
+        "chapterTitleBn": "চক্রবৃদ্ধি সুদ (৩বছর পর্যন্ত) ও সমহার বৃদ্ধি বা হ্রাস",
+        "chapterTitleEn": "Compound Interest and Uniform Rate of Increase or Decrease",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": true,
+        "position": 6,
+        "dateAdded": "2023-02-28T19:34:08.075Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "63fe579126abd4392c90e933",
+        "chapterTitleBn": "বৃত্তস্থ কোণ সম্পর্কিত উপপাদ্য",
+        "chapterTitleEn": "Theorems related to Angles in a Circle",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": true,
+        "position": 9,
+        "dateAdded": "2023-02-28T19:35:45.253Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "6400bf4ffd2f151f0b7eb524",
+        "chapterTitleBn": "সদৃশতা",
+        "chapterTitleEn": "Similarity",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 20,
+        "dateAdded": "2023-03-02T15:22:55.000Z"
+    },
+    {
+        "_id": "6400beacbaba0f41f9a30f34",
+        "chapterTitleBn": "দ্বিঘাত করণী",
+        "chapterTitleEn": "Quadratic Surd",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 8,
+        "dateAdded": "2023-03-02T15:20:12.080Z"
+    },
+    {
+        "_id": "6400bf514d0ce2c6acb43be2",
+        "chapterTitleBn": "ত্রিকোণমিতিক অনুপাত এবং ত্রিকোণমিতিক অভেদাবলি",
+        "chapterTitleEn": "Trigonometric Ratios and Trigonometric Identities",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 23,
+        "dateAdded": "2023-03-02T15:22:57.653Z"
+    },
+    {
+        "_id": "63fe56e6ec4914ce566ab78a",
+        "chapterTitleBn": "বৃত্ত সম্পর্কিত উপপাদ্য",
+        "chapterTitleEn": "Theorems related to circle",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": true,
+        "position": 3,
+        "dateAdded": "2023-02-28T19:32:54.364Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "6400bf4b4d0ce2c6acb43a8a",
+        "chapterTitleBn": "সম্পাদ্য : বৃত্তের স্পর্শকঅঙ্কন",
+        "chapterTitleEn": "Construction : Construction of Tangent to a circle",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 16,
+        "dateAdded": "2023-03-02T15:22:51.068Z"
+    },
+    {
+        "_id": "63fe56cac4e8c9fbac2e322d",
+        "chapterTitleBn": "সরল সুদকষা",
+        "chapterTitleEn": "Simple Interest",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": true,
+        "position": 2,
+        "dateAdded": "2023-02-28T19:32:26.765Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "63fe574d0f2cf777ffd9ec6a",
+        "chapterTitleBn": "লম্ব বৃত্তাকার চোঙ",
+        "chapterTitleEn": "Right Circular Cylinder",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": true,
+        "position": 7,
+        "dateAdded": "2023-02-28T19:34:37.565Z",
+        "isDifferentTopicsExist": false
+    },
+    {
+        "_id": "6400bf4dbaba0f41f9a32f47",
+        "chapterTitleBn": "ত্রিকোণমিতি : কোণ পরিমাপের ধারণা",
+        "chapterTitleEn": "Trigonometry : Concept of Measurement of Angle",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 18,
+        "dateAdded": "2023-03-02T15:22:52.995Z"
+    },
+    {
+        "_id": "6400bf454d0ce2c6acb4396d",
+        "chapterTitleBn": "বৃত্তস্থ চতুর্ভুজ সংক্রান্ত উপপাদ্য",
+        "chapterTitleEn": "Theorems related to Cyclic Quadrilateral",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 10,
+        "dateAdded": "2023-03-02T15:22:44.978Z"
+    },
+    {
+        "_id": "6400bf4a85b98a70bbeaecc8",
+        "chapterTitleBn": "বৃত্তের স্পর্শক সংক্রান্ত উপপাদ্য",
+        "chapterTitleEn": "Theorems related to Tangent to a Circle",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 15,
+        "dateAdded": "2023-03-02T15:22:50.048Z"
+    },
+    {
+        "_id": "6400bf4c6b8a88cc4ce6ca96",
+        "chapterTitleBn": "বিভিন্ন ঘনবস্তু সংক্রান্ত বাস্তব সমস্যা",
+        "chapterTitleEn": "Real life Problems related to different Solid Objects",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 17,
+        "dateAdded": "2023-03-02T15:22:51.972Z"
+    },
+    {
+        "_id": "6400bebbfd2f151f0b7e979a",
+        "chapterTitleBn": "বৃত্তস্থ কোণ সম্পর্কিত উপপাদ্য",
+        "chapterTitleEn": "Theorems related to Angles in a Circle",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 9,
+        "dateAdded": "2023-03-02T15:20:27.550Z"
+    },
+    {
+        "_id": "6400bf5075da2562beb03169",
+        "chapterTitleBn": "পিথাগোরাসের উপপাদ্য",
+        "chapterTitleEn": "Pythagoras Theorem",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 22,
+        "dateAdded": "2023-03-02T15:22:56.681Z"
+    },
+    {
+        "_id": "6400bf52baba0f41f9a3306f",
+        "chapterTitleBn": "পূরক কোণের ত্রিকোণমিতিক অনুপাত",
+        "chapterTitleEn": "Trigonometric Ratios of Complementary angle",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 24,
+        "dateAdded": "2023-03-02T15:22:58.557Z"
+    },
+    {
+        "_id": "6400bf476b8a88cc4ce6c9aa",
+        "chapterTitleBn": "গোলক",
+        "chapterTitleEn": "Sphere",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 12,
+        "dateAdded": "2023-03-02T15:22:47.194Z"
+    },
+    {
+        "_id": "6400bf484d0ce2c6acb439fe",
+        "chapterTitleBn": "ভেদ",
+        "chapterTitleEn": "Variation",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 13,
+        "dateAdded": "2023-03-02T15:22:48.315Z"
+    },
+    {
+        "_id": "6400bf4efd2f151f0b7eb4f5",
+        "chapterTitleBn": "লম্ব বৃত্তাকার শঙ্কু",
+        "chapterTitleEn": "Right Circular Cone",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 19,
+        "dateAdded": "2023-03-02T15:22:53.914Z"
+    },
+    {
+        "_id": "6400bf4ffd2f151f0b7eb549",
+        "chapterTitleBn": "সম্পাদ্য :মধ্যসমানুপাতী নির্ণয়",
+        "chapterTitleEn": "Construction: Determination of Mean Proportional",
+        "subjectId": "63fe292ac4e8c9fbac262382",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 21,
+        "dateAdded": "2023-03-02T15:22:55.815Z"
+    }
+]

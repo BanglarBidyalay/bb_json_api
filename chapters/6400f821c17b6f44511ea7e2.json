@@ -1,0 +1,134 @@
+[
+    {
+        "_id": "650f2d3832b76fba5af659f4",
+        "chapterTitleBn": "পৃথিবী কি গোল",
+        "chapterTitleEn": "Is the earth 🌎 Round ",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 0,
+        "dateAdded": "2023-09-23T18:23:52.125Z"
+    },
+    {
+        "_id": "650f2f3d88bae5256a048ed1",
+        "chapterTitleBn": "মানচিত্র",
+        "chapterTitleEn": "Map",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 11,
+        "dateAdded": "2023-09-23T18:32:29.003Z"
+    },
+    {
+        "_id": "650f2eee32b76fba5af6de0b",
+        "chapterTitleBn": "শব্দ দূষণ",
+        "chapterTitleEn": "Sound Pollution",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 9,
+        "dateAdded": "2023-09-23T18:31:10.922Z"
+    },
+    {
+        "_id": "650f2cf032b76fba5af64fdb",
+        "chapterTitleBn": "আকাশ ভরা সূর্য তারা",
+        "chapterTitleEn": "Akash bohara surja Tara",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 0,
+        "dateAdded": "2023-09-23T18:22:40.110Z"
+    },
+    {
+        "_id": "650f2e1a3c0e0594f579f248",
+        "chapterTitleBn": "বরফে ঢাকা মহাদেশ",
+        "chapterTitleEn": "Ice covered continent",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 6,
+        "dateAdded": "2023-09-23T18:27:38.734Z"
+    },
+    {
+        "_id": "650f2e76d70be9bb34b2af4c",
+        "chapterTitleBn": "আবহাওয়া ও জলবায়ু",
+        "chapterTitleEn": "Weather and climate",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 7,
+        "dateAdded": "2023-09-23T18:29:10.514Z"
+    },
+    {
+        "_id": "650f2f1f88bae5256a048a47",
+        "chapterTitleBn": "আমাদের দেশ ভারত",
+        "chapterTitleEn": "Our country India",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 10,
+        "dateAdded": "2023-09-23T18:31:59.606Z"
+    },
+    {
+        "_id": "650f2db565c61803e3b0eb0d",
+        "chapterTitleBn": "পৃথিবীর আবর্তন",
+        "chapterTitleEn": "Rotation of earth",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 4,
+        "dateAdded": "2023-09-23T18:25:57.045Z"
+    },
+    {
+        "_id": "650f2d7497c2b04c52e1f7e4",
+        "chapterTitleBn": "তুমি কোথায় আছো",
+        "chapterTitleEn": "where are you",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 2,
+        "dateAdded": "2023-09-23T18:24:52.644Z"
+    },
+    {
+        "_id": "651ac899b10663bfc332f4c6",
+        "chapterTitleBn": "test topic",
+        "chapterTitleEn": "test topic",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 12,
+        "dateAdded": "2023-10-02T13:41:45.402Z"
+    },
+    {
+        "_id": "650f2dee32b76fba5af6b37a",
+        "chapterTitleBn": "জল স্থল বাতাস",
+        "chapterTitleEn": "Water Land Air",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 5,
+        "dateAdded": "2023-09-23T18:26:54.156Z"
+    },
+    {
+        "_id": "650f2e98d70be9bb34b2b297",
+        "chapterTitleBn": "বায়ু দূষণ",
+        "chapterTitleEn": "Air pollution",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "userId": "Fkltge4ZLib6a4PL8aHpE558j8l1",
+        "isPublished": false,
+        "isDifferentTopicsExist": false,
+        "position": 8,
+        "dateAdded": "2023-09-23T18:29:44.623Z"
+    }
+]
