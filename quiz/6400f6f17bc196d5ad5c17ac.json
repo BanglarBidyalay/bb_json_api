@@ -1,0 +1,128 @@
+[
+    {
+        "quizId": "1",
+        "quizTitle": "পৃথিবীর পরিক্রমণ",
+        "class": "10",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Exploration History",
+            "description": "এই কুইজটি পৃথিবীর পরিক্রমণ সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        },
+        "questions": [
+            {
+                "id": 1,
+                "question": "প্রথম পৃথিবীর পরিক্রমণ কে নেতৃত্ব করেছিলেন?",
+                "timerSeconds": 30,
+                "explanation": "ফার্দিনান্দো ম্যাগেলান ছিলেন যিনি প্রথম পৃথিবীর পরিক্রমণের নেতৃত্ব দেন, যদিও তার মৃত্যু পরে দলের নেতৃত্ব ভিন্ন হয়ে যায়।",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "ফার্দিনান্দো ম্যাগেলান",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "ক্রিস্টোফার কলম্বাস",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "ভাস্কো দা গামা",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "মারকো পোলো",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "question": "ম্যাগেলানের দল কতজন ছিল যাত্রার শুরুতে?",
+                "timerSeconds": 25,
+                "explanation": "ম্যাগেলানের যাত্রা শুরুতে প্রায় ১৫ জন সদস্য ছিল, যারা বিপুল ঝুঁকির সম্মুখীন হন।",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "৫০ জন",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "২০ জন",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "১৫ জন",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "৩০ জন",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "question": "সফল পৃথিবীর পরিক্রমণের প্রমাণ হিসেবে কোন জাহাজটি ফিরে আসে?",
+                "timerSeconds": 20,
+                "explanation": "ভিক্টোরিয়া জাহাজটি পুরো যাত্রার প্রমাণ হিসেবে ফিরে আসার মাধ্যমে সফল পৃথিবী পরিক্রমণের দিকটি নিশ্চিত করে।",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "ভিক্টোরিয়া",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "সেন্ট ফ্রান্সিস",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "এনডুয়ান",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "মেগালান",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "question": "পৃথিবীর পরিক্রমণের মূল উদ্দেশ্য কী ছিল?",
+                "timerSeconds": 30,
+                "explanation": "মূল উদ্দেশ্য ছিল নতুন সাগরপথ আবিষ্কার করে মসলার দেশে পৌঁছানো।",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "পশ্চিমা রুটের মাধ্যমে মসলার দেশে পৌঁছানো",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "বৈজ্ঞানিক গবেষণা",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "ধর্মীয় মিশন",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "পশ্চিমা কলোনির স্থাপন",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]

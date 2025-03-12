@@ -1,0 +1,245 @@
+[
+    {
+        "quizId": "2",
+        "quizTitle": "ভূমির গঠন ও পৃথিবীর আকৃতি",
+        "class": "6",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Geography - Earth’s Shape and Landforms",
+            "description": "এই কুইজটি ভূমির গঠন, পৃথিবীর আকৃতি ও ভূ-প্রকৃতি সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        },
+        "questions": [
+            {
+                "id": 1,
+                "question": "পৃথিবীর প্রকৃত আকৃতি কেমন?",
+                "timerSeconds": 30,
+                "explanation": "পৃথিবী পুরোপুরি গোল নয়, এটি মেরু অঞ্চলে চাপা ও বিষুব অঞ্চলে কিছুটা স্ফীত, তাই এর প্রকৃত আকৃতি ভূগোলবিদেরা ‘ভূ-গোলক’ (Geoid) বলে থাকেন।",
+                "options": [
+                    { "id": "a", "text": "সম্পূর্ণ গোলাকার", "isCorrect": false },
+                    { "id": "b", "text": "ডিম্বাকৃতি", "isCorrect": false },
+                    { "id": "c", "text": "ভূ-গোলক", "isCorrect": true },
+                    { "id": "d", "text": "চতুষ্কোণ", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 2,
+                "question": "ভূমির প্রধান গঠন কত প্রকার?",
+                "timerSeconds": 25,
+                "explanation": "ভূমির প্রধানত তিনটি গঠন রয়েছে – পাহাড়, মালভূমি, ও সমভূমি।",
+                "options": [
+                    { "id": "a", "text": "২ প্রকার", "isCorrect": false },
+                    { "id": "b", "text": "৩ প্রকার", "isCorrect": true },
+                    { "id": "c", "text": "৪ প্রকার", "isCorrect": false },
+                    { "id": "d", "text": "৫ প্রকার", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 3,
+                "question": "নিচের কোনটি সমভূমির উদাহরণ?",
+                "timerSeconds": 20,
+                "explanation": "গঙ্গা-ব্রহ্মপুত্র সমভূমি হলো পৃথিবীর বৃহত্তম বন্যার সমভূমি।",
+                "options": [
+                    { "id": "a", "text": "গঙ্গা-ব্রহ্মপুত্র সমভূমি", "isCorrect": true },
+                    { "id": "b", "text": "দাক্ষিণাত্য মালভূমি", "isCorrect": false },
+                    { "id": "c", "text": "হিমালয় পর্বতমালা", "isCorrect": false },
+                    { "id": "d", "text": "থার মরুভূমি", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 4,
+                "question": "পৃথিবীর ভূপৃষ্ঠের কত শতাংশ জল দ্বারা আবৃত?",
+                "timerSeconds": 30,
+                "explanation": "পৃথিবীর মোট ভূপৃষ্ঠের প্রায় ৭১% জল দ্বারা আবৃত এবং ২৯% স্থলভাগ।",
+                "options": [
+                    { "id": "a", "text": "৫০%", "isCorrect": false },
+                    { "id": "b", "text": "৬০%", "isCorrect": false },
+                    { "id": "c", "text": "৭১%", "isCorrect": true },
+                    { "id": "d", "text": "৮০%", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 5,
+                "question": "সবচেয়ে উঁচু পর্বত কোনটি?",
+                "timerSeconds": 25,
+                "explanation": "মাউন্ট এভারেস্ট পৃথিবীর সর্বোচ্চ পর্বতশৃঙ্গ, যা নেপাল ও তিব্বতের সীমান্তে অবস্থিত।",
+                "options": [
+                    { "id": "a", "text": "কাঞ্চনজঙ্ঘা", "isCorrect": false },
+                    { "id": "b", "text": "মাউন্ট এভারেস্ট", "isCorrect": true },
+                    { "id": "c", "text": "আল্পস পর্বত", "isCorrect": false },
+                    { "id": "d", "text": "অন্ধকার পর্বত", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 6,
+                "question": "মহাসাগরের গভীরতম স্থান কোনটি?",
+                "timerSeconds": 30,
+                "explanation": "ম্যারিয়ানা ট্রেঞ্চ হলো বিশ্বের গভীরতম মহাসাগরীয় খাদ, যা প্রশান্ত মহাসাগরে অবস্থিত।",
+                "options": [
+                    { "id": "a", "text": "ম্যারিয়ানা ট্রেঞ্চ", "isCorrect": true },
+                    { "id": "b", "text": "আটলান্টিক খাদ", "isCorrect": false },
+                    { "id": "c", "text": "হিমালয় খাদ", "isCorrect": false },
+                    { "id": "d", "text": "ক্যারিবিয়ান খাদ", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 7,
+                "question": "পৃথিবীর সবচেয়ে বড় মহাদেশ কোনটি?",
+                "timerSeconds": 20,
+                "explanation": "এশিয়া মহাদেশ পৃথিবীর বৃহত্তম মহাদেশ যা ৪৪.৫৮ মিলিয়ন বর্গকিমি অঞ্চল জুড়ে বিস্তৃত।",
+                "options": [
+                    { "id": "a", "text": "আফ্রিকা", "isCorrect": false },
+                    { "id": "b", "text": "উত্তর আমেরিকা", "isCorrect": false },
+                    { "id": "c", "text": "এশিয়া", "isCorrect": true },
+                    { "id": "d", "text": "অস্ট্রেলিয়া", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 8,
+                "question": "ভূমিকম্প পরিমাপের যন্ত্র কোনটি?",
+                "timerSeconds": 25,
+                "explanation": "ভূমিকম্প পরিমাপের জন্য সিসমোগ্রাফ নামক যন্ত্র ব্যবহার করা হয়।",
+                "options": [
+                    { "id": "a", "text": "বারোমিটার", "isCorrect": false },
+                    { "id": "b", "text": "সিসমোগ্রাফ", "isCorrect": true },
+                    { "id": "c", "text": "অ্যানিমোমিটার", "isCorrect": false },
+                    { "id": "d", "text": "থার্মোমিটার", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 9,
+                "question": "নিচের কোনটি এক জলবায়ু অঞ্চল?",
+                "timerSeconds": 20,
+                "explanation": "বিশ্বব্যাপী জলবায়ু অঞ্চল প্রধানত পাঁচটি – বিষুবীয়, ট্রপিকাল, মরুভূমি, নাতিশীতোষ্ণ ও মেরু।",
+                "options": [
+                    { "id": "a", "text": "ট্রপিকাল", "isCorrect": true },
+                    { "id": "b", "text": "অরণ্য", "isCorrect": false },
+                    { "id": "c", "text": "সাভানা", "isCorrect": false },
+                    { "id": "d", "text": "পাহাড়ি অঞ্চল", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 10,
+                "question": "পৃথিবীর সর্ববৃহৎ মরুভূমি কোনটি?",
+                "timerSeconds": 20,
+                "explanation": "সাহারা পৃথিবীর বৃহত্তম উষ্ণ মরুভূমি, যা উত্তর আফ্রিকায় অবস্থিত।",
+                "options": [
+                    { "id": "a", "text": "সাহারা", "isCorrect": true },
+                    { "id": "b", "text": "গোবি", "isCorrect": false },
+                    { "id": "c", "text": "কালাহারি", "isCorrect": false },
+                    { "id": "d", "text": "আটাকামা", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 11,
+                "question": "পৃথিবীর সবচেয়ে গভীর হ্রদ কোনটি?",
+                "timerSeconds": 25,
+                "explanation": "বাইকাল হ্রদ বিশ্বের গভীরতম হ্রদ, যা রাশিয়ায় অবস্থিত।",
+                "options": [
+                    { "id": "a", "text": "বাইকাল", "isCorrect": true },
+                    { "id": "b", "text": "ভিক্টোরিয়া", "isCorrect": false },
+                    { "id": "c", "text": "টিটিকাকা", "isCorrect": false },
+                    { "id": "d", "text": "হুরন", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 12,
+                "question": "পৃথিবীর বৃহত্তম দ্বীপ কোনটি?",
+                "timerSeconds": 20,
+                "explanation": "গ্রিনল্যান্ড হলো পৃথিবীর বৃহত্তম দ্বীপ।",
+                "options": [
+                    { "id": "a", "text": "গ্রিনল্যান্ড", "isCorrect": true },
+                    { "id": "b", "text": "মাদাগাস্কার", "isCorrect": false },
+                    { "id": "c", "text": "নিউগিনি", "isCorrect": false },
+                    { "id": "d", "text": "সুমাত্রা", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 13,
+                "question": "পৃথিবীর সবচেয়ে দীর্ঘতম নদী কোনটি?",
+                "timerSeconds": 30,
+                "explanation": "নাইল নদী পৃথিবীর দীর্ঘতম নদী হিসেবে পরিচিত।",
+                "options": [
+                    { "id": "a", "text": "নাইল", "isCorrect": true },
+                    { "id": "b", "text": "আমাজন", "isCorrect": false },
+                    { "id": "c", "text": "গঙ্গা", "isCorrect": false },
+                    { "id": "d", "text": "যাংজে", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 14,
+                "question": "ভূগর্ভের সবচেয়ে উপরের স্তরকে কী বলা হয়?",
+                "timerSeconds": 20,
+                "explanation": "ভূগর্ভের সবচেয়ে উপরের স্তর হলো ভূত্বক।",
+                "options": [
+                    { "id": "a", "text": "ভূত্বক", "isCorrect": true },
+                    { "id": "b", "text": "ম্যাণ্টল", "isCorrect": false },
+                    { "id": "c", "text": "কোর", "isCorrect": false },
+                    { "id": "d", "text": "মহামূল্য স্তর", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 15,
+                "question": "ভূ-পৃষ্ঠের গতিশীলতা কীভাবে ঘটে?",
+                "timerSeconds": 25,
+                "explanation": "ভূত্বকীয় প্লেটগুলির সঞ্চালন ও সংঘর্ষের কারণে ভূ-পৃষ্ঠের পরিবর্তন ঘটে।",
+                "options": [
+                    { "id": "a", "text": "ভূত্বকীয় প্লেট চলাচল", "isCorrect": true },
+                    { "id": "b", "text": "বায়ুপ্রবাহ", "isCorrect": false },
+                    { "id": "c", "text": "সাগর প্রবাহ", "isCorrect": false },
+                    { "id": "d", "text": "বৃষ্টিপাত", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 16,
+                "question": "ভূপৃষ্ঠে জল প্রবাহের ফলে সৃষ্টি হয় কোন ভূমিরূপ?",
+                "timerSeconds": 20,
+                "explanation": "নদী দ্বারা সৃষ্টি হয় খাত, জলপ্রপাত ইত্যাদি ভূমিরূপ।",
+                "options": [
+                    { "id": "a", "text": "খাত", "isCorrect": true },
+                    { "id": "b", "text": "মরুভূমি", "isCorrect": false },
+                    { "id": "c", "text": "পাহাড়", "isCorrect": false },
+                    { "id": "d", "text": "অরণ্য", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 17,
+                "question": "পৃথিবীর সবচেয়ে উঁচু মালভূমি কোনটি?",
+                "timerSeconds": 25,
+                "explanation": "তিব্বত মালভূমি পৃথিবীর সবচেয়ে উঁচু মালভূমি।",
+                "options": [
+                    { "id": "a", "text": "তিব্বত মালভূমি", "isCorrect": true },
+                    { "id": "b", "text": "দাক্ষিণাত্য মালভূমি", "isCorrect": false },
+                    { "id": "c", "text": "ডেকান মালভূমি", "isCorrect": false },
+                    { "id": "d", "text": "প্যাম্পাস মালভূমি", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 18,
+                "question": "মৌসুমি বায়ু কোন ঋতুতে প্রবাহিত হয়?",
+                "timerSeconds": 20,
+                "explanation": "গ্রীষ্ম ও বর্ষা ঋতুতে মৌসুমি বায়ু প্রবাহিত হয়।",
+                "options": [
+                    { "id": "a", "text": "গ্রীষ্ম ও বর্ষা", "isCorrect": true },
+                    { "id": "b", "text": "শীতকাল", "isCorrect": false },
+                    { "id": "c", "text": "শরৎকাল", "isCorrect": false },
+                    { "id": "d", "text": "বসন্তকাল", "isCorrect": false }
+                ]
+            },
+            {
+                "id": 19,
+                "question": "পৃথিবীর সর্বাধিক হিমবাহ কোথায় অবস্থিত?",
+                "timerSeconds": 25,
+                "explanation": "আর্কটিক অঞ্চলে পৃথিবীর সর্বাধিক হিমবাহ রয়েছে।",
+                "options": [
+                    { "id": "a", "text": "আর্কটিক অঞ্চল", "isCorrect": true },
+                    { "id": "b", "text": "অ্যান্টার্কটিকা", "isCorrect": false },
+                    { "id": "c", "text": "এশিয়া", "isCorrect": false },
+                    { "id": "d", "text": "আফ্রিকা", "isCorrect": false }
+                ]
+            }
+            
+        ]
+    }
+]
