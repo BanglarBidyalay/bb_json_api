@@ -124,5 +124,271 @@
                 ]
             }
         ]
+    },
+    {
+        "quizId": "3",
+        "quizTitle": "পাহাড় ও পর্বতমালা",
+        "class": "6",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Geography - Mountains",
+            "description": "এই কুইজটি পাহাড়, পর্বতমালা এবং তাদের বৈশিষ্ট্য সম্পর্কে বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        },
+        "questions": [
+            {
+                "id": 1,
+                "question": "বিশ্বের সর্বোচ্চ পর্বতশৃঙ্গ কোনটি?",
+                "timerSeconds": 30,
+                "explanation": "মাউন্ট এভারেস্ট বিশ্বের সর্বোচ্চ পর্বতশৃঙ্গ, যার উচ্চতা ৮,৮৪৮.৮৬ মিটার।",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "কাঞ্চনজঙ্ঘা",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "মাউন্ট এভারেস্ট",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "আল্পস",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "আন্দিজ",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "question": "ভারতের দীর্ঘতম পর্বতমালা কোনটি?",
+                "timerSeconds": 25,
+                "explanation": "হিমালয় পর্বতমালা ভারতের দীর্ঘতম এবং বিশ্বের বৃহত্তম পর্বতমালা।",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "অরবল্লী",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "হিমালয়",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "বিন্দ্য পর্বত",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "সাতপুরা",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "question": "কোনটি ভারতীয় উপমহাদেশের একটি প্রাচীন পর্বতমালা?",
+                "timerSeconds": 20,
+                "explanation": "অরবল্লী পর্বতমালা ভারতীয় উপমহাদেশের অন্যতম প্রাচীন পর্বতমালা।",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "অরবল্লী",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "আন্দিজ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "আল্পস",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "সিয়েরা",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "question": "আন্দিজ পর্বতমালা কোন মহাদেশে অবস্থিত?",
+                "timerSeconds": 30,
+                "explanation": "আন্দিজ পর্বতমালা দক্ষিণ আমেরিকায় অবস্থিত এবং এটি বিশ্বের দীর্ঘতম পর্বতমালা।",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "উত্তর আমেরিকা",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "দক্ষিণ আমেরিকা",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "ইউরোপ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "এশিয়া",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "question": "ভারতের কোন রাজ্যে কাঞ্চনজঙ্ঘা পর্বত অবস্থিত?",
+                "timerSeconds": 25,
+                "explanation": "কাঞ্চনজঙ্ঘা পর্বত সিকিমে অবস্থিত এবং এটি ভারতের সর্বোচ্চ শৃঙ্গ।",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "সিকিম",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "উত্তরাখণ্ড",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "অরুণাচল প্রদেশ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "হিমাচল প্রদেশ",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "question": "পর্বত গঠন প্রক্রিয়ার নাম কী?",
+                "timerSeconds": 30,
+                "explanation": "পর্বত গঠন প্রক্রিয়াকে 'অরোজেনি' (Orogeny) বলা হয়।",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "ভূ-গঠিত প্রক্রিয়া",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "অরোজেনি",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "ভূমিকম্প",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "মহাদেশীয় প্রবাহ",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "question": "কোন পর্বতশ্রেণী ‘বিশ্বের ছাদ’ নামে পরিচিত?",
+                "timerSeconds": 20,
+                "explanation": "হিমালয় পর্বতমালা বিশ্বের উচ্চতম পর্বতশ্রেণী হওয়ায় একে 'বিশ্বের ছাদ' বলা হয়।",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "আন্দিজ",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "আল্পস",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "হিমালয়",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": "d",
+                        "text": "রকি",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "question": "মাউন্ট ফুজি কোন দেশের প্রধান পর্বত?",
+                "timerSeconds": 25,
+                "explanation": "মাউন্ট ফুজি জাপানের একটি বিখ্যাত আগ্নেয় পর্বত।",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "চীন",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "b",
+                        "text": "জাপান",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": "c",
+                        "text": "নেপাল",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "ভুটান",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "question": "কোন ধরনের পর্বত আগ্নেয়গিরি হিসেবে গঠিত হয়?",
+                "timerSeconds": 20,
+                "explanation": "অগ্নিপর্বতগুলি আগ্নেয়গিরির অগ্নুৎপাতের মাধ্যমে গঠিত হয়।",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "অগ্নিপর্বত",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": "b",
+                        "text": "ভাঁজ পর্বত",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "c",
+                        "text": "অবসাদী পর্বত",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": "d",
+                        "text": "প্রাচীন পর্বত",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
     }
 ]
