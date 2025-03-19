@@ -1,0 +1,136 @@
+{
+    "quizId": "3",
+    "quizTitle": "চৌম্বক ক্ষেত্র এবং তড়িৎ প্রবাহ",
+    "class": "10",
+    "subjectId": "PHY101",
+    "chapterId": "CH3",
+    "metadata": {
+        "createdBy": "Banglar Bidyalay Team",
+        "createdDate": "2025-03-12",
+        "durationMinutes": 30,
+        "topic": "Magnetic Fields and Electric Current",
+        "description": "এই কুইজটি চৌম্বক ক্ষেত্র এবং তড়িৎ প্রবাহ সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+    },
+    "questions": [
+        {
+            "id": 1,
+            "question": "চৌম্বক ক্ষেত্র কি?",
+            "timerSeconds": 30,
+            "explanation": "চৌম্বক ক্ষেত্র হল সেই এলাকা যেখানে চৌম্বকীয় বল প্রয়োগ হয়, যা চুম্বকের আকর্ষণ ও বিকর্ষণ সৃষ্টি করে।",
+            "options": [
+                { "id": "a", "text": "একটি স্থিতিশীল ক্ষেত্র", "isCorrect": false },
+                { "id": "b", "text": "একটি চৌম্বকীয় বলের প্রভাব ক্ষেত্র", "isCorrect": true },
+                { "id": "c", "text": "তড়িৎ প্রবাহের ফল", "isCorrect": false },
+                { "id": "d", "text": "একটি আলো তরঙ্গ", "isCorrect": false }
+            ]
+        },
+        {
+            "id": 2,
+            "question": "তড়িৎ প্রবাহ কি?",
+            "timerSeconds": 30,
+            "explanation": "তড়িৎ প্রবাহ হল ইলেকট্রন বা অন্যান্য চার্জধারী কণার ধারাবাহিক গতি, যা বিদ্যুৎ উৎপন্ন করে।",
+            "options": [
+                { "id": "a", "text": "এলোমেলো কণার চলাচল", "isCorrect": false },
+                { "id": "b", "text": "দক্ষিণ থেকে উত্তরে প্রবাহ", "isCorrect": false },
+                { "id": "c", "text": "চার্জধারী কণার ধারাবাহিক গতি", "isCorrect": true },
+                { "id": "d", "text": "বিদ্যুৎ নয়", "isCorrect": false }
+            ]
+        },
+        {
+            "id": 3,
+            "question": "চৌম্বক ক্ষেত্র সৃষ্টি করার প্রধান উৎস কী?",
+            "timerSeconds": 30,
+            "explanation": "চৌম্বক ক্ষেত্র প্রধানত চুম্বক এবং তড়িৎ প্রবাহ উভয় দ্বারা সৃষ্টি হয়।",
+            "options": [
+                { "id": "a", "text": "শুধু চুম্বক", "isCorrect": false },
+                { "id": "b", "text": "শুধু তড়িৎ প্রবাহ", "isCorrect": false },
+                { "id": "c", "text": "চুম্বক এবং তড়িৎ প্রবাহ উভয়ই", "isCorrect": true },
+                { "id": "d", "text": "উচ্চ তাপমাত্রা", "isCorrect": false }
+            ]
+        },
+        {
+            "id": 4,
+            "question": "তড়িৎ প্রবাহের একক কী?",
+            "timerSeconds": 30,
+            "explanation": "তড়িৎ প্রবাহের একক হলো অ্যাম্পিয়ার (Ampere)।",
+            "options": [
+                { "id": "a", "text": "ভোল্ট", "isCorrect": false },
+                { "id": "b", "text": "ওয়াট", "isCorrect": false },
+                { "id": "c", "text": "অ্যাম্পিয়ার", "isCorrect": true },
+                { "id": "d", "text": "ওম", "isCorrect": false }
+            ]
+        },
+        {
+            "id": 5,
+            "question": "কোন বস্তু তড়িৎ প্রবাহ পরিবাহিতা দেখায়?",
+            "timerSeconds": 30,
+            "explanation": "ধাতু সাধারণত ভালো পরিবাহক, কারণ এতে প্রচুর পরিমাণে মুক্ত ইলেকট্রন থাকে।",
+            "options": [
+                { "id": "a", "text": "প্লাস্টিক", "isCorrect": false },
+                { "id": "b", "text": "ধাতু", "isCorrect": true },
+                { "id": "c", "text": "কাঁচ", "isCorrect": false },
+                { "id": "d", "text": "কাগজ", "isCorrect": false }
+            ]
+        },
+        {
+            "id": 6,
+            "question": "একটি বিদ্যুৎ স্রোতের চৌম্বক ক্ষেত্রের দিক কিভাবে নির্ধারিত হয়?",
+            "timerSeconds": 30,
+            "explanation": "ডান হাতের নিয়ম ব্যবহার করে বিদ্যুৎ স্রোতের চৌম্বক ক্ষেত্রের দিক নির্ধারণ করা হয়।",
+            "options": [
+                { "id": "a", "text": "বাম হাতের নিয়ম", "isCorrect": false },
+                { "id": "b", "text": "ডান হাতের নিয়ম", "isCorrect": true },
+                { "id": "c", "text": "উভয় হাতের নিয়ম", "isCorrect": false },
+                { "id": "d", "text": "কোন নিয়ম নেই", "isCorrect": false }
+            ]
+        },
+        {
+            "id": 7,
+            "question": "তড়িৎ প্রবাহের সময় তাপ উৎপন্ন হওয়ার কারণ কী?",
+            "timerSeconds": 30,
+            "explanation": "তড়িৎ প্রবাহ চলাকালীন পরিবাহকের অভ্যন্তরে বিদ্যুৎ প্রতিরোধের কারণে তাপ উৎপন্ন হয়।",
+            "options": [
+                { "id": "a", "text": "কুলিং সিস্টেম", "isCorrect": false },
+                { "id": "b", "text": "বিদ্যুৎ প্রতিরোধ", "isCorrect": true },
+                { "id": "c", "text": "আলোক বিকিরণ", "isCorrect": false },
+                { "id": "d", "text": "চৌম্বক ক্ষেত্র", "isCorrect": false }
+            ]
+        },
+        {
+            "id": 8,
+            "question": "বৈদ্যুতিক বর্তনীতে তড়িৎ প্রবাহ প্রবাহের জন্য কীটি আবশ্যক?",
+            "timerSeconds": 30,
+            "explanation": "একটি সম্পূর্ণ সার্কিট থাকতে হবে যাতে চার্জ ধারাবাহিকভাবে প্রবাহিত হতে পারে।",
+            "options": [
+                { "id": "a", "text": "আংশিক সার্কিট", "isCorrect": false },
+                { "id": "b", "text": "সম্পূর্ণ সার্কিট", "isCorrect": true },
+                { "id": "c", "text": "অপ্রচলিত পরিবাহক", "isCorrect": false },
+                { "id": "d", "text": "কোনো পরিবাহক না থাকলে", "isCorrect": false }
+            ]
+        },
+        {
+            "id": 9,
+            "question": "কোন যন্ত্র তড়িৎ প্রবাহ পরিমাপ করে?",
+            "timerSeconds": 30,
+            "explanation": "অ্যাম্পিয়ারমিটার একটি যন্ত্র যা তড়িৎ প্রবাহ পরিমাপ করতে ব্যবহৃত হয়।",
+            "options": [
+                { "id": "a", "text": "ভোল্টমিটার", "isCorrect": false },
+                { "id": "b", "text": "অ্যাম্পিয়ারমিটার", "isCorrect": true },
+                { "id": "c", "text": "ওহমমিটার", "isCorrect": false },
+                { "id": "d", "text": "ওয়াটমিটার", "isCorrect": false }
+            ]
+        },
+        {
+            "id": 10,
+            "question": "চৌম্বক ক্ষেত্রের শক্তি কোন উপাদানের দ্বারা প্রভাবিত হয়?",
+            "timerSeconds": 30,
+            "explanation": "চৌম্বক ক্ষেত্রের শক্তি প্রধানত তড়িৎ প্রবাহের মান এবং কন্ডাকটরের বৈশিষ্ট্য দ্বারা নির্ধারিত হয়।",
+            "options": [
+                { "id": "a", "text": "উচ্চ তাপমাত্রা", "isCorrect": false },
+                { "id": "b", "text": "কন্ডাকটরের বৈশিষ্ট্য ও তড়িৎ প্রবাহ", "isCorrect": true },
+                { "id": "c", "text": "আলোক বিকিরণ", "isCorrect": false },
+                { "id": "d", "text": "দূরত্ব", "isCorrect": false }
+            ]
+        }
+    ]
+}
