@@ -1,0 +1,324 @@
+[
+    {
+        "quizId": "1",
+        "quizTitle": "পৃথিবীর পরিক্রমণ",
+        "class": "10",
+        "subjectId": "GEO101",
+        "chapterId": "CH1",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Exploration History",
+            "description": "এই কুইজটি পৃথিবীর পরিক্রমণ সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "2",
+        "quizTitle": "রাসায়নিক বিক্রিয়া এবং সমীকরণ",
+        "class": "10",
+        "subjectId": "CHE101",
+        "chapterId": "CH2",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Chemical Reactions",
+            "description": "এই কুইজটি রাসায়নিক বিক্রিয়া এবং সমীকরণ সম্পর্কে বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "3",
+        "quizTitle": "চৌম্বক ক্ষেত্র এবং তড়িৎ প্রবাহ",
+        "class": "10",
+        "subjectId": "PHY101",
+        "chapterId": "CH3",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Magnetic Fields and Electric Current",
+            "description": "এই কুইজটি চৌম্বক ক্ষেত্র এবং তড়িৎ প্রবাহ সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "4",
+        "quizTitle": "জীবের বৈচিত্র্য",
+        "class": "10",
+        "subjectId": "BIO101",
+        "chapterId": "CH4",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Biodiversity",
+            "description": "এই কুইজটি জীবের বৈচিত্র্য সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "5",
+        "quizTitle": "ভারতের স্বাধীনতা সংগ্রাম",
+        "class": "10",
+        "subjectId": "HIS101",
+        "chapterId": "CH5",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Indian Freedom Struggle",
+            "description": "এই কুইজটি ভারতের স্বাধীনতা সংগ্রাম সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "11",
+        "quizTitle": "পৃথিবীর পরিবেশ এবং দূষণ",
+        "class": "10",
+        "subjectId": "ENV101",
+        "chapterId": "CH11",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Environment and Pollution",
+            "description": "এই কুইজটি পৃথিবীর পরিবেশ এবং দূষণ সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "12",
+        "quizTitle": "গণিতের পরিসংখ্যান",
+        "class": "10",
+        "subjectId": "MATH102",
+        "chapterId": "CH12",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Statistics",
+            "description": "এই কুইজটি গণিতের পরিসংখ্যান সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "13",
+        "quizTitle": "ভারতীয় সংবিধান এবং নাগরিক অধিকার",
+        "class": "10",
+        "subjectId": "CIV101",
+        "chapterId": "CH13",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Indian Constitution and Rights",
+            "description": "এই কুইজটি ভারতীয় সংবিধান এবং নাগরিক অধিকার সম্পর্কে বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "14",
+        "quizTitle": "কম্পিউটার নেটওয়ার্ক",
+        "class": "10",
+        "subjectId": "CS101",
+        "chapterId": "CH14",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Computer Networks",
+            "description": "এই কুইজটি কম্পিউটার নেটওয়ার্ক সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "15",
+        "quizTitle": "আলোক তরঙ্গ এবং প্রতিফলন",
+        "class": "10",
+        "subjectId": "PHY103",
+        "chapterId": "CH15",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Light Waves and Reflection",
+            "description": "এই কুইজটি আলো তরঙ্গ এবং প্রতিফলন সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "16",
+        "quizTitle": "ধ্বনি এবং শব্দ",
+        "class": "10",
+        "subjectId": "PHY104",
+        "chapterId": "CH16",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Sound and Waves",
+            "description": "এই কুইজটি ধ্বনি এবং শব্দ সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "17",
+        "quizTitle": "পদার্থের গুণাবলি",
+        "class": "10",
+        "subjectId": "CHE103",
+        "chapterId": "CH17",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Properties of Matter",
+            "description": "এই কুইজটি পদার্থের গুণাবলি সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "18",
+        "quizTitle": "প্রাণীর আচরণ এবং অভিযোজন",
+        "class": "10",
+        "subjectId": "BIO103",
+        "chapterId": "CH18",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Animal Behavior and Adaptation",
+            "description": "এই কুইজটি প্রাণীদের আচরণ এবং অভিযোজন সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "19",
+        "quizTitle": "বিশ্ব ইতিহাসের গুরুত্বপূর্ণ ঘটনা",
+        "class": "10",
+        "subjectId": "HIS102",
+        "chapterId": "CH19",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "World History Events",
+            "description": "এই কুইজটি বিশ্ব ইতিহাসের গুরুত্বপূর্ণ ঘটনা সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "20",
+        "quizTitle": "বাংলা সাহিত্য: রবীন্দ্রনাথের কবিতা",
+        "class": "10",
+        "subjectId": "LIT101",
+        "chapterId": "CH20",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Bengali Literature: Robindronath's Poems",
+            "description": "এই কুইজটি রবীন্দ্রনাথ ঠাকুরের কবিতা সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "21",
+        "quizTitle": "পাতাবাহার Quiz - Part 1",
+        "class": "Class 5",
+        "subjectId": "6400f981c17b6f44511efdb6",
+        "chapterId": "CH1",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "পাতাবাহার Basics",
+            "description": "এই কুইজটি পাতাবাহার বিষয়ের মৌলিক ধারণা নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "22",
+        "quizTitle": "পাতাবাহার Quiz - Part 2",
+        "class": "Class 5",
+        "subjectId": "6400f981c17b6f44511efdb6",
+        "chapterId": "CH2",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "পাতাবাহার Advanced",
+            "description": "এই কুইজটি পাতাবাহার বিষয়ের উন্নত ধারণা নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "23",
+        "quizTitle": "ভাষাপাঠ Quiz - Part 1",
+        "class": "Class 5",
+        "subjectId": "6400f982be556f6a0e00c38c",
+        "chapterId": "CH1",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "ভাষাপাঠ Basics",
+            "description": "এই কুইজটি ভাষাপাঠ বিষয়ের মৌলিক ধারণা নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "24",
+        "quizTitle": "ভাষাপাঠ Quiz - Part 2",
+        "class": "Class 5",
+        "subjectId": "6400f982be556f6a0e00c38c",
+        "chapterId": "CH2",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "ভাষাপাঠ Advanced",
+            "description": "এই কুইজটি ভাষাপাঠ বিষয়ের উন্নত ধারণা নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "25",
+        "quizTitle": "Butterfly Quiz - Part 1",
+        "class": "Class 5",
+        "subjectId": "6400f9827bc196d5ad5c8c0b",
+        "chapterId": "CH1",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Butterfly Basics",
+            "description": "এই কুইজটি Butterfly বিষয়ের মৌলিক ধারণা নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "26",
+        "quizTitle": "Butterfly Quiz - Part 2",
+        "class": "Class 5",
+        "subjectId": "6400f9827bc196d5ad5c8c0b",
+        "chapterId": "CH2",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "Butterfly Advanced",
+            "description": "এই কুইজটি Butterfly বিষয়ের উন্নত ধারণা নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "27",
+        "quizTitle": "আমার গণিত Quiz - Part 1",
+        "class": "Class 5",
+        "subjectId": "6400f983c339a7a7c3a3daf3",
+        "chapterId": "CH1",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "আমার গণিত Basics",
+            "description": "এই কুইজটি আমার গণিত বিষয়ের মৌলিক ধারণা নিয়ে গঠিত।"
+        }
+    },
+    {
+        "quizId": "28",
+        "quizTitle": "আমার গণিত Quiz - Part 2",
+        "class": "Class 5",
+        "subjectId": "6400f983c339a7a7c3a3daf3",
+        "chapterId": "CH2",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2025-03-12",
+            "durationMinutes": 30,
+            "topic": "আমার গণিত Advanced",
+            "description": "এই কুইজটি আমার গণিত বিষয়ের উন্নত ধারণা নিয়ে গঠিত।"
+        }
+    }
+]
