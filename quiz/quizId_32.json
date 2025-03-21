@@ -1,0 +1,126 @@
+{
+    "quizId": "32",
+    "quizTitle": "মন ভালো করা কুইজ",
+    "class": "5",
+    "subjectId": "6400f81c9799bba273de1fca",
+    "chapterId": "POEM05",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2024-10-27",
+      "durationMinutes": 15,
+      "topic": "মন ভালো করা কবিতা",
+      "description": "মন ভালো করা কবিতা থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "শক্তি চট্টোপাধ্যায়ের 'মন ভালো করা' কবিতায় কিসের রোদ্দুরের কথা বলা হয়েছে?",
+        "options": [
+          {"id": "a", "text": "সকালের", "isCorrect": false},
+          {"id": "b", "text": "বিকালের", "isCorrect": false},
+          {"id": "c", "text": "মন-ভালো-করা", "isCorrect": true},
+          {"id": "d", "text": "দুপুরের", "isCorrect": false}
+        ],
+        "explanation": "শক্তি চট্টোপাধ্যায়ের 'মন ভালো করা' কবিতায় মন-ভালো-করা রোদ্দুরের কথা বলা হয়েছে।"
+      },
+      {
+        "id": 2,
+        "question": "মন ভালো করা রোদ্দুরকে কবি কার গায়ের রঙের সঙ্গে তুলনা করেছেন?",
+        "options": [
+          {"id": "a", "text": "পাখির", "isCorrect": false},
+          {"id": "b", "text": "ফুলের", "isCorrect": false},
+          {"id": "c", "text": "মাছরাঙাটির", "isCorrect": true},
+          {"id": "d", "text": "মেঘের", "isCorrect": false}
+        ],
+        "explanation": "মন ভালো করা রোদ্দুরকে কবি মাছরাঙাটির গায়ের রঙের সঙ্গে তুলনা করেছেন।"
+      },
+      {
+        "id": 3,
+        "question": "মাছরাঙাটির গায়ের রং কেমন?",
+        "options": [
+          {"id": "a", "text": "সাদা ও কালো", "isCorrect": false},
+          {"id": "b", "text": "লাল ও হলুদ", "isCorrect": false},
+          {"id": "c", "text": "হ্রস্ব দীর্ঘ নীল-নীলান্ত", "isCorrect": true},
+          {"id": "d", "text": "সবুজ ও খয়েরি", "isCorrect": false}
+        ],
+        "explanation": "মাছরাঙাটির গায়ের রং হ্রস্ব দীর্ঘ নীল-নীলান্ত।"
+      },
+      {
+        "id": 4,
+        "question": "মাছরাঙাটির রং কেমন খর ও শান্ত?",
+        "options": [
+          {"id": "a", "text": "লাল", "isCorrect": false},
+          {"id": "b", "text": "নীল", "isCorrect": true},
+          {"id": "c", "text": "হলুদ", "isCorrect": false},
+          {"id": "d", "text": "সবুজ", "isCorrect": false}
+        ],
+        "explanation": "মাছরাঙাটির রং নীল খর ও শান্ত।"
+      },
+      {
+        "id": 5,
+        "question": "মাছরাঙাটির গায়ে কী পড়ে?",
+        "options": [
+          {"id": "a", "text": "শুধু আলো", "isCorrect": false},
+          {"id": "b", "text": "শুধু হাওয়া", "isCorrect": false},
+          {"id": "c", "text": "আলো ও হাওয়া দুটোই", "isCorrect": true},
+          {"id": "d", "text": "বৃষ্টি", "isCorrect": false}
+        ],
+        "explanation": "মাছরাঙাটির গায়ে আলো ও হাওয়া দুটোই পড়ে।"
+      },
+      {
+        "id": 6,
+        "question": "মাছরাঙাটির গায়ে আলো পড়লে এবং হাওয়া দিলে কী নড়ে?",
+        "options": [
+          {"id": "a", "text": "শুধু পাতা", "isCorrect": false},
+          {"id": "b", "text": "শুধু ডাল", "isCorrect": false},
+          {"id": "c", "text": "পাতারাও", "isCorrect": true},
+          {"id": "d", "text": "ফুল", "isCorrect": false}
+        ],
+        "explanation": "মাছরাঙাটির গায়ে আলো পড়লে এবং হাওয়া দিলে পাতারাও নড়ে।"
+      },
+      {
+        "id": 7,
+        "question": "শক্তি চট্টোপাধ্যায় কোন কলেজের ছাত্র ছিলেন?",
+        "options": [
+          {"id": "a", "text": "স্কটিশ চার্চ কলেজ", "isCorrect": false},
+          {"id": "b", "text": "প্রেসিডেন্সি কলেজ", "isCorrect": true},
+          {"id": "c", "text": "সেন্ট জেভিয়ার্স কলেজ", "isCorrect": false},
+          {"id": "d", "text": "বিদ্যাসাগর কলেজ", "isCorrect": false}
+        ],
+        "explanation": "শক্তি চট্টোপাধ্যায় প্রেসিডেন্সি কলেজের ছাত্র ছিলেন।"
+      },
+      {
+        "id": 8,
+        "question": "শক্তি চট্টোপাধ্যায়ের প্রথম কাব্যগ্রন্থের নাম কী?",
+        "options": [
+          {"id": "a", "text": "হেমন্তের অরণ্যে আমি পোস্টম্যান", "isCorrect": false},
+          {"id": "b", "text": "সোনার মাছি খুন করেছি", "isCorrect": false},
+          {"id": "c", "text": "হে প্রেম, হে নৈঃশব্দ্য", "isCorrect": true},
+          {"id": "d", "text": "যেতে পারি কেন যাব", "isCorrect": false}
+        ],
+        "explanation": "শক্তি চট্টোপাধ্যায়ের প্রথম কাব্যগ্রন্থের নাম হে প্রেম, হে নৈঃশব্দ্য।"
+      },
+      {
+        "id": 9,
+        "question": "'হ্রস্ব' শব্দটির বিপরীতার্থক শব্দ কবিতায় কী ব্যবহার করা হয়েছে?",
+        "options": [
+          {"id": "a", "text": "খর", "isCorrect": false},
+          {"id": "b", "text": "শান্ত", "isCorrect": false},
+          {"id": "c", "text": "দীর্ঘ", "isCorrect": true},
+          {"id": "d","text": "নীল", "isCorrect": false}
+        ],
+        "explanation": "'হ্রস্ব' শব্দটির বিপরীতার্থক শব্দ কবিতায় 'দীর্ঘ' ব্যবহার করা হয়েছে।"
+      },
+      {
+        "id": 10,
+        "question": "'খর' শব্দটির অর্থ কী?",
+        "options": [
+          {"id": "a", "text": "শান্ত", "isCorrect": false},
+          {"id": "b", "text": "ছোট", "isCorrect": false},
+          {"id": "c", "text": "তীব্র", "isCorrect": true},
+          {"id": "d","text": "নীল", "isCorrect": false}
+        ],
+        "explanation": "'খর' শব্দটির অর্থ তীব্র।"
+      }
+    ]
+  }

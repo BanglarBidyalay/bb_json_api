@@ -1,0 +1,126 @@
+{
+    "quizId": "33",
+    "quizTitle": "পশু পাখির ভাষা কুইজ",
+    "class": "5",
+    "subjectId": "6400f81c9799bba273de1fca",
+    "chapterId": "STORY02",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2024-10-27",
+      "durationMinutes": 15,
+      "topic": "পশু পাখির ভাষা গল্প",
+      "description": "পশু পাখির ভাষা গল্প থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "মানুষের অনেক কথার অর্থ কারা বোঝে?",
+        "options": [
+          {"id": "a", "text": "শুধু কুকুর", "isCorrect": false},
+          {"id": "b", "text": "শুধু বেড়াল", "isCorrect": false},
+          {"id": "c", "text": "বুদ্ধিমান জীব -- যেমন কুকুর, বনমানুষ, ঘোড়া প্রভৃতি", "isCorrect": true},
+          {"id": "d", "text": "সব পশুপাখি", "isCorrect": false}
+        ],
+        "explanation": "মানুষের অনেক কথার অর্থ বুদ্ধিমান জীব -- যেমন কুকুর, বনমানুষ, ঘোড়া প্রভৃতি বোঝে।"
+      },
+      {
+        "id": 2,
+        "question": "কোন ডাক শুনে মুরগিরা আসে?",
+        "options": [
+          {"id": "a", "text": "ম্যাও ম্যাও", "isCorrect": false},
+          {"id": "b", "text": "ঘেউ ঘেউ", "isCorrect": false},
+          {"id": "c", "text": "তি-তি", "isCorrect": true},
+          {"id": "d", "text": "সাই-সাই", "isCorrect": false}
+        ],
+        "explanation": "তি-তি ডাক শুনে মুরগিরা আসে।"
+      },
+      {
+        "id": 3,
+        "question": "কোন ডাক শুনে হাঁসেরা আসে?",
+        "options": [
+          {"id": "a", "text": "অ-র-র", "isCorrect": true},
+          {"id": "b", "text": "কঁউ কঁউ", "isCorrect": false},
+          {"id": "c", "text": "সাই-সাই", "isCorrect": false},
+          {"id": "d", "text": "মিউ মিউ", "isCorrect": false}
+        ],
+        "explanation": "অ-র-র ডাক শুনে হাঁসেরা আসে।"
+      },
+      {
+        "id": 4,
+        "question": "হাতির মাহুতের ভাষায় 'বৈঠ' মানে কী?",
+        "options": [
+          {"id": "a", "text": "যাও", "isCorrect": false},
+          {"id": "b", "text": "বস", "isCorrect": true},
+          {"id": "c", "text": "সাবধান", "isCorrect": false},
+          {"id": "d", "text": "কাত হও", "isCorrect": false}
+        ],
+        "explanation": "হাতির মাহুতের ভাষায় 'বৈঠ' মানে বস।"
+      },
+      {
+        "id": 5,
+        "question": "কুকুরের ভয় বা কান্নার শব্দ কেমন?",
+        "options": [
+          {"id": "a", "text": "ঘেউ", "isCorrect": false},
+          {"id": "b", "text": "ওয়াও", "isCorrect": false},
+          {"id": "c", "text": "কেঁউ", "isCorrect": true},
+          {"id": "d", "text": "ম্যাও", "isCorrect": false}
+        ],
+        "explanation": "কুকুরের ভয় বা কান্নার শব্দ কেঁউ।"
+      },
+      {
+        "id": 6,
+        "question": "বেড়ালের রাগ বা ঝগড়ার আওয়াজ কেমন?",
+        "options": [
+          {"id": "a", "text": "মিউ", "isCorrect": false},
+          {"id": "b", "text": "ওয়াও", "isCorrect": false},
+          {"id": "c", "text": "ঘেউ", "isCorrect": false},
+          {"id": "d", "text": "কেঁউ", "isCorrect": false}
+        ],
+        "explanation": "বেড়ালের রাগ বা ঝগড়ার আওয়াজ মিউ।"
+      },
+      {
+        "id": 7,
+        "question": "কিসের নড়া ও কান নাড়ার মধ্যে অনেক অর্থ আছে?",
+        "options": [
+          {"id": "a", "text": "বেড়ালের", "isCorrect": false},
+          {"id": "b", "text": "কুকুরের লেজ", "isCorrect": true},
+          {"id": "c", "text": "হাতির কান", "isCorrect": false},
+          {"id": "d", "text": "ঘোড়ার মাথা", "isCorrect": false}
+        ],
+        "explanation": "কুকুরের লেজ নড়া ও কান নাড়ার মধ্যে অনেক অর্থ আছে।"
+      },
+      {
+        "id": 8,
+        "question": "কোন জাতীয় বনমানুষের ভাষা বিশেষ কিছু নেই?",
+        "options": [
+          {"id": "a", "text": "শিম্পাঞ্জি, ওরাংওটাং", "isCorrect": false},
+          {"id": "b", "text": "ল্যাঙ্গুর", "isCorrect": true},
+          {"id": "c", "text": "হনুমান", "isCorrect": false},
+          {"id": "d", "text": "উল্লুক", "isCorrect": false}
+        ],
+        "explanation": "ল্যাঙ্গুর জাতীয় বনমানুষের ভাষা বিশেষ কিছু নেই।"
+      },
+      {
+        "id": 9,
+        "question": "কোন পশুটি বাঘের চেয়ে ঢের সহজে ভাব পাতায় ও পোষ মানে?",
+        "options": [
+          {"id": "a", "text": "সিংহ", "isCorrect": false},
+          {"id": "b", "text": "হাতি", "isCorrect": true},
+          {"id": "c", "text": "চিতা", "isCorrect": false},
+          {"id": "d", "text": "ভাল্লুক", "isCorrect": false}
+        ],
+        "explanation": "হাতি পশুটি বাঘের চেয়ে ঢের সহজে ভাব পাতায় ও পোষ মানে।"
+      },
+      {
+        "id": 10,
+        "question": "আমিষাশী জন্তুরা কখন কারো সঙ্গে ভাব করে না?",
+        "options": [
+          {"id": "a", "text": "ঘুমানোর সময়", "isCorrect": false},
+          {"id": "b", "text": "খেলার সময়", "isCorrect": false},
+          {"id": "c", "text": "খাবার সময়", "isCorrect": true},
+          {"id": "d", "text": "হাঁটার সময়", "isCorrect": false}
+        ],
+        "explanation": "আমিষাশী জন্তুরা খাবার সময় কারো সঙ্গে ভাব করে না।"
+      }
+    ]
+  }

@@ -1,0 +1,126 @@
+{
+    "quizId": "31",
+    "quizTitle": "পাইন দাঁড়িয়ে আকাশে নয়ন তুলি কুইজ",
+    "class": "5",
+    "subjectId": "6400f81c9799bba273de1fca",
+    "chapterId": "POEM04",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2024-10-27",
+      "durationMinutes": 15,
+      "topic": "পাইন দাঁড়িয়ে আকাশে নয়ন তুলি কবিতা",
+      "description": "পাইন দাঁড়িয়ে আকাশে নয়ন তুলি কবিতা থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "হাইনে-র কবিতা 'পাইন দাঁড়িয়ে আকাশে নয়ন তুলি'-তে পাইন গাছ কোথায় দাঁড়িয়ে আছে?",
+        "options": [
+          {"id": "a", "text": "উত্তরে বুনো নগ্ন পাহাড়ে", "isCorrect": true},
+          {"id": "b", "text": "দক্ষিণে সবুজ উপত্যকায়", "isCorrect": false},
+          {"id": "c", "text": "পশ্চিমে সমুদ্রের ধারে", "isCorrect": false},
+          {"id": "d", "text": "পূর্বে জনবসতির পাশে", "isCorrect": false}
+        ],
+        "explanation": "হাইনে-র কবিতা 'পাইন দাঁড়িয়ে আকাশে নয়ন তুলি'-তে পাইন গাছ উত্তরে বুনো নগ্ন পাহাড়ে দাঁড়িয়ে আছে।"
+      },
+      {
+        "id": 2,
+        "question": "পাইন গাছ আকাশের দিকে তাকিয়ে কেমন পোশাক পরে আছে বলে মনে হয়?",
+        "options": [
+          {"id": "a", "text": "সোনার", "isCorrect": false},
+          {"id": "b", "text": "বরফের রূপালি", "isCorrect": true},
+          {"id": "c", "text": "সবুজের", "isCorrect": false},
+          {"id": "d", "text": "মেঘের সাদা", "isCorrect": false}
+        ],
+        "explanation": "পাইন গাছ আকাশের দিকে তাকিয়ে বরফের রূপালি পোশাক পরে আছে বলে মনে হয়।"
+      },
+      {
+        "id": 3,
+        "question": "পাইন গাছ দিনরাত কী দেখে?",
+        "options": [
+          {"id": "a", "text": "বরফের ঝড়", "isCorrect": false},
+          {"id": "b", "text": "স্বপ্ন", "isCorrect": true},
+          {"id": "c", "text": "আকাশের তারা", "isCorrect": false},
+          {"id": "d", "text": "উড়ে যাওয়া পাখি", "isCorrect": false}
+        ],
+        "explanation": "পাইন গাছ দিনরাত স্বপ্ন দেখে।"
+      },
+      {
+        "id": 4,
+        "question": "পাইন গাছ দূরে কোথায় স্বপ্ন দেখে?",
+        "options": [
+          {"id": "a", "text": "উত্তরে শীতল তুন্দ্রায়", "isCorrect": false},
+          {"id": "b", "text": "মরুভূমি পরে", "isCorrect": true},
+          {"id": "c", "text": "পূর্বে ঘন জঙ্গলে", "isCorrect": false},
+          {"id": "d", "text": "পশ্চিমে রুক্ষ পাথরে", "isCorrect": false}
+        ],
+        "explanation": "পাইন গাছ দূরে মরুভূমি পরে স্বপ্ন দেখে।"
+      },
+      {
+        "id": 5,
+        "question": "মরুভূমিতে কোন গাছ বেদনায় বুক ভরে দাঁড়িয়ে রয়েছে?",
+        "options": [
+          {"id": "a", "text": "খেজুর গাছ", "isCorrect": false},
+          {"id": "b", "text": "পাম গাছ", "isCorrect": true},
+          {"id": "c", "text": "বাবলা গাছ", "isCorrect": false},
+          {"id": "d", "text": "ইউক্যালিপটাস গাছ", "isCorrect": false}
+        ],
+        "explanation": "মরুভূমিতে পাম গাছ বেদনায় বুক ভরে দাঁড়িয়ে রয়েছে।"
+      },
+      {
+        "id": 6,
+        "question": "পাম গাছ কোথায় দাঁড়িয়ে রয়েছে?",
+        "options": [
+          {"id": "a", "text": "বরফে ঢাকা পাহাড়ে", "isCorrect": false},
+          {"id": "b", "text": "সবুজ ঘাসের প্রান্তরে", "isCorrect": false},
+          {"id": "c", "text": "নদীর তীরে", "isCorrect": false},
+          {"id": "d", "text": "মরুতটে", "isCorrect": true}
+        ],
+        "explanation": "পাম গাছ মরুতটে দাঁড়িয়ে রয়েছে।"
+      },
+      {
+        "id": 7,
+        "question": "কবি হাইনরিখ হাইনে কোন দেশের কবি ছিলেন?",
+        "options": [
+          {"id": "a", "text": "ইংল্যান্ড", "isCorrect": false},
+          {"id": "b", "text": "ফ্রান্স", "isCorrect": false},
+          {"id": "c", "text": "জার্মানি", "isCorrect": true},
+          {"id": "d", "text": "রাশিয়া", "isCorrect": false}
+        ],
+        "explanation": "কবি হাইনরিখ হাইনে জার্মানির কবি ছিলেন।"
+      },
+      {
+        "id": 8,
+        "question": "হাইনে-র জন্মস্থান কোন নদীর তীরে অবস্থিত?",
+        "options": [
+          {"id": "a", "text": "ড্যানিয়ুব", "isCorrect": false},
+          {"id": "b", "text": "টেমস", "isCorrect": false},
+          {"id": "c", "text": "রাইন", "isCorrect": true},
+          {"id": "d", "text": "সিন", "isCorrect": false}
+        ],
+        "explanation": "হাইনে-র জন্মস্থান রাইন নদীর তীরে অবস্থিত।"
+      },
+      {
+        "id": 9,
+        "question": "হাইনের লেখা বিখ্যাত কাব্যগীতিগ্রন্থ কোনটি যা তাঁকে বিশ্বজনীন খ্যাতি এনে দিয়েছিল?",
+        "options": [
+          {"id": "a", "text": "নতুন কবিতা", "isCorrect": false},
+          {"id": "b", "text": "জার্মানি: এক শীতের রূপকথা", "isCorrect": false},
+          {"id": "c", "text": "বুখ ডের লিডার (Buch der Lieder)", "isCorrect": true},
+          {"id": "d", "text": "হার্ৎসরাইজে (Horzreise) বা হার্ৎস যাত্রা", "isCorrect": false}
+        ],
+        "explanation": "হাইনের লেখা বিখ্যাত কাব্যগীতিগ্রন্থ বুখ ডের লিডার (Buch der Lieder) যা তাঁকে বিশ্বজনীন খ্যাতি এনে দিয়েছিল।"
+      },
+      {
+        "id": 10,
+        "question": "'মরুতটে' শব্দটির অর্থ কী?",
+        "options": [
+          {"id": "a", "text": "নদীর ধারে", "isCorrect": false},
+          {"id": "b", "text": "মরুভূমির তীরে", "isCorrect": true},
+          {"id": "c", "text": "পাহাড়ের উপরে", "isCorrect": false},
+          {"id": "d", "text": "সমুদ্রের মাঝে", "isCorrect": false}
+        ],
+        "explanation": "'মরুতটে' শব্দটির অর্থ মরুভূমির তীরে।"
+      }
+    ]
+  }

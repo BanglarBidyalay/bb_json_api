@@ -1,0 +1,126 @@
+{
+    "quizId": "29",
+    "quizTitle": "ভরদুপুরে কুইজ",
+    "class": "5",
+    "subjectId": "6400f81c9799bba273de1fca",
+    "chapterId": "POEM05",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2024-10-27",
+      "durationMinutes": 20,
+      "topic": "ভরদুপুরে কবিতা",
+      "description": "নীরেন্দ্রনাথ চক্রবর্তীর 'ভরদুপুরে' কবিতার উপর ভিত্তি করে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "'ভরদুপুরে' কবিতাটিতে কোন গাছের কথা বলা হয়েছে?",
+        "options": [
+          {"id": "a", "text": "বট গাছ", "isCorrect": false},
+          {"id": "b", "text": "অশথ গাছ", "isCorrect": true},
+          {"id": "c", "text": "আম গাছ", "isCorrect": false},
+          {"id": "d", "text": "কাঁঠাল গাছ", "isCorrect": false}
+        ],
+        "explanation": "কবিতায় অশথ গাছের কথা বলা হয়েছে।"
+      },
+      {
+        "id": 2,
+        "question": "অশথ গাছটিকে কবি কী হিসেবে দেখেছেন?",
+        "options": [
+          {"id": "a", "text": "বিশ্রাম নেওয়ার স্থান", "isCorrect": false},
+          {"id": "b", "text": "পথিকজনের ছাতা", "isCorrect": true},
+          {"id": "c", "text": "খেলার মাঠ", "isCorrect": false},
+          {"id": "d", "text": "একটি পুরনো স্মৃতিস্তম্ভ", "isCorrect": false}
+        ],
+        "explanation": "অশথ গাছটিকে কবি পথিকজনের ছাতা হিসেবে দেখেছেন।"
+      },
+      {
+        "id": 3,
+        "question": "অশথ গাছের তলায় ঘাসের গালচে কেমন করে পাতা রয়েছে?",
+        "options": [
+          {"id": "a", "text": "অবহেলায়", "isCorrect": false},
+          {"id": "b", "text": "এলোমেলোভাবে", "isCorrect": false},
+          {"id": "c", "text": "আদর করে", "isCorrect": true},
+          {"id": "d", "text": "শুকনো হয়ে", "isCorrect": false}
+        ],
+        "explanation": "অশথ গাছের তলায় ঘাসের গালচে আদর করে পাতা রয়েছে।"
+      },
+      {
+        "id": 4,
+        "question": "রাখালরা গাছের তলায় শুয়ে কী দেখছে?",
+        "options": [
+          {"id": "a", "text": "মেঘগুলো যায় আকাশটাকে ছুঁয়ে", "isCorrect": true},
+          {"id": "b", "text": "দূরে চড়ে বেড়ানো গোরুবাছুর", "isCorrect": false},
+          {"id": "c", "text": "নদীর ধারের নৌকা", "isCorrect": false},
+          {"id": "d", "text": "ঘুমন্ত মানুষজন", "isCorrect": false}
+        ],
+        "explanation": "রাখালরা গাছের তলায় শুয়ে মেঘগুলো আকাশটাকে ছুঁয়ে যাচ্ছে তা দেখছে।"
+      },
+      {
+        "id": 5,
+        "question": "নদীর ধারে কোনটি শুকনো খড়ের আঁটি বোঝাই করা রয়েছে?",
+        "options": [
+          {"id": "a", "text": "বড়ো নৌকাটি", "isCorrect": false},
+          {"id": "b", "text": "ছোট ডিঙি নৌকা", "isCorrect": true},
+          {"id": "c", "text": "মাছ ধরার জাল", "isCorrect": false},
+          {"id": "d", "text": "বালির বস্তা", "isCorrect": false}
+        ],
+        "explanation": "নদীর ধারে ছোট ডিঙি নৌকা শুকনো খড়ের আঁটি বোঝাই করা রয়েছে।"
+      },
+      {
+        "id": 6,
+        "question": "'ভরদুপুরে' কবিতায় বাতাস কী ওড়াচ্ছে?",
+        "options": [
+          {"id": "a", "text": "গাছের পাতা", "isCorrect": false},
+          {"id": "b", "text": "শুকনো ঘাস", "isCorrect": false},
+          {"id": "c", "text": "মিহিন সাদা ধুলো", "isCorrect": true},
+          {"id": "d", "text": "পাখির পালক", "isCorrect": false}
+        ],
+        "explanation": "কবিতায় বাতাস মিহিন সাদা ধুলো ওড়াচ্ছে।"
+      },
+      {
+        "id": 7,
+        "question": "'আঁচল পেতে বিশ্বভুবন ঘুমোচ্ছে এইখানে' – এই পঙক্তির 'এইখানে' বলতে কবি কোন স্থানটিকে বুঝিয়েছেন?",
+        "options": [
+          {"id": "a", "text": "শুধু কবির ঘর", "isCorrect": false},
+          {"id": "b", "text": "শুধু গ্রামটি", "isCorrect": false},
+          {"id": "c", "text": "ওই বিশেষ ভরদুপুরের শান্ত নিস্তব্ধ প্রকৃতি", "isCorrect": true},
+          {"id": "d", "text": "সমগ্র বাংলাদেশ", "isCorrect": false}
+        ],
+        "explanation": "এইখানে বলতে কবি ওই বিশেষ ভরদুপুরের শান্ত নিস্তব্ধ প্রকৃতিকে বুঝিয়েছেন।"
+      },
+      {
+        "id": 8,
+        "question": "নীরেন্দ্রনাথ চক্রবর্তী তাঁর কর্মজীবন শুরু করেছিলেন কোন পত্রিকার সাংবাদিকরূপে?",
+        "options": [
+          {"id": "a", "text": "আনন্দবাজার পত্রিকা", "isCorrect": false},
+          {"id": "b", "text": "সত্যযুগ পত্রিকা", "isCorrect": true},
+          {"id": "c", "text": "আনন্দমেলা", "isCorrect": false},
+          {"id": "d", "text": "দেশ পত্রিকা", "isCorrect": false}
+        ],
+        "explanation": "নীরেন্দ্রনাথ চক্রবর্তী তাঁর কর্মজীবন শুরু করেছিলেন সত্যযুগ পত্রিকার সাংবাদিকরূপে।"
+      },
+      {
+        "id": 9,
+        "question": "'গালচে' শব্দটির কবিতায় ব্যবহৃত একই অর্থযুক্ত শব্দটি খুঁজে বের করো। ",
+        "options": [
+          {"id": "a", "text": "ছাতা", "isCorrect": false},
+          {"id": "b", "text": "আঁটি", "isCorrect": false},
+          {"id": "c", "text": "পাতা", "isCorrect": true},
+          {"id": "d", "text": "ধুলো", "isCorrect": false}
+        ],
+        "explanation": "'গালচে' শব্দটির কবিতায় ব্যবহৃত একই অর্থযুক্ত শব্দটি হলো 'পাতা'। "
+      },
+      {
+        "id": 10,
+        "question": "'তটিনী' শব্দের একই অর্থযুক্ত শব্দ কবিতা থেকে খুঁজে লেখো।",
+        "options": [
+          {"id": "a", "text": "গাছ", "isCorrect": false},
+          {"id": "b", "text": "রাখাল", "isCorrect": false},
+          {"id": "c", "text": "আকাশ", "isCorrect": false},
+          {"id": "d", "text": "নদী", "isCorrect": true}
+        ],
+        "explanation": "'তটিনী' শব্দের একই অর্থযুক্ত শব্দ কবিতা থেকে হলো 'নদী'। "
+      }
+    ]
+  }
