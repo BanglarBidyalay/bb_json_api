@@ -1,0 +1,126 @@
+{
+    "quizId": "34",
+    "quizTitle": "আকাশ ভরা সূর্য তারা কুইজ",
+    "class": "5",
+    "subjectId": "BEN101",
+    "chapterId": "POEM06",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2024-10-27",
+      "durationMinutes": 15,
+      "topic": "আকাশ ভরা সূর্য তারা কবিতা",
+      "description": "আকাশ ভরা সূর্য তারা কবিতা থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "'আকাশভরা সূর্য-তারা' কবিতাটির লেখক কে?",
+        "options": [
+          {"id": "a", "text": "নীরেন্দ্রনাথ চক্রবর্তী", "isCorrect": false},
+          {"id": "b", "text": "রবীন্দ্রনাথ ঠাকুর", "isCorrect": true},
+          {"id": "c", "text": "জসীমউদ্দিন", "isCorrect": false},
+          {"id": "d", "text": "সুভাষ মুখোপাধ্যায়", "isCorrect": false}
+        ],
+        "explanation": "'আকাশভরা সূর্য-তারা' কবিতাটির লেখক রবীন্দ্রনাথ ঠাকুর।"
+      },
+      {
+        "id": 2,
+        "question": "'বিশ্বভরা প্রাণ' কথাটি কবিতায় কীসের ইঙ্গিত দেয়?",
+        "options": [
+          {"id": "a", "text": "পৃথিবীর সৌন্দর্য", "isCorrect": false},
+          {"id": "b", "text": "জীবনের প্রাচুর্য", "isCorrect": true},
+          {"id": "c", "text": "আকাশের বিশালতা", "isCorrect": false},
+          {"id": "d", "text": "তারার মেলা", "isCorrect": false}
+        ],
+        "explanation": "'বিশ্বভরা প্রাণ' কথাটি কবিতায় জীবনের প্রাচুর্যের ইঙ্গিত দেয়।"
+      },
+      {
+        "id": 3,
+        "question": "কবির 'স্থান' কোথায় বলে কবিতায় উল্লেখ করা হয়েছে?",
+        "options": [
+          {"id": "a", "text": "কেবল আকাশে", "isCorrect": false},
+          {"id": "b", "text": "কেবল পৃথিবীতে", "isCorrect": false},
+          {"id": "c", "text": "আকাশভরা সূর্য-তারা এবং বিশ্বভরা প্রাণের মাঝে", "isCorrect": true},
+          {"id": "d", "text": "অসীম কালের হিল্লোলে", "isCorrect": false}
+        ],
+        "explanation": "কবির 'স্থান' আকাশভরা সূর্য-তারা এবং বিশ্বভরা প্রাণের মাঝে বলে কবিতায় উল্লেখ করা হয়েছে।"
+      },
+      {
+        "id": 4,
+        "question": "কিসের বিস্ময়ে কবির গান জেগে ওঠে?",
+        "options": [
+          {"id": "a", "text": "কেবল আকাশের তারায়", "isCorrect": false},
+          {"id": "b", "text": "কেবল পৃথিবীর প্রাণে", "isCorrect": false},
+          {"id": "c", "text": "আকাশভরা সূর্য-তারা এবং বিশ্বভরা প্রাণের মাঝে নিজের স্থান পেয়ে", "isCorrect": true},
+          {"id": "d", "text": "অসীম কালের জোয়ার-ভাঁটায়", "isCorrect": false}
+        ],
+        "explanation": "আকাশভরা সূর্য-তারা এবং বিশ্বভরা প্রাণের মাঝে নিজের স্থান পেয়ে কবির গান জেগে ওঠে।"
+      },
+      {
+        "id": 5,
+        "question": "'অসীম কালের যে হিল্লোলে জোয়ার-ভাঁটায় ভুবন দোলে' - এখানে 'হিল্লোল' শব্দের অর্থ কী?",
+        "options": [
+          {"id": "a", "text": "ঢেউয়ের শব্দ", "isCorrect": false},
+          {"id": "b", "text": "ঢেউ", "isCorrect": true},
+          {"id": "c", "text": "নদীর স্রোত", "isCorrect": false},
+          {"id": "d", "text": "বাতাসের গতি", "isCorrect": false}
+        ],
+        "explanation": "'অসীম কালের যে হিল্লোলে জোয়ার-ভাঁটায় ভুবন দোলে' - এখানে 'হিল্লোল' শব্দের অর্থ ঢেউ।"
+      },
+      {
+        "id": 6,
+        "question": "কবির রক্তধারায় কিসের টান লেগেছে বলে কবিতায় উল্লেখ আছে?",
+        "options": [
+          {"id": "a", "text": "কেবল প্রকৃতির রূপের", "isCorrect": false},
+          {"id": "b", "text": "কেবল মানুষের ভালোবাসার", "isCorrect": false},
+          {"id": "c", "text": "অসীম কালের হিল্লোলের", "isCorrect": true},
+          {"id": "d", "text": "ঘাসে ঘাসে পা ফেলার", "isCorrect": false}
+        ],
+        "explanation": "কবির রক্তধারায় অসীম কালের হিল্লোলের টান লেগেছে বলে কবিতায় উল্লেখ আছে।"
+      },
+      {
+        "id": 7,
+        "question": "কবি কোথায় পা ফেলেছেন বলে কবিতায় উল্লেখ আছে?",
+        "options": [
+          {"id": "a", "text": "কেবল শহরের পথে", "isCorrect": false},
+          {"id": "b", "text": "কেবল নদীর ধারে", "isCorrect": false},
+          {"id": "c", "text": "বনের পথে ঘাসে ঘাসে", "isCorrect": true},
+          {"id": "d", "text": "কেবল পাহাড়ের চূড়ায়", "isCorrect": false}
+        ],
+        "explanation": "কবি বনের পথে ঘাসে ঘাসে পা ফেলেছেন বলে কবিতায় উল্লেখ আছে।"
+      },
+      {
+        "id": 8,
+        "question": "ফুলের গন্ধে কবির মনে কী জেগেছে বলে কবিতায় বলা হয়েছে?",
+        "options": [
+          {"id": "a", "text": "দুঃখের অনুভূতি", "isCorrect": false},
+          {"id": "b", "text": "চমক", "isCorrect": true},
+          {"id": "c", "text": "বিরক্তির ভাব", "isCorrect": false},
+          {"id": "d", "text": "উদাসীনতা", "isCorrect": false}
+        ],
+        "explanation": "ফুলের গন্ধে কবির মনে চমক জেগেছে বলে কবিতায় বলা হয়েছে।"
+      },
+      {
+        "id": 9,
+        "question": "কবি ধরার বুকে কী ঢেলেছেন বলে কবিতায় উল্লেখ আছে?",
+        "options": [
+          {"id": "a", "text": "কেবল জল", "isCorrect": false},
+          {"id": "b", "text": "কেবল আলো", "isCorrect": false},
+          {"id": "c", "text": "প্রাণ", "isCorrect": true},
+          {"id": "d", "text": "কেবল বাতাস", "isCorrect": false}
+        ],
+        "explanation": "কবি ধরার বুকে প্রাণ ঢেলেছেন বলে কবিতায় উল্লেখ আছে।"
+      },
+      {
+        "id": 10,
+        "question": "কবি কীসের মাঝে অজানাকে সন্ধান করেছেন?",
+        "options": [
+          {"id": "a", "text": "কেবল স্বপ্নের মাঝে", "isCorrect": false},
+          {"id": "b", "text": "কেবল কল্পনার মাঝে", "isCorrect": false},
+          {"id": "c", "text": "জানার মাঝে", "isCorrect": true},
+          {"id": "d", "text": "কেবল নীরবতার মাঝে", "isCorrect": false}
+        ],
+        "explanation": "কবি জানার মাঝে অজানাকে সন্ধান করেছেন।"
+      }
+    ]
+  }
