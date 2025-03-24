@@ -52,9 +52,9 @@
         "id": 4,
         "question": "বিভীষণ দাশ মাস্টারের মতে এমু পাখির বাসস্থান কোথায়?",
         "options": [
-          {"id": "a", "text": "অস্ট্রেলিয়া", "isCorrect": true},
+          {"id": "a", "text": "অস্ট্রেলিয়া", "isCorrect": false},
           {"id": "b", "text": "আফ্রিকা", "isCorrect": false},
-          {"id": "c", "text": "আন্দিজ পর্বতমালা", "isCorrect": false},
+          {"id": "c", "text": "আন্দিজ পর্বতমালা", "isCorrect": true},
           {"id": "d", "text": "হিমালয়", "isCorrect": false}
         ],
         "explanation": "বিভীষণ দাশ মাস্টারের মতে এমু পাখির বাসস্থান অস্ট্রেলিয়াতে।",
