@@ -45,7 +45,8 @@
           {"id": "c", "text": "আকাশের তারা", "isCorrect": false},
           {"id": "d", "text": "উড়ে যাওয়া পাখি", "isCorrect": false}
         ],
-        "explanation": "পাইন গাছ দিনরাত স্বপ্ন দেখে।"
+        "explanation": "পাইন গাছ দিনরাত স্বপ্ন দেখে।",
+        "timerSeconds": 30
       },
       {
         "id": 4,
