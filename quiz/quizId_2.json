@@ -1,0 +1,136 @@
+{
+    "quizId": "2",
+    "quizTitle": "রাসায়নিক বিক্রিয়া এবং সমীকরণ",
+    "class": "10",
+    "subjectId": "CHE101",
+    "chapterId": "CH2",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2025-03-12",
+      "durationMinutes": 30,
+      "topic": "Chemical Reactions",
+      "description": "এই কুইজটি রাসায়নিক বিক্রিয়া এবং সমীকরণ সম্পর্কে বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "নিম্নলিখিত কোনটি রাসায়নিক পরিবর্তনের উদাহরণ?",
+        "options": [
+          {"id": "a", "text": "বরফ গলানো", "isCorrect": false},
+          {"id": "b", "text": "কাগজ পোড়ানো", "isCorrect": true},
+          {"id": "c", "text": "জল ফুটানো", "isCorrect": false},
+          {"id": "d", "text": "চিনি জলে দ্রবীভূত করা", "isCorrect": false}
+        ],
+        "explanation": "কাগজ পোড়ানো একটি রাসায়নিক পরিবর্তন, কারণ এটি নতুন পদার্থ তৈরি করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "রাসায়নিক বিক্রিয়ায় যে পদার্থগুলি অংশগ্রহণ করে, তাদের কী বলে?",
+        "options": [
+          {"id": "a", "text": "উৎপাদক", "isCorrect": false},
+          {"id": "b", "text": "বিকারক", "isCorrect": true},
+          {"id": "c", "text": "ক্যাটালিস্ট", "isCorrect": false},
+          {"id": "d", "text": "ইলেকট্রন", "isCorrect": false}
+        ],
+        "explanation": "রাসায়নিক বিক্রিয়ায় যে পদার্থগুলি অংশগ্রহণ করে, তাদের বিকারক বলে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "নিম্নলিখিত কোনটি একটি তাপমোচী বিক্রিয়া?",
+        "options": [
+          {"id": "a", "text": "সালোকসংশ্লেষণ", "isCorrect": false},
+          {"id": "b", "text": "দহন", "isCorrect": true},
+          {"id": "c", "text": "বাষ্পীভবন", "isCorrect": false},
+          {"id": "d", "text": "গলন", "isCorrect": false}
+        ],
+        "explanation": "দহন একটি তাপমোচী বিক্রিয়া, কারণ এটি তাপ উৎপন্ন করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "একটি রাসায়নিক সমীকরণকে ভারসাম্যযুক্ত করার উদ্দেশ্য কী?",
+        "options": [
+          {"id": "a", "text": "বিক্রিয়ার গতি বাড়ানো", "isCorrect": false},
+          {"id": "b", "text": "বিক্রিয়ার তাপমাত্রা কমানো", "isCorrect": false},
+          {"id": "c", "text": "ভর সংরক্ষণ সূত্র মেনে চলা", "isCorrect": true},
+          {"id": "d", "text": "উৎপাদকের পরিমাণ বাড়ানো", "isCorrect": false}
+        ],
+        "explanation": "একটি রাসায়নিক সমীকরণকে ভারসাম্যযুক্ত করার উদ্দেশ্য ভর সংরক্ষণ সূত্র মেনে চলা।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "লোহার উপর মরিচা পড়া কোন ধরনের বিক্রিয়া?",
+        "options": [
+          {"id": "a", "text": "জারণ-বিজারণ", "isCorrect": true},
+          {"id": "b", "text": "প্রশমন", "isCorrect": false},
+          {"id": "c", "text": "প্রতিস্থাপন", "isCorrect": false},
+          {"id": "d", "text": "যোজন", "isCorrect": false}
+        ],
+        "explanation": "লোহার উপর মরিচা পড়া জারণ-বিজারণ বিক্রিয়া।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "কোন ধরনের বিক্রিয়ায় তাপ শোষিত হয়?",
+        "options": [
+          {"id": "a", "text": "তাপমোচী", "isCorrect": false},
+          {"id": "b", "text": "তাপগ্রাহী", "isCorrect": true},
+          {"id": "c", "text": "দহন", "isCorrect": false},
+          {"id": "d", "text": "প্রশমন", "isCorrect": false}
+        ],
+        "explanation": "তাপগ্রাহী বিক্রিয়ায় তাপ শোষিত হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "নিম্নলিখিত কোনটি প্রতিস্থাপন বিক্রিয়ার উদাহরণ?",
+        "options": [
+          {"id": "a", "text": "কার্বন ও অক্সিজেনের বিক্রিয়া", "isCorrect": false},
+          {"id": "b", "text": "লোহা ও সালফারের বিক্রিয়া", "isCorrect": false},
+          {"id": "c", "text": "জিঙ্ক ও হাইড্রোক্লোরিক অ্যাসিডের বিক্রিয়া", "isCorrect": true},
+          {"id": "d", "text": "সোডিয়াম ক্লোরাইড ও সিলভার নাইট্রেটের বিক্রিয়া", "isCorrect": false}
+        ],
+        "explanation": "জিঙ্ক ও হাইড্রোক্লোরিক অ্যাসিডের বিক্রিয়া একটি প্রতিস্থাপন বিক্রিয়ার উদাহরণ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "প্রশমন বিক্রিয়ায় কী উৎপন্ন হয়?",
+        "options": [
+          {"id": "a", "text": "জল ও লবণ", "isCorrect": true},
+          {"id": "b", "text": "ধাতু ও গ্যাস", "isCorrect": false},
+          {"id": "c", "text": "অ্যাসিড ও ক্ষার", "isCorrect": false},
+          {"id": "d", "text": "শুধু লবণ", "isCorrect": false}
+        ],
+        "explanation": "প্রশমন বিক্রিয়ায় জল ও লবণ উৎপন্ন হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "রাসায়নিক বিক্রিয়ায় ক্যাটালিস্টের ভূমিকা কী?",
+        "options": [
+          {"id": "a", "text": "বিক্রিয়ার গতি কমানো", "isCorrect": false},
+          {"id": "b", "text": "বিক্রিয়ার গতি বাড়ানো", "isCorrect": true},
+          {"id": "c", "text": "উৎপাদকের পরিমাণ বাড়ানো", "isCorrect": false},
+          {"id": "d", "text": "বিকারকের পরিমাণ কমানো", "isCorrect": false}
+        ],
+        "explanation": "রাসায়নিক বিক্রিয়ায় ক্যাটালিস্ট বিক্রিয়ার গতি বাড়ায়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "কোন বিক্রিয়ায় ইলেকট্রনের আদান-প্রদান ঘটে?",
+        "options": [
+          {"id": "a", "text": "জারণ-বিজারণ", "isCorrect": true},
+          {"id": "b", "text": "প্রশমন", "isCorrect": false},
+          {"id": "c", "text": "যোজন", "isCorrect": false},
+          {"id": "d", "text": "প্রতিস্থাপন", "isCorrect": false}
+        ],
+        "explanation": "জারণ-বিজারণ বিক্রিয়ায় ইলেকট্রনের আদান-প্রদান ঘটে।",
+        "timerSeconds": 30
+      }
+    ]
+  }

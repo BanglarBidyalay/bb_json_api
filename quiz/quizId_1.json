@@ -1,0 +1,136 @@
+{
+    "quizId": "1",
+    "quizTitle": "পৃথিবীর পরিক্রমণ",
+    "class": "10",
+    "subjectId": "GEO101",
+    "chapterId": "CH1",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2025-03-12",
+      "durationMinutes": 30,
+      "topic": "Exploration History",
+      "description": "এই কুইজটি পৃথিবীর পরিক্রমণ সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "পৃথিবীর অক্ষ তার কক্ষপথের সাথে কত ডিগ্রি কোণে হেলে থাকে?",
+        "options": [
+          {"id": "a", "text": "২৩.৫ ডিগ্রি", "isCorrect": true},
+          {"id": "b", "text": "২২.৫ ডিগ্রি", "isCorrect": false},
+          {"id": "c", "text": "২৫ ডিগ্রি", "isCorrect": false},
+          {"id": "d", "text": "৩০ ডিগ্রি", "isCorrect": false}
+        ],
+        "explanation": "পৃথিবীর অক্ষ তার কক্ষপথের সাথে ২৩.৫ ডিগ্রি কোণে হেলে থাকে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "পৃথিবীর বার্ষিক গতির ফলে কোন ঘটনাটি ঘটে?",
+        "options": [
+          {"id": "a", "text": "দিনরাত্রি সংঘটিত হওয়া", "isCorrect": false},
+          {"id": "b", "text": "ঋতু পরিবর্তন", "isCorrect": true},
+          {"id": "c", "text": "জোয়ারভাটা", "isCorrect": false},
+          {"id": "d", "text": "সূর্যগ্রহণ", "isCorrect": false}
+        ],
+        "explanation": "পৃথিবীর বার্ষিক গতির ফলে ঋতু পরিবর্তন ঘটে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "পৃথিবীর কক্ষপথের আকৃতি কেমন?",
+        "options": [
+          {"id": "a", "text": "বৃত্তাকার", "isCorrect": false},
+          {"id": "b", "text": "উপবৃত্তাকার", "isCorrect": true},
+          {"id": "c", "text": "বর্গাকার", "isCorrect": false},
+          {"id": "d", "text": "ত্রিভুজাকার", "isCorrect": false}
+        ],
+        "explanation": "পৃথিবীর কক্ষপথের আকৃতি উপবৃত্তাকার।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "কোন তারিখে উত্তর গোলার্ধে দীর্ঘতম দিন হয়?",
+        "options": [
+          {"id": "a", "text": "২১ মার্চ", "isCorrect": false},
+          {"id": "b", "text": "২২ ডিসেম্বর", "isCorrect": false},
+          {"id": "c", "text": "২১ জুন", "isCorrect": true},
+          {"id": "d", "text": "২৩ সেপ্টেম্বর", "isCorrect": false}
+        ],
+        "explanation": "২১ জুন উত্তর গোলার্ধে দীর্ঘতম দিন হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "কোন তারিখে পৃথিবীর সর্বত্র দিনরাত্রি সমান হয়?",
+        "options": [
+          {"id": "a", "text": "২১ জুন", "isCorrect": false},
+          {"id": "b", "text": "২২ ডিসেম্বর", "isCorrect": false},
+          {"id": "c", "text": "২১ মার্চ ও ২৩ সেপ্টেম্বর", "isCorrect": true},
+          {"id": "d", "text": "কোনটিই নয়", "isCorrect": false}
+        ],
+        "explanation": "২১ মার্চ ও ২৩ সেপ্টেম্বর পৃথিবীর সর্বত্র দিনরাত্রি সমান হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "পৃথিবীর পরিক্রমণ গতি কত?",
+        "options": [
+          {"id": "a", "text": "২০ কিমি/সেকেন্ড", "isCorrect": false},
+          {"id": "b", "text": "৩০ কিমি/সেকেন্ড", "isCorrect": true},
+          {"id": "c", "text": "৪০ কিমি/সেকেন্ড", "isCorrect": false},
+          {"id": "d", "text": "৫০ কিমি/সেকেন্ড", "isCorrect": false}
+        ],
+        "explanation": "পৃথিবীর পরিক্রমণ গতি ৩০ কিমি/সেকেন্ড।",
+        "timerSeconds": 30
+      },
+          {
+        "id": 7,
+        "question": "কোন তারিখে দক্ষিণ গোলার্ধে দীর্ঘতম দিন হয়?",
+        "options": [
+          {"id": "a", "text": "২১ মার্চ", "isCorrect": false},
+          {"id": "b", "text": "২২ ডিসেম্বর", "isCorrect": true},
+          {"id": "c", "text": "২১ জুন", "isCorrect": false},
+          {"id": "d", "text": "২৩ সেপ্টেম্বর", "isCorrect": false}
+        ],
+        "explanation": "২২ ডিসেম্বর দক্ষিণ গোলার্ধে দীর্ঘতম দিন হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "পৃথিবীর সূর্যকে একবার প্রদক্ষিণ করতে কত সময় লাগে?",
+        "options": [
+          {"id": "a", "text": "৩৬৫ দিন ৬ ঘণ্টা", "isCorrect": true},
+          {"id": "b", "text": "৩৬৫ দিন ৫ ঘণ্টা", "isCorrect": false},
+          {"id": "c", "text": "৩৬৫ দিন ৪ ঘণ্টা", "isCorrect": false},
+          {"id": "d", "text": "৩৬৫ দিন ৭ ঘণ্টা", "isCorrect": false}
+        ],
+        "explanation": "পৃথিবীর সূর্যকে একবার প্রদক্ষিণ করতে ৩৬৫ দিন ৬ ঘণ্টা সময় লাগে।",
+        "timerSeconds": 30
+      },
+          {
+        "id": 9,
+        "question": "কোন গতির ফলে দিন ও রাতের দৈর্ঘ্য পরিবর্তন হয়?",
+        "options": [
+          {"id": "a", "text": "আহ্নিক গতি", "isCorrect": false},
+          {"id": "b", "text": "বার্ষিক গতি", "isCorrect": true},
+          {"id": "c", "text": "জোয়ারভাটা", "isCorrect": false},
+          {"id": "d", "text": "মহাকর্ষ", "isCorrect": false}
+        ],
+        "explanation": "বার্ষিক গতির ফলে দিন ও রাতের দৈর্ঘ্য পরিবর্তন হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "পৃথিবীর নিকটতম ও দূরতম অবস্থানের নাম কি?",
+        "options": [
+          {"id": "a", "text": "অপসূর ও অনুসূর", "isCorrect": true},
+          {"id": "b", "text": "অনুসূর ও অপসূর", "isCorrect": false},
+          {"id": "c", "text": "উত্তর অয়নান্ত ও দক্ষিণ অয়নান্ত", "isCorrect": false},
+          {"id": "d", "text": "মহাবিষুব ও জলবিষুব", "isCorrect": false}
+        ],
+        "explanation": "পৃথিবীর নিকটতম ও দূরতম অবস্থানের নাম যথাক্রমে অনুসূর ও অপসূর।",
+        "timerSeconds": 30
+      }
+    ]
+  }

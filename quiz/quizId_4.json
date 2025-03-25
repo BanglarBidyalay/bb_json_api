@@ -1,0 +1,136 @@
+{
+    "quizId": "4",
+    "quizTitle": "জীবের বৈচিত্র্য",
+    "class": "10",
+    "subjectId": "BIO101",
+    "chapterId": "CH4",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2025-03-12",
+      "durationMinutes": 30,
+      "topic": "Biodiversity",
+      "description": "এই কুইজটি জীবের বৈচিত্র্য সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "জীবের বৈচিত্র্য বলতে কী বোঝায়?",
+        "options": [
+          {"id": "a", "text": "একটি নির্দিষ্ট প্রজাতির মধ্যে ভিন্নতা", "isCorrect": false},
+          {"id": "b", "text": "বিভিন্ন প্রজাতির মধ্যে পার্থক্য", "isCorrect": true},
+          {"id": "c", "text": "একটি অঞ্চলের জলবায়ুর পরিবর্তন", "isCorrect": false},
+          {"id": "d", "text": "একটি অঞ্চলের মাটির গুণাগুণ", "isCorrect": false}
+        ],
+        "explanation": "জীবের বৈচিত্র্য বলতে বিভিন্ন প্রজাতির মধ্যে পার্থক্য বোঝায়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "জীবের বৈচিত্র্য কিসের উপর নির্ভর করে?",
+        "options": [
+          {"id": "a", "text": "জলবায়ু", "isCorrect": false},
+          {"id": "b", "text": "ভূগোল", "isCorrect": false},
+          {"id": "c", "text": "জেনেটিক বৈচিত্র্য", "isCorrect": true},
+          {"id": "d", "text": "উপরের সবগুলো", "isCorrect": true}
+        ],
+        "explanation": "জীবের বৈচিত্র্য জলবায়ু, ভূগোল এবং জেনেটিক বৈচিত্র্য সবকিছুর উপরেই নির্ভর করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "নিম্নলিখিত কোনটি জীববৈচিত্র্যের ক্ষতি করে?",
+        "options": [
+          {"id": "a", "text": "বন সংরক্ষণ", "isCorrect": false},
+          {"id": "b", "text": "বন্যপ্রাণী সংরক্ষণ", "isCorrect": false},
+          {"id": "c", "text": "দূষণ", "isCorrect": true},
+          {"id": "d", "text": "পুনর্বনায়ন", "isCorrect": false}
+        ],
+        "explanation": "দূষণ জীববৈচিত্র্যের ক্ষতি করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "জীববৈচিত্র্য সংরক্ষণের প্রধান উদ্দেশ্য কী?",
+        "options": [
+          {"id": "a", "text": "প্রজাতির সংখ্যা কমানো", "isCorrect": false},
+          {"id": "b", "text": "প্রজাতির সংখ্যা বাড়ানো", "isCorrect": true},
+          {"id": "c", "text": "প্রাকৃতিক ভারসাম্য নষ্ট করা", "isCorrect": false},
+          {"id": "d", "text": "কৃষি উৎপাদন কমানো", "isCorrect": false}
+        ],
+        "explanation": "জীববৈচিত্র্য সংরক্ষণের প্রধান উদ্দেশ্য প্রজাতির সংখ্যা বাড়ানো।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "নিম্নলিখিত কোনটি জীববৈচিত্র্যের হটস্পট?",
+        "options": [
+          {"id": "a", "text": "মরুভূমি", "isCorrect": false},
+          {"id": "b", "text": "বৃষ্টি অরণ্য", "isCorrect": true},
+          {"id": "c", "text": "শীতল অঞ্চল", "isCorrect": false},
+          {"id": "d", "text": "কৃষি জমি", "isCorrect": false}
+        ],
+        "explanation": "বৃষ্টি অরণ্য জীববৈচিত্র্যের হটস্পট।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "জীববৈচিত্র্যের গুরুত্ব কী?",
+        "options": [
+          {"id": "a", "text": "খাদ্য সরবরাহ", "isCorrect": false},
+          {"id": "b", "text": "ঔষধ সরবরাহ", "isCorrect": false},
+          {"id": "c", "text": "প্রাকৃতিক ভারসাম্য রক্ষা করা", "isCorrect": false},
+          {"id": "d", "text": "উপরের সবগুলো", "isCorrect": true}
+        ],
+        "explanation": "জীববৈচিত্র্য খাদ্য ও ঔষধ সরবরাহ এবং প্রাকৃতিক ভারসাম্য রক্ষা করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "কোন সংস্থা জীববৈচিত্র্য সংরক্ষণে কাজ করে?",
+        "options": [
+          {"id": "a", "text": "WHO", "isCorrect": false},
+          {"id": "b", "text": "UNESCO", "isCorrect": true},
+          {"id": "c", "text": "UNICEF", "isCorrect": false},
+          {"id": "d", "text": "FAO", "isCorrect": false}
+        ],
+        "explanation": "UNESCO জীববৈচিত্র্য সংরক্ষণে কাজ করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "জীববৈচিত্র্য কিসের মাধ্যমে পরিমাপ করা হয়?",
+        "options": [
+          {"id": "a", "text": "প্রজাতির সংখ্যা", "isCorrect": false},
+          {"id": "b", "text": "জেনেটিক বৈচিত্র্য", "isCorrect": false},
+          {"id": "c", "text": "ইকোসিস্টেমের বৈচিত্র্য", "isCorrect": false},
+          {"id": "d", "text": "উপরের সবগুলো", "isCorrect": true}
+        ],
+        "explanation": "জীববৈচিত্র্য প্রজাতির সংখ্যা, জেনেটিক বৈচিত্র্য এবং ইকোসিস্টেমের বৈচিত্র্য সবকিছুর মাধ্যমে পরিমাপ করা হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "কোন প্রক্রিয়াটি জীববৈচিত্র্যকে প্রভাবিত করে?",
+        "options": [
+          {"id": "a", "text": "জলবায়ু পরিবর্তন", "isCorrect": true},
+          {"id": "b", "text": "বন সংরক্ষণ", "isCorrect": false},
+          {"id": "c", "text": "বন্যপ্রাণী সংরক্ষণ", "isCorrect": false},
+          {"id": "d", "text": "পুনর্বনায়ন", "isCorrect": false}
+        ],
+        "explanation": "জলবায়ু পরিবর্তন জীববৈচিত্র্যকে প্রভাবিত করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "জীববৈচিত্র্য সংরক্ষণের জন্য কোন নীতি গ্রহণ করা উচিত?",
+        "options": [
+          {"id": "a", "text": "টেকসই উন্নয়ন", "isCorrect": true},
+          {"id": "b", "text": "শিল্পায়ন", "isCorrect": false},
+          {"id": "c", "text": "শহরায়ন", "isCorrect": false},
+          {"id": "d", "text": "কৃষি সম্প্রসারণ", "isCorrect": false}
+        ],
+        "explanation": "জীববৈচিত্র্য সংরক্ষণের জন্য টেকসই উন্নয়ন নীতি গ্রহণ করা উচিত।",
+        "timerSeconds": 30
+      }
+    ]
+  }
