@@ -21,7 +21,8 @@
           {"id": "c", "text": "বুদ্ধিমান জীব -- যেমন কুকুর, বনমানুষ, ঘোড়া প্রভৃতি", "isCorrect": true},
           {"id": "d", "text": "সব পশুপাখি", "isCorrect": false}
         ],
-        "explanation": "মানুষের অনেক কথার অর্থ বুদ্ধিমান জীব -- যেমন কুকুর, বনমানুষ, ঘোড়া প্রভৃতি বোঝে।"
+        "explanation": "মানুষের অনেক কথার অর্থ বুদ্ধিমান জীব -- যেমন কুকুর, বনমানুষ, ঘোড়া প্রভৃতি বোঝে।",
+        "timerSeconds": 30
       },
       {
         "id": 2,
@@ -32,7 +33,8 @@
           {"id": "c", "text": "তি-তি", "isCorrect": true},
           {"id": "d", "text": "সাই-সাই", "isCorrect": false}
         ],
-        "explanation": "তি-তি ডাক শুনে মুরগিরা আসে।"
+        "explanation": "তি-তি ডাক শুনে মুরগিরা আসে।",
+        "timerSeconds": 30
       },
       {
         "id": 3,
@@ -43,7 +45,8 @@
           {"id": "c", "text": "সাই-সাই", "isCorrect": false},
           {"id": "d", "text": "মিউ মিউ", "isCorrect": false}
         ],
-        "explanation": "অ-র-র ডাক শুনে হাঁসেরা আসে।"
+        "explanation": "অ-র-র ডাক শুনে হাঁসেরা আসে।",
+        "timerSeconds": 30
       },
       {
         "id": 4,
@@ -54,7 +57,8 @@
           {"id": "c", "text": "সাবধান", "isCorrect": false},
           {"id": "d", "text": "কাত হও", "isCorrect": false}
         ],
-        "explanation": "হাতির মাহুতের ভাষায় 'বৈঠ' মানে বস।"
+        "explanation": "হাতির মাহুতের ভাষায় 'বৈঠ' মানে বস।",
+        "timerSeconds": 30
       },
       {
         "id": 5,
@@ -65,7 +69,8 @@
           {"id": "c", "text": "কেঁউ", "isCorrect": true},
           {"id": "d", "text": "ম্যাও", "isCorrect": false}
         ],
-        "explanation": "কুকুরের ভয় বা কান্নার শব্দ কেঁউ।"
+        "explanation": "কুকুরের ভয় বা কান্নার শব্দ কেঁউ।",
+        "timerSeconds": 30
       },
       {
         "id": 6,
@@ -76,7 +81,8 @@
           {"id": "c", "text": "ঘেউ", "isCorrect": false},
           {"id": "d", "text": "কেঁউ", "isCorrect": false}
         ],
-        "explanation": "বেড়ালের রাগ বা ঝগড়ার আওয়াজ মিউ।"
+        "explanation": "বেড়ালের রাগ বা ঝগড়ার আওয়াজ মিউ।",
+        "timerSeconds": 30
       },
       {
         "id": 7,
@@ -87,7 +93,8 @@
           {"id": "c", "text": "হাতির কান", "isCorrect": false},
           {"id": "d", "text": "ঘোড়ার মাথা", "isCorrect": false}
         ],
-        "explanation": "কুকুরের লেজ নড়া ও কান নাড়ার মধ্যে অনেক অর্থ আছে।"
+        "explanation": "কুকুরের লেজ নড়া ও কান নাড়ার মধ্যে অনেক অর্থ আছে।",
+        "timerSeconds": 30
       },
       {
         "id": 8,
@@ -98,7 +105,8 @@
           {"id": "c", "text": "হনুমান", "isCorrect": false},
           {"id": "d", "text": "উল্লুক", "isCorrect": false}
         ],
-        "explanation": "ল্যাঙ্গুর জাতীয় বনমানুষের ভাষা বিশেষ কিছু নেই।"
+        "explanation": "ল্যাঙ্গুর জাতীয় বনমানুষের ভাষা বিশেষ কিছু নেই।",
+        "timerSeconds": 30
       },
       {
         "id": 9,
@@ -109,7 +117,8 @@
           {"id": "c", "text": "চিতা", "isCorrect": false},
           {"id": "d", "text": "ভাল্লুক", "isCorrect": false}
         ],
-        "explanation": "হাতি পশুটি বাঘের চেয়ে ঢের সহজে ভাব পাতায় ও পোষ মানে।"
+        "explanation": "হাতি পশুটি বাঘের চেয়ে ঢের সহজে ভাব পাতায় ও পোষ মানে।",
+        "timerSeconds": 30
       },
       {
         "id": 10,
@@ -120,7 +129,8 @@
           {"id": "c", "text": "খাবার সময়", "isCorrect": true},
           {"id": "d", "text": "হাঁটার সময়", "isCorrect": false}
         ],
-        "explanation": "আমিষাশী জন্তুরা খাবার সময় কারো সঙ্গে ভাব করে না।"
+        "explanation": "আমিষাশী জন্তুরা খাবার সময় কারো সঙ্গে ভাব করে না।",
+        "timerSeconds": 30
       }
     ]
   }
