@@ -1,0 +1,136 @@
+{
+    "quizId": "5",
+    "quizTitle": "ভারতের স্বাধীনতা সংগ্রাম",
+    "class": "10",
+    "subjectId": "HIS101",
+    "chapterId": "CH5",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2025-03-12",
+      "durationMinutes": 30,
+      "topic": "Indian Freedom Struggle",
+      "description": "এই কুইজটি ভারতের স্বাধীনতা সংগ্রাম সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "জালিয়ানওয়ালাবাগ হত্যাকাণ্ড কত সালে হয়েছিল?",
+        "options": [
+          {"id": "a", "text": "১৯১৯", "isCorrect": true},
+          {"id": "b", "text": "১৯২০", "isCorrect": false},
+          {"id": "c", "text": "১৯২১", "isCorrect": false},
+          {"id": "d", "text": "১৯২২", "isCorrect": false}
+        ],
+        "explanation": "জালিয়ানওয়ালাবাগ হত্যাকাণ্ড ১৯১৯ সালে হয়েছিল।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "ভারত ছাড়ো আন্দোলন কত সালে শুরু হয়েছিল?",
+        "options": [
+          {"id": "a", "text": "১৯৪২", "isCorrect": true},
+          {"id": "b", "text": "১৯৪৩", "isCorrect": false},
+          {"id": "c", "text": "১৯৪৪", "isCorrect": false},
+          {"id": "d", "text": "১৯৪৫", "isCorrect": false}
+        ],
+        "explanation": "ভারত ছাড়ো আন্দোলন ১৯৪২ সালে শুরু হয়েছিল।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "ভারতের প্রথম ভাইসরয় কে ছিলেন?",
+        "options": [
+          {"id": "a", "text": "লর্ড ক্যানিং", "isCorrect": true},
+          {"id": "b", "text": "লর্ড মাউন্টব্যাটেন", "isCorrect": false},
+          {"id": "c", "text": "লর্ড কার্জন", "isCorrect": false},
+          {"id": "d", "text": "লর্ড ডালহৌসি", "isCorrect": false}
+        ],
+        "explanation": "ভারতের প্রথম ভাইসরয় ছিলেন লর্ড ক্যানিং।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "কোন ঘটনার পর গান্ধীজি অসহযোগ আন্দোলন প্রত্যাহার করেন?",
+        "options": [
+          {"id": "a", "text": "জালিয়ানওয়ালাবাগ হত্যাকাণ্ড", "isCorrect": false},
+          {"id": "b", "text": "চৌরিচৌরার ঘটনা", "isCorrect": true},
+          {"id": "c", "text": "সাইমন কমিশন", "isCorrect": false},
+          {"id": "d", "text": "ভারত ছাড়ো আন্দোলন", "isCorrect": false}
+        ],
+        "explanation": "চৌরিচৌরার ঘটনার পর গান্ধীজি অসহযোগ আন্দোলন প্রত্যাহার করেন।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "ভারতের জাতীয় কংগ্রেস কত সালে প্রতিষ্ঠিত হয়েছিল?",
+        "options": [
+          {"id": "a", "text": "১৮৮৫", "isCorrect": true},
+          {"id": "b", "text": "১৮৯০", "isCorrect": false},
+          {"id": "c", "text": "১৮৯৫", "isCorrect": false},
+          {"id": "d", "text": "১৯০০", "isCorrect": false}
+        ],
+        "explanation": "ভারতের জাতীয় কংগ্রেস ১৮৮৫ সালে প্রতিষ্ঠিত হয়েছিল।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "কে 'স্বরাজ আমার জন্মগত অধিকার' উক্তিটি করেছিলেন?",
+        "options": [
+          {"id": "a", "text": "মহাত্মা গান্ধী", "isCorrect": false},
+          {"id": "b", "text": "জওহরলাল নেহেরু", "isCorrect": false},
+          {"id": "c", "text": "বাল গঙ্গাধর তিলক", "isCorrect": true},
+          {"id": "d", "text": "সুভাষচন্দ্র বসু", "isCorrect": false}
+        ],
+        "explanation": "বাল গঙ্গাধর তিলক 'স্বরাজ আমার জন্মগত অধিকার' উক্তিটি করেছিলেন।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "কোন আন্দোলনের সময় 'করেঙ্গে ইয়ে মরেঙ্গে' স্লোগানটি দেওয়া হয়েছিল?",
+        "options": [
+          {"id": "a", "text": "অসহযোগ আন্দোলন", "isCorrect": false},
+          {"id": "b", "text": "আইন অমান্য আন্দোলন", "isCorrect": false},
+          {"id": "c", "text": "ভারত ছাড়ো আন্দোলন", "isCorrect": true},
+          {"id": "d", "text": "খিলাফত আন্দোলন", "isCorrect": false}
+        ],
+        "explanation": "ভারত ছাড়ো আন্দোলনের সময় 'করেঙ্গে ইয়ে মরেঙ্গে' স্লোগানটি দেওয়া হয়েছিল।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "ভারতের স্বাধীনতা আইন কত সালে পাশ হয়?",
+        "options": [
+          {"id": "a", "text": "১৯৪৭", "isCorrect": true},
+          {"id": "b", "text": "১৯৪৬", "isCorrect": false},
+          {"id": "c", "text": "১৯৪৮", "isCorrect": false},
+          {"id": "d", "text": "১৯৪৯", "isCorrect": false}
+        ],
+        "explanation": "ভারতের স্বাধীনতা আইন ১৯৪৭ সালে পাশ হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "সাইমন কমিশন কত সালে ভারতে আসে?",
+        "options": [
+          {"id": "a", "text": "১৯২৮", "isCorrect": true},
+          {"id": "b", "text": "১৯২৭", "isCorrect": false},
+          {"id": "c", "text": "১৯২৯", "isCorrect": false},
+          {"id": "d", "text": "১৯৩০", "isCorrect": false}
+        ],
+        "explanation": "সাইমন কমিশন ১৯২৮ সালে ভারতে আসে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "ভারতের শেষ গভর্নর জেনারেল কে ছিলেন?",
+        "options": [
+          {"id": "a", "text": "লর্ড মাউন্টব্যাটেন", "isCorrect": false},
+          {"id": "b", "text": "সি. রাজাগোপালাচারী", "isCorrect": true},
+          {"id": "c", "text": "জওহরলাল নেহেরু", "isCorrect": false},
+          {"id": "d", "text": "রাজেন্দ্র প্রসাদ", "isCorrect": false}
+        ],
+        "explanation": "ভারতের শেষ গভর্নর জেনারেল ছিলেন সি. রাজাগোপালাচারী।",
+        "timerSeconds": 30
+      }
+    ]
+  }

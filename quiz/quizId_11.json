@@ -1,0 +1,136 @@
+{
+    "quizId": "11",
+    "quizTitle": "পৃথিবীর পরিবেশ এবং দূষণ",
+    "class": "10",
+    "subjectId": "ENV101",
+    "chapterId": "CH11",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2025-03-12",
+      "durationMinutes": 30,
+      "topic": "Environment and Pollution",
+      "description": "এই কুইজটি পৃথিবীর পরিবেশ এবং দূষণ সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "গ্রীনহাউস গ্যাসগুলির মধ্যে প্রধান কোনটি?",
+        "options": [
+          {"id": "a", "text": "অক্সিজেন", "isCorrect": false},
+          {"id": "b", "text": "কার্বন ডাই অক্সাইড", "isCorrect": true},
+          {"id": "c", "text": "নাইট্রোজেন", "isCorrect": false},
+          {"id": "d", "text": "হাইড্রোজেন", "isCorrect": false}
+        ],
+        "explanation": "গ্রীনহাউস গ্যাসগুলির মধ্যে প্রধান হলো কার্বন ডাই অক্সাইড।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "ওজোন স্তর ক্ষয়ের প্রধান কারণ কী?",
+        "options": [
+          {"id": "a", "text": "কার্বন মনোক্সাইড", "isCorrect": false},
+          {"id": "b", "text": "ক্লোরোফ্লুরোকার্বন (সিএফসি)", "isCorrect": true},
+          {"id": "c", "text": "সালফার ডাই অক্সাইড", "isCorrect": false},
+          {"id": "d", "text": "নাইট্রোজেন অক্সাইড", "isCorrect": false}
+        ],
+        "explanation": "ওজোন স্তর ক্ষয়ের প্রধান কারণ হলো ক্লোরোফ্লুরোকার্বন (সিএফসি)।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "কোন দূষণটি অ্যাসিড বৃষ্টির প্রধান কারণ?",
+        "options": [
+          {"id": "a", "text": "শব্দ দূষণ", "isCorrect": false},
+          {"id": "b", "text": "বায়ু দূষণ", "isCorrect": true},
+          {"id": "c", "text": "মাটি দূষণ", "isCorrect": false},
+          {"id": "d", "text": "জল দূষণ", "isCorrect": false}
+        ],
+        "explanation": "বায়ু দূষণ অ্যাসিড বৃষ্টির প্রধান কারণ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "নিম্নলিখিত কোনটি পুনর্নবীকরণযোগ্য শক্তির উৎস?",
+        "options": [
+          {"id": "a", "text": "কয়লা", "isCorrect": false},
+          {"id": "b", "text": "প্রাকৃতিক গ্যাস", "isCorrect": false},
+          {"id": "c", "text": "সৌরশক্তি", "isCorrect": true},
+          {"id": "d", "text": "পেট্রোলিয়াম", "isCorrect": false}
+        ],
+        "explanation": "সৌরশক্তি পুনর্নবীকরণযোগ্য শক্তির উৎস।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "বায়ুমণ্ডলের কোন স্তরটি ক্ষতিকর অতিবেগুনী রশ্মি শোষণ করে?",
+        "options": [
+          {"id": "a", "text": "ট্রপোস্ফিয়ার", "isCorrect": false},
+          {"id": "b", "text": "স্ট্র্যাটোস্ফিয়ার", "isCorrect": true},
+          {"id": "c", "text": "মেসোস্ফিয়ার", "isCorrect": false},
+          {"id": "d", "text": "থার্মোস্ফিয়ার", "isCorrect": false}
+        ],
+        "explanation": "স্ট্র্যাটোস্ফিয়ার স্তরটি ক্ষতিকর অতিবেগুনী রশ্মি শোষণ করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "বিশ্ব উষ্ণায়নের প্রধান প্রভাব কী?",
+        "options": [
+          {"id": "a", "text": "সমুদ্রের উচ্চতা বৃদ্ধি", "isCorrect": true},
+          {"id": "b", "text": "বৃষ্টিপাত বৃদ্ধি", "isCorrect": false},
+          {"id": "c", "text": "মাটির উর্বরতা বৃদ্ধি", "isCorrect": false},
+          {"id": "d", "text": "বায়ুর গুণমান বৃদ্ধি", "isCorrect": false}
+        ],
+        "explanation": "বিশ্ব উষ্ণায়নের প্রধান প্রভাব হলো সমুদ্রের উচ্চতা বৃদ্ধি।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "কোন দূষণটি বধিরতার কারণ হতে পারে?",
+        "options": [
+          {"id": "a", "text": "জল দূষণ", "isCorrect": false},
+          {"id": "b", "text": "মাটি দূষণ", "isCorrect": false},
+          {"id": "c", "text": "শব্দ দূষণ", "isCorrect": true},
+          {"id": "d", "text": "বায়ু দূষণ", "isCorrect": false}
+        ],
+        "explanation": "শব্দ দূষণ বধিরতার কারণ হতে পারে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "নিম্নলিখিত কোনটি বায়োডিগ্রেডেবল বর্জ্য?",
+        "options": [
+          {"id": "a", "text": "প্লাস্টিক", "isCorrect": false},
+          {"id": "b", "text": "কাগজ", "isCorrect": true},
+          {"id": "c", "text": "ধাতু", "isCorrect": false},
+          {"id": "d", "text": "কাঁচ", "isCorrect": false}
+        ],
+        "explanation": "কাগজ বায়োডিগ্রেডেবল বর্জ্য।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "কোন দূষণটি মিনামাটা রোগের কারণ?",
+        "options": [
+          {"id": "a", "text": "আর্সেনিক দূষণ", "isCorrect": false},
+          {"id": "b", "text": "পারদ দূষণ", "isCorrect": true},
+          {"id": "c", "text": "ক্যাডমিয়াম দূষণ", "isCorrect": false},
+          {"id": "d", "text": "সীসা দূষণ", "isCorrect": false}
+        ],
+        "explanation": "পারদ দূষণ মিনামাটা রোগের কারণ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "পরিবেশ সংরক্ষণের জন্য কোনটি গুরুত্বপূর্ণ?",
+        "options": [
+          {"id": "a", "text": "পুনর্ব্যবহার", "isCorrect": false},
+          {"id": "b", "text": "বর্জ্য হ্রাস", "isCorrect": false},
+          {"id": "c", "text": "পুনরায় ব্যবহার", "isCorrect": false},
+          {"id": "d", "text": "উপরের সবগুলো", "isCorrect": true}
+        ],
+        "explanation": "পরিবেশ সংরক্ষণের জন্য পুনর্ব্যবহার, বর্জ্য হ্রাস এবং পুনরায় ব্যবহার সবগুলোই গুরুত্বপূর্ণ।",
+        "timerSeconds": 30
+      }
+    ]
+  }

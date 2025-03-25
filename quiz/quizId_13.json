@@ -1,0 +1,136 @@
+{
+    "quizId": "13",
+    "quizTitle": "ভারতীয় সংবিধান এবং নাগরিক অধিকার",
+    "class": "10",
+    "subjectId": "CIV101",
+    "chapterId": "CH13",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2025-03-12",
+      "durationMinutes": 30,
+      "topic": "Indian Constitution and Rights",
+      "description": "এই কুইজটি ভারতীয় সংবিধান এবং নাগরিক অধিকার সম্পর্কে বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "ভারতীয় সংবিধান কবে গৃহীত হয়েছিল?",
+        "options": [
+          {"id": "a", "text": "১৯৪৭ সালের ১৫ আগস্ট", "isCorrect": false},
+          {"id": "b", "text": "১৯৪৯ সালের ২৬ নভেম্বর", "isCorrect": true},
+          {"id": "c", "text": "১৯৫০ সালের ২৬ জানুয়ারি", "isCorrect": false},
+          {"id": "d", "text": "১৯৫০ সালের ১৫ আগস্ট", "isCorrect": false}
+        ],
+        "explanation": "ভারতীয় সংবিধান ১৯৪৯ সালের ২৬ নভেম্বর গৃহীত হয়েছিল।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "ভারতীয় সংবিধানে কয়টি মৌলিক অধিকার রয়েছে?",
+        "options": [
+          {"id": "a", "text": "৫", "isCorrect": false},
+          {"id": "b", "text": "৬", "isCorrect": true},
+          {"id": "c", "text": "৭", "isCorrect": false},
+          {"id": "d", "text": "৮", "isCorrect": false}
+        ],
+        "explanation": "ভারতীয় সংবিধানে ৬টি মৌলিক অধিকার রয়েছে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "কোন মৌলিক অধিকারটি 'সংবিধানের আত্মা' নামে পরিচিত?",
+        "options": [
+          {"id": "a", "text": "সাম্যের অধিকার", "isCorrect": false},
+          {"id": "b", "text": "স্বাধীনতার অধিকার", "isCorrect": false},
+          {"id": "c", "text": "সাংবিধানিক প্রতিবিধানের অধিকার", "isCorrect": true},
+          {"id": "d", "text": "ধর্মীয় স্বাধীনতার অধিকার", "isCorrect": false}
+        ],
+        "explanation": "সাংবিধানিক প্রতিবিধানের অধিকার 'সংবিধানের আত্মা' নামে পরিচিত।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "ভারতীয় সংবিধানের কোন অংশে মৌলিক কর্তব্যগুলি উল্লেখ করা হয়েছে?",
+        "options": [
+          {"id": "a", "text": "প্রথম অংশ", "isCorrect": false},
+          {"id": "b", "text": "তৃতীয় অংশ", "isCorrect": false},
+          {"id": "c", "text": "চতুর্থ অংশ", "isCorrect": false},
+          {"id": "d", "text": "চতুর্থ (ক) অংশ", "isCorrect": true}
+        ],
+        "explanation": "ভারতীয় সংবিধানের চতুর্থ (ক) অংশে মৌলিক কর্তব্যগুলি উল্লেখ করা হয়েছে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "ভারতীয় সংবিধানের প্রস্তাবনার মূল উদ্দেশ্য কী?",
+        "options": [
+          {"id": "a", "text": "নাগরিকদের অধিকার রক্ষা করা", "isCorrect": false},
+          {"id": "b", "text": "দেশের শাসন ব্যবস্থা পরিচালনা করা", "isCorrect": false},
+          {"id": "c", "text": "দেশের সার্বভৌমত্ব রক্ষা করা", "isCorrect": false},
+          {"id": "d", "text": "ন্যায়বিচার, স্বাধীনতা, সাম্য ও ভ্রাতৃত্ব প্রতিষ্ঠা করা", "isCorrect": true}
+        ],
+        "explanation": "ভারতীয় সংবিধানের প্রস্তাবনার মূল উদ্দেশ্য ন্যায়বিচার, স্বাধীনতা, সাম্য ও ভ্রাতৃত্ব প্রতিষ্ঠা করা।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "কোন অধিকারটি নাগরিকদের বাক ও মত প্রকাশের স্বাধীনতা দেয়?",
+        "options": [
+          {"id": "a", "text": "সাম্যের অধিকার", "isCorrect": false},
+          {"id": "b", "text": "স্বাধীনতার অধিকার", "isCorrect": true},
+          {"id": "c", "text": "শোষণের বিরুদ্ধে অধিকার", "isCorrect": false},
+          {"id": "d", "text": "ধর্মীয় স্বাধীনতার অধিকার", "isCorrect": false}
+        ],
+        "explanation": "স্বাধীনতার অধিকার নাগরিকদের বাক ও মত প্রকাশের স্বাধীনতা দেয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "কোন অধিকারটি নাগরিকদের ধর্মীয় স্বাধীনতা দেয়?",
+        "options": [
+          {"id": "a", "text": "সাম্যের অধিকার", "isCorrect": false},
+          {"id": "b", "text": "স্বাধীনতার অধিকার", "isCorrect": false},
+          {"id": "c", "text": "শোষণের বিরুদ্ধে অধিকার", "isCorrect": false},
+          {"id": "d", "text": "ধর্মীয় স্বাধীনতার অধিকার", "isCorrect": true}
+        ],
+        "explanation": "ধর্মীয় স্বাধীনতার অধিকার নাগরিকদের ধর্মীয় স্বাধীনতা দেয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "কোন অধিকারটি নাগরিকদের শিক্ষা ও সংস্কৃতির অধিকার দেয়?",
+        "options": [
+          {"id": "a", "text": "সাম্যের অধিকার", "isCorrect": false},
+          {"id": "b", "text": "স্বাধীনতার অধিকার", "isCorrect": false},
+          {"id": "c", "text": "শিক্ষা ও সংস্কৃতির অধিকার", "isCorrect": true},
+          {"id": "d", "text": "ধর্মীয় স্বাধীনতার অধিকার", "isCorrect": false}
+        ],
+        "explanation": "শিক্ষা ও সংস্কৃতির অধিকার নাগরিকদের শিক্ষা ও সংস্কৃতির অধিকার দেয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "কোন অধিকারটি নাগরিকদের আইনের চোখে সমান অধিকার দেয়?",
+        "options": [
+          {"id": "a", "text": "সাম্যের অধিকার", "isCorrect": true},
+          {"id": "b", "text": "স্বাধীনতার অধিকার", "isCorrect": false},
+          {"id": "c", "text": "শোষণের বিরুদ্ধে অধিকার", "isCorrect": false},
+          {"id": "d", "text": "ধর্মীয় স্বাধীনতার অধিকার", "isCorrect": false}
+        ],
+        "explanation": "সাম্যের অধিকার নাগরিকদের আইনের চোখে সমান অধিকার দেয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "ভারতীয় সংবিধানের কোন অংশে নির্দেশমূলক নীতিগুলি উল্লেখ করা হয়েছে?",
+        "options": [
+          {"id": "a", "text": "প্রথম অংশ", "isCorrect": false},
+          {"id": "b", "text": "দ্বিতীয় অংশ", "isCorrect": false},
+          {"id": "c", "text": "তৃতীয় অংশ", "isCorrect": false},
+          {"id": "d", "text": "চতুর্থ অংশ", "isCorrect": true}
+        ],
+        "explanation": "ভারতীয় সংবিধানের চতুর্থ অংশে নির্দেশমূলক নীতিগুলি উল্লেখ করা হয়েছে।",
+        "timerSeconds": 30
+      }
+    ]
+  }

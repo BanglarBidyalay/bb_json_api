@@ -1,0 +1,136 @@
+{
+    "quizId": "12",
+    "quizTitle": "গণিতের পরিসংখ্যান",
+    "class": "10",
+    "subjectId": "MATH102",
+    "chapterId": "CH12",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2025-03-12",
+      "durationMinutes": 30,
+      "topic": "Statistics",
+      "description": "এই কুইজটি গণিতের পরিসংখ্যান সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "নিম্নলিখিত কোনটি কেন্দ্রীয় প্রবণতার পরিমাপ?",
+        "options": [
+          {"id": "a", "text": "বিস্তার", "isCorrect": false},
+          {"id": "b", "text": "গড়", "isCorrect": true},
+          {"id": "c", "text": "ভেদাঙ্ক", "isCorrect": false},
+          {"id": "d", "text": "পরিমিত ব্যবধান", "isCorrect": false}
+        ],
+        "explanation": "গড় কেন্দ্রীয় প্রবণতার পরিমাপ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "মধ্যমা নির্ণয়ের জন্য ডেটাগুলিকে কীভাবে সাজানো উচিত?",
+        "options": [
+          {"id": "a", "text": "ক্রমবর্ধমান", "isCorrect": true},
+          {"id": "b", "text": "ক্রমহ্রাসমান", "isCorrect": false},
+          {"id": "c", "text": "যেকোন ক্রমে", "isCorrect": false},
+          {"id": "d", "text": "এদের কোনোটিই নয়", "isCorrect": false}
+        ],
+        "explanation": "মধ্যমা নির্ণয়ের জন্য ডেটাগুলিকে ক্রমবর্ধমান ক্রমে সাজানো উচিত।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "কোন পরিমাপটি ডেটার বিস্তার নির্দেশ করে?",
+        "options": [
+          {"id": "a", "text": "গড়", "isCorrect": false},
+          {"id": "b", "text": "মধ্যমা", "isCorrect": false},
+          {"id": "c", "text": "পরিসর", "isCorrect": true},
+          {"id": "d", "text": "প্রচুরক", "isCorrect": false}
+        ],
+        "explanation": "পরিসর ডেটার বিস্তার নির্দেশ করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "প্রচুরক কী নির্দেশ করে?",
+        "options": [
+          {"id": "a", "text": "সর্বনিম্ন মান", "isCorrect": false},
+          {"id": "b", "text": "সর্বোচ্চ মান", "isCorrect": false},
+          {"id": "c", "text": "সর্বাধিক পুনরাবৃত্ত মান", "isCorrect": true},
+          {"id": "d", "text": "গড় মান", "isCorrect": false}
+        ],
+        "explanation": "প্রচুরক সর্বাধিক পুনরাবৃত্ত মান নির্দেশ করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "কোনটি ডেটার পরিবর্তনশীলতা পরিমাপ করে?",
+        "options": [
+          {"id": "a", "text": "গড়", "isCorrect": false},
+          {"id": "b", "text": "মধ্যমা", "isCorrect": false},
+          {"id": "c", "text": "পরিমিত ব্যবধান", "isCorrect": true},
+          {"id": "d", "text": "প্রচুরক", "isCorrect": false}
+        ],
+        "explanation": "পরিমিত ব্যবধান ডেটার পরিবর্তনশীলতা পরিমাপ করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "শ্রেণি ব্যবধান কী?",
+        "options": [
+          {"id": "a", "text": "শ্রেণির সংখ্যা", "isCorrect": false},
+          {"id": "b", "text": "শ্রেণির বিস্তার", "isCorrect": true},
+          {"id": "c", "text": "শ্রেণির গড় মান", "isCorrect": false},
+          {"id": "d", "text": "শ্রেণির মধ্যমা মান", "isCorrect": false}
+        ],
+        "explanation": "শ্রেণি ব্যবধান শ্রেণির বিস্তার নির্দেশ করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "কোনটি ডেটার গড় মান নির্ণয় করে?",
+        "options": [
+          {"id": "a", "text": "মধ্যমা", "isCorrect": false},
+          {"id": "b", "text": "গড়", "isCorrect": true},
+          {"id": "c", "text": "প্রচুরক", "isCorrect": false},
+          {"id": "d", "text": "পরিসর", "isCorrect": false}
+        ],
+        "explanation": "গড় ডেটার গড় মান নির্ণয় করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "কোনটি ডেটার মধ্যবর্তী মান নির্ণয় করে?",
+        "options": [
+          {"id": "a", "text": "গড়", "isCorrect": false},
+          {"id": "b", "text": "মধ্যমা", "isCorrect": true},
+          {"id": "c", "text": "প্রচুরক", "isCorrect": false},
+          {"id": "d", "text": "পরিসর", "isCorrect": false}
+        ],
+        "explanation": "মধ্যমা ডেটার মধ্যবর্তী মান নির্ণয় করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "পরিসংখ্যানের কোন শাখাটি ডেটা সংগ্রহ, বিশ্লেষণ এবং উপস্থাপনের সাথে সম্পর্কিত?",
+        "options": [
+          {"id": "a", "text": "বীজগণিত", "isCorrect": false},
+          {"id": "b", "text": "জ্যামিতি", "isCorrect": false},
+          {"id": "c", "text": "বর্ণনামূলক পরিসংখ্যান", "isCorrect": true},
+          {"id": "d", "text": "ক্যালকুলাস", "isCorrect": false}
+        ],
+        "explanation": "বর্ণনামূলক পরিসংখ্যান ডেটা সংগ্রহ, বিশ্লেষণ এবং উপস্থাপনের সাথে সম্পর্কিত।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "কোনটি ডেটার মধ্যে পার্থক্য নির্ণয় করে?",
+        "options": [
+          {"id": "a", "text": "গড়", "isCorrect": false},
+          {"id": "b", "text": "মধ্যমা", "isCorrect": false},
+          {"id": "c", "text": "পরিসর", "isCorrect": true},
+          {"id": "d", "text": "প্রচুরক", "isCorrect": false}
+        ],
+        "explanation": "পরিসর ডেটার মধ্যে পার্থক্য নির্ণয় করে।",
+        "timerSeconds": 30
+      }
+    ]
+  }
