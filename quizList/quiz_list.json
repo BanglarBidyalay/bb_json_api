@@ -59,7 +59,7 @@
         "quizId": "5",
         "quizTitle": "ভারতের স্বাধীনতা সংগ্রাম",
         "class": "10",
-        "subjectId": "HIS101",
+        "subjectId": "63fe298126abd4392c88d387",
         "chapterId": "CH5",
         "metadata": {
             "createdBy": "Banglar Bidyalay Team",
@@ -101,7 +101,7 @@
         "quizId": "13",
         "quizTitle": "ভারতীয় সংবিধান এবং নাগরিক অধিকার",
         "class": "10",
-        "subjectId": "CIV101",
+        "subjectId": "63fe298126abd4392c88d387",
         "chapterId": "CH13",
         "metadata": {
             "createdBy": "Banglar Bidyalay Team",
@@ -185,7 +185,7 @@
         "quizId": "19",
         "quizTitle": "বিশ্ব ইতিহাসের গুরুত্বপূর্ণ ঘটনা",
         "class": "10",
-        "subjectId": "HIS102",
+        "subjectId": "63fe298126abd4392c88d387",
         "chapterId": "CH19",
         "metadata": {
             "createdBy": "Banglar Bidyalay Team",
@@ -212,7 +212,7 @@
     {
         "quizId": "21",
         "quizTitle": "পাতাবাহার Quiz - Part 1",
-        "class": "Class 5",
+        "class": "6",
         "subjectId": "6400f981c17b6f44511efdb6",
         "chapterId": "CH1",
         "metadata": {
@@ -226,7 +226,7 @@
     {
         "quizId": "22",
         "quizTitle": "পাতাবাহার Quiz - Part 2",
-        "class": "Class 5",
+        "class": "6",
         "subjectId": "6400f981c17b6f44511efdb6",
         "chapterId": "CH2",
         "metadata": {
@@ -240,7 +240,7 @@
     {
         "quizId": "23",
         "quizTitle": "ভাষাপাঠ Quiz - Part 1",
-        "class": "Class 5",
+        "class": "6",
         "subjectId": "6400f982be556f6a0e00c38c",
         "chapterId": "CH1",
         "metadata": {
@@ -254,7 +254,7 @@
     {
         "quizId": "24",
         "quizTitle": "ভাষাপাঠ Quiz - Part 2",
-        "class": "Class 5",
+        "class": "6",
         "subjectId": "6400f982be556f6a0e00c38c",
         "chapterId": "CH2",
         "metadata": {
@@ -268,7 +268,7 @@
     {
         "quizId": "25",
         "quizTitle": "Butterfly Quiz - Part 1",
-        "class": "Class 5",
+        "class": "6",
         "subjectId": "6400f9827bc196d5ad5c8c0b",
         "chapterId": "CH1",
         "metadata": {
@@ -282,7 +282,7 @@
     {
         "quizId": "26",
         "quizTitle": "Butterfly Quiz - Part 2",
-        "class": "Class 5",
+        "class": "6",
         "subjectId": "6400f9827bc196d5ad5c8c0b",
         "chapterId": "CH2",
         "metadata": {
@@ -296,7 +296,7 @@
     {
         "quizId": "27",
         "quizTitle": "আমার গণিত Quiz - Part 1",
-        "class": "Class 5",
+        "class": "6",
         "subjectId": "6400f983c339a7a7c3a3daf3",
         "chapterId": "CH1",
         "metadata": {
@@ -310,7 +310,7 @@
     {
         "quizId": "28",
         "quizTitle": "আমার গণিত Quiz - Part 2",
-        "class": "Class 5",
+        "class": "6",
         "subjectId": "6400f983c339a7a7c3a3daf3",
         "chapterId": "CH2",
         "metadata": {
@@ -324,7 +324,7 @@
     {
         "quizId": "29",
         "quizTitle": "ভরদুপুরে কুইজ",
-        "class": "5",
+        "class": "6",
         "subjectId": "6400f81c9799bba273de1fca",
         "chapterId": "POEM05",
         "metadata": {
@@ -338,7 +338,7 @@
     {
         "quizId": "30",
         "quizTitle": "সেনাপতি শংকর কুইজ",
-        "class": "5",
+        "class": "6",
         "subjectId": "6400f81c9799bba273de1fca",
         "chapterId": "STORY03",
         "metadata": {
@@ -352,7 +352,7 @@
     {
         "quizId": "31",
         "quizTitle": "পাইন দাঁড়িয়ে আকাশে নয়ন তুলি কুইজ",
-        "class": "5",
+        "class": "6",
         "subjectId": "6400f81c9799bba273de1fca",
         "chapterId": "POEM04",
         "metadata": {
@@ -366,7 +366,7 @@
     {
         "quizId": "32",
         "quizTitle": "মন ভালো করা কুইজ",
-        "class": "5",
+        "class": "6",
         "subjectId": "6400f81c9799bba273de1fca",
         "chapterId": "POEM05",
         "metadata": {
@@ -380,7 +380,7 @@
     {
         "quizId": "33",
         "quizTitle": "পশু পাখির ভাষা কুইজ",
-        "class": "5",
+        "class": "6",
         "subjectId": "6400f81c9799bba273de1fca",
         "chapterId": "STORY02",
         "metadata": {
@@ -394,7 +394,7 @@
     {
         "quizId": "34",
         "quizTitle": "আকাশ ভরা সূর্য তারা কুইজ",
-        "class": "5",
+        "class": "6",
         "subjectId": "BEN101",
         "chapterId": "POEM06",
         "metadata": {
