@@ -1,0 +1,136 @@
+{
+    "quizId": "38",
+    "quizTitle": "পৃথিবীর আবর্তন কুইজ",
+    "class": "6",
+    "subjectId": "6400f821c17b6f44511ea7e2",
+    "chapterId": "POEM09",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2024-10-27",
+      "durationMinutes": 15,
+      "topic": "পৃথিবীর আবর্তন",
+      "description": "পৃথিবীর আবর্তন থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "পৃথিবী তার নিজের অক্ষের চারিদিকে কোন দিকে ঘোরে?",
+        "options": [
+          {"id": "a", "text": "পশ্চিম থেকে পূর্ব দিকে", "isCorrect": true},
+          {"id": "b", "text": "পূর্ব থেকে পশ্চিম দিকে", "isCorrect": false},
+          {"id": "c", "text": "উত্তর থেকে দক্ষিণ দিকে", "isCorrect": false},
+          {"id": "d", "text": "দক্ষিণ থেকে উত্তর দিকে", "isCorrect": false}
+        ],
+        "explanation": "পৃথিবী তার নিজের অক্ষের চারিদিকে পশ্চিম থেকে পূর্ব দিকে ঘোরে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "পৃথিবীর অক্ষ তার কক্ষপথের সঙ্গে কত ডিগ্রি কোণে হেলে আছে?",
+        "options": [
+          {"id": "a", "text": "৯০°", "isCorrect": false},
+          {"id": "b", "text": "০°", "isCorrect": false},
+          {"id": "c", "text": "২৩½°", "isCorrect": true},
+          {"id": "d", "text": "৬৬½°", "isCorrect": false}
+        ],
+        "explanation": "পৃথিবীর অক্ষ তার কক্ষপথের সঙ্গে ২৩½° কোণে হেলে আছে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "পৃথিবীর অক্ষের উত্তর প্রান্ত সারাবছর কোন তারার দিকে মুখ করে থাকে?",
+        "options": [
+          {"id": "a", "text": "ধ্রুবতারা", "isCorrect": true},
+          {"id": "b", "text": "শুক্রতারা", "isCorrect": false},
+          {"id": "c", "text": "সপ্তর্ষি", "isCorrect": false},
+          {"id": "d", "text": "কালপুরুষ", "isCorrect": false}
+        ],
+        "explanation": "পৃথিবীর অক্ষের উত্তর প্রান্ত সারাবছর ধ্রুবতারার দিকে মুখ করে থাকে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "পৃথিবীর তার নিজের অক্ষের চারিদিকে একবার পাক খেতে কত সময় লাগে?",
+        "options": [
+          {"id": "a", "text": "২৩ ঘণ্টা ৫৬ মিনিট ৪ সেকেন্ড", "isCorrect": true},
+          {"id": "b", "text": "২৪ ঘণ্টা", "isCorrect": false},
+          {"id": "c", "text": "৩০ দিন", "isCorrect": false},
+          {"id": "d", "text": "৩৬৫ দিন", "isCorrect": false}
+        ],
+        "explanation": "পৃথিবীর তার নিজের অক্ষের চারিদিকে একবার পাক খেতে ২৩ ঘণ্টা ৫৬ মিনিট ৪ সেকেন্ড সময় লাগে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "পৃথিবীর পরিধি প্রায় কত কিমি?",
+        "options": [
+          {"id": "a", "text": "২০,০০০ কিমি", "isCorrect": false},
+          {"id": "b", "text": "৪০,০০০ কিমি", "isCorrect": true},
+          {"id": "c", "text": "৫০,০০০ কিমি", "isCorrect": false},
+          {"id": "d", "text": "৬০,০০০ কিমি", "isCorrect": false}
+        ],
+        "explanation": "পৃথিবীর পরিধি প্রায় ৪০,০০০ কিমি।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "কোথায় পৃথিবীর আবর্তনের বেগ সবচেয়ে বেশি?",
+        "options": [
+          {"id": "a", "text": "নিরক্ষরেখার কাছে", "isCorrect": true},
+          {"id": "b", "text": "উত্তর মেরুর কাছে", "isCorrect": false},
+          {"id": "c", "text": "দক্ষিণ মেরুর কাছে", "isCorrect": false},
+          {"id": "d", "text": "কর্কটক্রান্তি রেখার কাছে", "isCorrect": false}
+        ],
+        "explanation": "নিরক্ষরেখার কাছে পৃথিবীর আবর্তনের বেগ সবচেয়ে বেশি।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "সূর্য বা অন্য তারা আকাশে প্রথম কোন দিকে দেখা যায়?",
+        "options": [
+          {"id": "a", "text": "পূর্ব", "isCorrect": true},
+          {"id": "b", "text": "পশ্চিম", "isCorrect": false},
+          {"id": "c", "text": "উত্তর", "isCorrect": false},
+          {"id": "d", "text": "দক্ষিণ", "isCorrect": false}
+        ],
+        "explanation": "সূর্য বা অন্য তারা আকাশে প্রথম পূর্ব দিকে দেখা যায়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "গোলাকার পৃথিবীর যে দিকটা সূর্যের দিকে মুখ করে থাকে, সেখানে কী হয়?",
+        "options": [
+          {"id": "a", "text": "দিন", "isCorrect": true},
+          {"id": "b", "text": "রাত", "isCorrect": false},
+          {"id": "c", "text": "ভোর", "isCorrect": false},
+          {"id": "d", "text": "সন্ধ্যা", "isCorrect": false}
+        ],
+        "explanation": "গোলাকার পৃথিবীর যে দিকটা সূর্যের দিকে মুখ করে থাকে, সেখানে দিন হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "আলো ও অন্ধকারের মাঝে পৃথিবীপৃষ্ঠে যে বৃত্তরেখা তৈরি হয়, তাকে কী বলে?",
+        "options": [
+          {"id": "a", "text": "নিরক্ষরেখা", "isCorrect": false},
+          {"id": "b", "text": "দ্রাঘিমারেখা", "isCorrect": false},
+          {"id": "c", "text": "ছায়াবৃত্ত", "isCorrect": true},
+          {"id": "d", "text": "কর্কটক্রান্তি", "isCorrect": false}
+        ],
+        "explanation": "আলো ও অন্ধকারের মাঝে পৃথিবীপৃষ্ঠে যে বৃত্তরেখা তৈরি হয়, তাকে ছায়াবৃত্ত বলে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "সূর্যোদয়ের আগের হালকা আলোর সময়কে কী বলা হয়?",
+        "options": [
+          {"id": "a", "text": "ঊষা", "isCorrect": true},
+          {"id": "b", "text": "গোধূলি", "isCorrect": false},
+          {"id": "c", "text": "সন্ধ্যা", "isCorrect": false},
+          {"id": "d", "text": "দুপুর", "isCorrect": false}
+        ],
+        "explanation": "সূর্যোদয়ের আগের হালকা আলোর সময়কে ঊষা বলা হয়।",
+        "timerSeconds": 30
+      }
+    ]
+  }

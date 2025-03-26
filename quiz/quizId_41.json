@@ -1,0 +1,136 @@
+{
+    "quizId": "41",
+    "quizTitle": "আবহাওয়া ও জলবায়ু কুইজ",
+    "class": "6",
+    "subjectId": "6400f821c17b6f44511ea7e2",
+    "chapterId": "POEM12",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2024-10-27",
+      "durationMinutes": 15,
+      "topic": "আবহাওয়া ও জলবায়ু",
+      "description": "আবহাওয়া ও জলবায়ু থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "কোনো নির্দিষ্ট স্থানের নির্দিষ্ট সময়ের বায়ুমণ্ডলের অবস্থাকে কী বলে?",
+        "options": [
+          {"id": "a", "text": "আবহাওয়া", "isCorrect": true},
+          {"id": "b", "text": "জলবায়ু", "isCorrect": false},
+          {"id": "c", "text": "ঋতু", "isCorrect": false},
+          {"id": "d", "text": "জলচক্র", "isCorrect": false}
+        ],
+        "explanation": "কোনো নির্দিষ্ট স্থানের নির্দিষ্ট সময়ের বায়ুমণ্ডলের অবস্থাকে আবহাওয়া বলে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "কোনো অঞ্চলের প্রায় ৩০ থেকে ৩৫ বছরের আবহাওয়ার গড় অবস্থাকে কী বলা হয়?",
+        "options": [
+          {"id": "a", "text": "দৈনিক আবহাওয়া", "isCorrect": false},
+          {"id": "b", "text": "জলবায়ু", "isCorrect": true},
+          {"id": "c", "text": "সাপ্তাহিক আবহাওয়া", "isCorrect": false},
+          {"id": "d", "text": "মাসিক আবহাওয়া", "isCorrect": false}
+        ],
+        "explanation": "কোনো অঞ্চলের প্রায় ৩০ থেকে ৩৫ বছরের আবহাওয়ার গড় অবস্থাকে জলবায়ু বলা হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "পশ্চিমবঙ্গের জলবায়ু সাধারণত কোন প্রকৃতির?",
+        "options": [
+          {"id": "a", "text": "উষ্ন আর্দ্র", "isCorrect": true},
+          {"id": "b", "text": "শীতল শুষ্ক", "isCorrect": false},
+          {"id": "c", "text": "নাতিশীতোষ্ণ", "isCorrect": false},
+          {"id": "d", "text": "শুষ্ক", "isCorrect": false}
+        ],
+        "explanation": "পশ্চিমবঙ্গের জলবায়ু সাধারণত উষ্ন আর্দ্র প্রকৃতির।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "সূর্য থেকে আসা তাপে পৃথিবী পৃষ্ঠের সবচেয়ে নীচের বায়ুস্তর প্রথমে কী হয়?",
+        "options": [
+          {"id": "a", "text": "উত্তপ্ত", "isCorrect": true},
+          {"id": "b", "text": "শীতল", "isCorrect": false},
+          {"id": "c", "text": "আর্দ্র", "isCorrect": false},
+          {"id": "d", "text": "শুষ্ক", "isCorrect": false}
+        ],
+        "explanation": "সূর্য থেকে আসা তাপে পৃথিবী পৃষ্ঠের সবচেয়ে নীচের বায়ুস্তর প্রথমে উত্তপ্ত হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "বায়ুমণ্ডলের উষ্ণতা মাপার জন্য কোন যন্ত্র ব্যবহার করা হয়?",
+        "options": [
+          {"id": "a", "text": "থার্মোমিটার", "isCorrect": true},
+          {"id": "b", "text": "ব্যারোমিটার", "isCorrect": false},
+          {"id": "c", "text": "হাইগ্রোমিটার", "isCorrect": false},
+          {"id": "d", "text": "রেনগজ", "isCorrect": false}
+        ],
+        "explanation": "বায়ুমণ্ডলের উষ্ণতা মাপার জন্য থার্মোমিটার ব্যবহার করা হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "বায়ুতে জলীয় বাষ্পের পরিমাণকে কী বলে?",
+        "options": [
+          {"id": "a", "text": "উষ্ণতা", "isCorrect": false},
+          {"id": "b", "text": "আর্দ্রতা", "isCorrect": true},
+          {"id": "c", "text": "বায়ুচাপ", "isCorrect": false},
+          {"id": "d", "text": "বায়ুপ্রবাহ", "isCorrect": false}
+        ],
+        "explanation": "বায়ুতে জলীয় বাষ্পের পরিমাণকে আর্দ্রতা বলে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "বায়ুর আর্দ্রতা মাপার জন্য কোন যন্ত্র ব্যবহার করা হয়?",
+        "options": [
+          {"id": "a", "text": "থার্মোমিটার", "isCorrect": false},
+          {"id": "b", "text": "ব্যারোমিটার", "isCorrect": false},
+          {"id": "c", "text": "হাইগ্রোমিটার", "isCorrect": true},
+          {"id": "d", "text": "রেনগজ", "isCorrect": false}
+        ],
+        "explanation": "বায়ুর আর্দ্রতা মাপার জন্য হাইগ্রোমিটার ব্যবহার করা হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "জলীয় বাষ্প ঠান্ডা হয়ে ছোট ছোট জলকণায় পরিণত হওয়াকে কী বলে?",
+        "options": [
+          {"id": "a", "text": "বাষ্পীভবন", "isCorrect": false},
+          {"id": "b", "text": "ঘনীভবন", "isCorrect": true},
+          {"id": "c", "text": "অধঃক্ষেপণ", "isCorrect": false},
+          {"id": "d", "text": "পরিচলন", "isCorrect": false}
+        ],
+        "explanation": "জলীয় বাষ্প ঠান্ডা হয়ে ছোট ছোট জলকণায় পরিণত হওয়াকে ঘনীভবন বলে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "বৃষ্টিপাতের পরিমাণ মাপার যন্ত্রের নাম কী?",
+        "options": [
+          {"id": "a", "text": "থার্মোমিটার", "isCorrect": false},
+          {"id": "b", "text": "ব্যারোমিটার", "isCorrect": false},
+          {"id": "c", "text": "হাইগ্রোমিটার", "isCorrect": false},
+          {"id": "d", "text": "রেনগজ", "isCorrect": true}
+        ],
+        "explanation": "বৃষ্টিপাতের পরিমাণ মাপার যন্ত্রের নাম রেনগজ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "সূর্যরশ্মির ভূপৃষ্ঠের সাথে তৈরি হওয়া কোণকে কী বলে?",
+        "options": [
+          {"id": "a", "text": "পতনকোণ", "isCorrect": true},
+          {"id": "b", "text": "আবর্তন কোণ", "isCorrect": false},
+          {"id": "c", "text": "পরিক্রমণ কোণ", "isCorrect": false},
+          {"id": "d", "text": "অক্ষরেখার কোণ", "isCorrect": false}
+        ],
+        "explanation": "সূর্যরশ্মির ভূপৃষ্ঠের সাথে তৈরি হওয়া কোণকে পতনকোণ বলে।",
+        "timerSeconds": 30
+      }
+    ]
+  }

@@ -342,11 +342,11 @@
         "subjectId": "6400f81c9799bba273de1fca",
         "chapterId": "STORY03",
         "metadata": {
-          "createdBy": "Banglar Bidyalay Team",
-          "createdDate": "2024-10-27",
-          "durationMinutes": 15,
-          "topic": "সেনাপতি শংকর গল্প",
-          "description": "সেনাপতি শংকর গল্প থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2024-10-27",
+            "durationMinutes": 15,
+            "topic": "সেনাপতি শংকর গল্প",
+            "description": "সেনাপতি শংকর গল্প থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
         }
     },
     {
@@ -356,11 +356,11 @@
         "subjectId": "6400f81c9799bba273de1fca",
         "chapterId": "POEM04",
         "metadata": {
-          "createdBy": "Banglar Bidyalay Team",
-          "createdDate": "2024-10-27",
-          "durationMinutes": 15,
-          "topic": "পাইন দাঁড়িয়ে আকাশে নয়ন তুলি কবিতা",
-          "description": "পাইন দাঁড়িয়ে আকাশে নয়ন তুলি কবিতা থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2024-10-27",
+            "durationMinutes": 15,
+            "topic": "পাইন দাঁড়িয়ে আকাশে নয়ন তুলি কবিতা",
+            "description": "পাইন দাঁড়িয়ে আকাশে নয়ন তুলি কবিতা থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
         }
     },
     {
@@ -370,11 +370,11 @@
         "subjectId": "6400f81c9799bba273de1fca",
         "chapterId": "POEM05",
         "metadata": {
-          "createdBy": "Banglar Bidyalay Team",
-          "createdDate": "2024-10-27",
-          "durationMinutes": 15,
-          "topic": "মন ভালো করা কবিতা",
-          "description": "মন ভালো করা কবিতা থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2024-10-27",
+            "durationMinutes": 15,
+            "topic": "মন ভালো করা কবিতা",
+            "description": "মন ভালো করা কবিতা থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
         }
     },
     {
@@ -384,11 +384,11 @@
         "subjectId": "6400f81c9799bba273de1fca",
         "chapterId": "STORY02",
         "metadata": {
-          "createdBy": "Banglar Bidyalay Team",
-          "createdDate": "2024-10-27",
-          "durationMinutes": 15,
-          "topic": "পশু পাখির ভাষা গল্প",
-          "description": "পশু পাখির ভাষা গল্প থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2024-10-27",
+            "durationMinutes": 15,
+            "topic": "পশু পাখির ভাষা গল্প",
+            "description": "পশু পাখির ভাষা গল্প থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
         }
     },
     {
@@ -398,12 +398,123 @@
         "subjectId": "BEN101",
         "chapterId": "POEM06",
         "metadata": {
-          "createdBy": "Banglar Bidyalay Team",
-          "createdDate": "2024-10-27",
-          "durationMinutes": 15,
-          "topic": "আকাশ ভরা সূর্য তারা কবিতা",
-          "description": "আকাশ ভরা সূর্য তারা কবিতা থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2024-10-27",
+            "durationMinutes": 15,
+            "topic": "আকাশ ভরা সূর্য তারা কবিতা",
+            "description": "আকাশ ভরা সূর্য তারা কবিতা থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+        }
+    },
+    {
+        "quizId": "35",
+        "quizTitle": "আকাশ ভরা সূর্য তারা কুইজ",
+        "class": "6",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "chapterId": "POEM06",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2024-10-27",
+            "durationMinutes": 15,
+            "topic": "আকাশ ভরা সূর্য তারা",
+            "description": "আকাশ ভরা সূর্য তারা থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+        }
+    },
+    {
+        "quizId": "37",
+        "quizTitle": "তুমি কোথায় আছ কুইজ",
+        "class": "6",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "chapterId": "POEM08",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2024-10-27",
+            "durationMinutes": 15,
+            "topic": "তুমি কোথায় আছ",
+            "description": "তুমি কোথায় আছ থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+        }
+    },
+    {
+        "quizId": "38",
+        "quizTitle": "পৃথিবীর আবর্তন কুইজ",
+        "class": "6",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "chapterId": "POEM09",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2024-10-27",
+            "durationMinutes": 15,
+            "topic": "পৃথিবীর আবর্তন",
+            "description": "পৃথিবীর আবর্তন থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+        }
+    },
+    {
+        "quizId": "39",
+        "quizTitle": "জল-স্থল-বাতাস কুইজ",
+        "class": "6",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "chapterId": "POEM10",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2024-10-27",
+            "durationMinutes": 15,
+            "topic": "জল-স্থল-বাতাস",
+            "description": "জল-স্থল-বাতাস থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+        }
+    },
+    {
+        "quizId": "40",
+        "quizTitle": "বরফে ঢাকা মহাদেশ কুইজ",
+        "class": "6",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "chapterId": "POEM11",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2024-10-27",
+            "durationMinutes": 15,
+            "topic": "বরফে ঢাকা মহাদেশ",
+            "description": "বরফে ঢাকা মহাদেশ থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+        }
+    },
+    {
+        "quizId": "41",
+        "quizTitle": "আবহাওয়া ও জলবায়ু কুইজ",
+        "class": "6",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "chapterId": "POEM12",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2024-10-27",
+            "durationMinutes": 15,
+            "topic": "আবহাওয়া ও জলবায়ু",
+            "description": "আবহাওয়া ও জলবায়ু থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+        }
+    },
+    {
+        "quizId": "42",
+        "quizTitle": "বায়ুদূষণ কুইজ",
+        "class": "6",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "chapterId": "POEM13",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2024-10-27",
+            "durationMinutes": 15,
+            "topic": "বায়ুদূষণ",
+            "description": "বায়ুদূষণ থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+        }
+    },
+    {
+        "quizId": "43",
+        "quizTitle": "শব্দদূষণ কুইজ",
+        "class": "6",
+        "subjectId": "6400f821c17b6f44511ea7e2",
+        "chapterId": "POEM14",
+        "metadata": {
+            "createdBy": "Banglar Bidyalay Team",
+            "createdDate": "2024-10-27",
+            "durationMinutes": 15,
+            "topic": "শব্দদূষণ",
+            "description": "শব্দদূষণ থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
         }
     }
-    
 ]

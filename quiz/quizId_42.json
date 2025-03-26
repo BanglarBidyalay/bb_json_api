@@ -1,0 +1,136 @@
+{
+    "quizId": "42",
+    "quizTitle": "বায়ুদূষণ কুইজ",
+    "class": "6",
+    "subjectId": "6400f821c17b6f44511ea7e2",
+    "chapterId": "POEM13",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2024-10-27",
+      "durationMinutes": 15,
+      "topic": "বায়ুদূষণ",
+      "description": "বায়ুদূষণ থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "বাতাসে বিভিন্ন প্রকার বিষাক্ত গ্যাস মেশাকে কী বলে?",
+        "options": [
+          {"id": "a", "text": "বায়ুদূষণ", "isCorrect": true},
+          {"id": "b", "text": "জলদূষণ", "isCorrect": false},
+          {"id": "c", "text": "শব্দদূষণ", "isCorrect": false},
+          {"id": "d", "text": "মাটি দূষণ", "isCorrect": false}
+        ],
+        "explanation": "বাতাসে বিভিন্ন প্রকার বিষাক্ত গ্যাস মেশাকে বায়ুদূষণ বলে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "যানবাহনের ধোঁয়ায় প্রধানত কোন গ্যাসটি থাকে?",
+        "options": [
+          {"id": "a", "text": "কার্বন মনোক্সাইড", "isCorrect": true},
+          {"id": "b", "text": "অক্সিজেন", "isCorrect": false},
+          {"id": "c", "text": "নাইট্রোজেন", "isCorrect": false},
+          {"id": "d", "text": "হাইড্রোজেন", "isCorrect": false}
+        ],
+        "explanation": "যানবাহনের ধোঁয়ায় প্রধানত কার্বন মনোক্সাইড গ্যাসটি থাকে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "কলকারখানা ও শিল্পকেন্দ্র থেকে নির্গত ক্ষতিকারক গ্যাস কোনটি?",
+        "options": [
+          {"id": "a", "text": "অক্সিজেন", "isCorrect": false},
+          {"id": "b", "text": "কার্বন ডাইঅক্সাইড", "isCorrect": false},
+          {"id": "c", "text": "সালফার ডাইঅক্সাইড", "isCorrect": true},
+          {"id": "d", "text": "হাইড্রোজেন", "isCorrect": false}
+        ],
+        "explanation": "কলকারখানা ও শিল্পকেন্দ্র থেকে নির্গত ক্ষতিকারক গ্যাস সালফার ডাইঅক্সাইড।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "নিচের কোনটি বায়ুদূষণের কারণ?",
+        "options": [
+          {"id": "a", "text": "বৃক্ষচ্ছেদন", "isCorrect": true},
+          {"id": "b", "text": "বৃক্ষরোপণ", "isCorrect": false},
+          {"id": "c", "text": "জলসেচন", "isCorrect": false},
+          {"id": "d", "text": "সার ব্যবহার", "isCorrect": false}
+        ],
+        "explanation": "বৃক্ষচ্ছেদন বায়ুদূষণের কারণ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "ফ্রিজ ও এসি থেকে নির্গত কোন গ্যাস ওজোন স্তরের ক্ষয় করে?",
+        "options": [
+          {"id": "a", "text": "ক্লোরোফ্লুরোকার্বন (CFC)", "isCorrect": true},
+          {"id": "b", "text": "কার্বন ডাইঅক্সাইড", "isCorrect": false},
+          {"id": "c", "text": "মিথেন", "isCorrect": false},
+          {"id": "d", "text": "নাইট্রোজেন", "isCorrect": false}
+        ],
+        "explanation": "ফ্রিজ ও এসি থেকে নির্গত ক্লোরোফ্লুরোকার্বন (CFC) গ্যাস ওজোন স্তরের ক্ষয় করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "অ্যাসিড বৃষ্টির প্রধান কারণ কী?",
+        "options": [
+          {"id": "a", "text": "সালফার ডাইঅক্সাইড ও নাইট্রোজেন অক্সাইডের সাথে বৃষ্টির জলের বিক্রিয়া", "isCorrect": true},
+          {"id": "b", "text": "কার্বন ডাই অক্সাইডের সাথে বৃষ্টির জলের বিক্রিয়া", "isCorrect": false},
+          {"id": "c", "text": "অক্সিজেনের সাথে বৃষ্টির জলের বিক্রিয়া", "isCorrect": false},
+          {"id": "d", "text": "মিথেনের সাথে বৃষ্টির জলের বিক্রিয়া", "isCorrect": false}
+        ],
+        "explanation": "সালফার ডাইঅক্সাইড ও নাইট্রোজেন অক্সাইডের সাথে বৃষ্টির জলের বিক্রিয়া অ্যাসিড বৃষ্টির প্রধান কারণ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "গ্রিনহাউস গ্যাসের প্রধান উপাদান কোনটি?",
+        "options": [
+          {"id": "a", "text": "কার্বন ডাই অক্সাইড", "isCorrect": true},
+          {"id": "b", "text": "অক্সিজেন", "isCorrect": false},
+          {"id": "c", "text": "নাইট্রোজেন", "isCorrect": false},
+          {"id": "d", "text": "হিলিয়াম", "isCorrect": false}
+        ],
+        "explanation": "গ্রিনহাউস গ্যাসের প্রধান উপাদান কার্বন ডাই অক্সাইড।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "বায়ুমণ্ডলের তাপমাত্রা বৃদ্ধি পাওয়াকে কী বলে?",
+        "options": [
+          {"id": "a", "text": "অ্যাসিড বৃষ্টি", "isCorrect": false},
+          {"id": "b", "text": "বিশ্ব উষ্ণায়ন", "isCorrect": true},
+          {"id": "c", "text": "বায়ুদূষণ", "isCorrect": false},
+          {"id": "d", "text": "ওজোন স্তরের ক্ষয়", "isCorrect": false}
+        ],
+        "explanation": "বায়ুমণ্ডলের তাপমাত্রা বৃদ্ধি পাওয়াকে বিশ্ব উষ্ণায়ন বলে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "ধূমপান আমাদের শরীরের কোন অঙ্গের বেশি ক্ষতি করে?",
+        "options": [
+          {"id": "a", "text": "হৃৎপিণ্ড", "isCorrect": false},
+          {"id": "b", "text": "ফুসফুস", "isCorrect": true},
+          {"id": "c", "text": "যকৃৎ", "isCorrect": false},
+          {"id": "d", "text": "কিডনি", "isCorrect": false}
+        ],
+        "explanation": "ধূমপান আমাদের শরীরের ফুসফুসের বেশি ক্ষতি করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "বায়ুদূষণ নিয়ন্ত্রণে তুমি কী করতে পারো?",
+        "options": [
+          {"id": "a", "text": "বেশি করে গাছ লাগানো", "isCorrect": true},
+          {"id": "b", "text": "কলকারখানা তৈরি করা", "isCorrect": false},
+          {"id": "c", "text": "বেশি গাড়ি ব্যবহার করা", "isCorrect": false},
+          {"id": "d", "text": "আবর্জনা পোড়ানো", "isCorrect": false}
+        ],
+        "explanation": "বায়ুদূষণ নিয়ন্ত্রণে তুমি বেশি করে গাছ লাগাতে পারো।",
+        "timerSeconds": 30
+      }
+    ]
+  }

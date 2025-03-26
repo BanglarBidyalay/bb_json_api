@@ -1,0 +1,136 @@
+{
+    "quizId": "40",
+    "quizTitle": "বরফে ঢাকা মহাদেশ কুইজ",
+    "class": "6",
+    "subjectId": "6400f821c17b6f44511ea7e2",
+    "chapterId": "POEM11",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2024-10-27",
+      "durationMinutes": 15,
+      "topic": "বরফে ঢাকা মহাদেশ",
+      "description": "বরফে ঢাকা মহাদেশ থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "বরফে ঢাকা মহাদেশ কোনটি?",
+        "options": [
+          {"id": "a", "text": "এশিয়া", "isCorrect": false},
+          {"id": "b", "text": "ইউরোপ", "isCorrect": false},
+          {"id": "c", "text": "উত্তর আমেরিকা", "isCorrect": false},
+          {"id": "d", "text": "আন্টার্কটিকা", "isCorrect": true}
+        ],
+        "explanation": "বরফে ঢাকা মহাদেশ আন্টার্কটিকা।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "আন্টার্কটিকার উত্তর দিকে কোন মহাসাগর অবস্থিত?",
+        "options": [
+          {"id": "a", "text": "প্রশান্ত মহাসাগর", "isCorrect": false},
+          {"id": "b", "text": "কুমেরু মহাসাগর", "isCorrect": true},
+          {"id": "c", "text": "ভারত মহাসাগর", "isCorrect": false},
+          {"id": "d", "text": "আটলান্টিক মহাসাগর", "isCorrect": false}
+        ],
+        "explanation": "আন্টার্কটিকার উত্তর দিকে কুমেরু মহাসাগর অবস্থিত।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "আন্টার্কটিকার গ্রীষ্মকালে তাপমাত্রা কততে পৌঁছায়?",
+        "options": [
+          {"id": "a", "text": "০০° সে", "isCorrect": true},
+          {"id": "b", "text": "-২০° সে", "isCorrect": false},
+          {"id": "c", "text": "২০° সে", "isCorrect": false},
+          {"id": "d", "text": "৫০° সে", "isCorrect": false}
+        ],
+        "explanation": "আন্টার্কটিকার গ্রীষ্মকালে তাপমাত্রা ০০° সে তে পৌঁছায়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "আন্টার্কটিকার একমাত্র স্থায়ী বাসিন্দা কোন পাখি?",
+        "options": [
+          {"id": "a", "text": "পেঙ্গুইন", "isCorrect": true},
+          {"id": "b", "text": "অ্যালবাট্রস", "isCorrect": false},
+          {"id": "c", "text": "ঈগল", "isCorrect": false},
+          {"id": "d", "text": "চড়ুই", "isCorrect": false}
+        ],
+        "explanation": "আন্টার্কটিকার একমাত্র স্থায়ী বাসিন্দা পেঙ্গুইন পাখি।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "নরওয়ের কোন অভিযাত্রী প্রথম দক্ষিণ মেরুতে পৌঁছেছিলেন?",
+        "options": [
+          {"id": "a", "text": "রোয়াল্ড আমুন্ডসেন", "isCorrect": true},
+          {"id": "b", "text": "রবার্ট স্কট", "isCorrect": false},
+          {"id": "c", "text": "ইউরি গ্যাগারিন", "isCorrect": false},
+          {"id": "d", "text": "নিল আর্মস্ট্রং", "isCorrect": false}
+        ],
+        "explanation": "রোয়াল্ড আমুন্ডসেন প্রথম দক্ষিণ মেরুতে পৌঁছেছিলেন।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "কত সালে রোয়াল্ড আমুন্ডসেন দক্ষিণ মেরুতে পৌঁছেছিলেন?",
+        "options": [
+          {"id": "a", "text": "১৯০৯ সালে", "isCorrect": false},
+          {"id": "b", "text": "১৯১০ সালে", "isCorrect": false},
+          {"id": "c", "text": "১৯১১ সালে", "isCorrect": true},
+          {"id": "d", "text": "১৯১২ সালে", "isCorrect": false}
+        ],
+        "explanation": "১৯১১ সালে রোয়াল্ড আমুন্ডসেন দক্ষিণ মেরুতে পৌঁছেছিলেন।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "আন্টার্কটিকার বরফের স্তর গলে গেলে কিসের জলস্তর বেড়ে যাবে?",
+        "options": [
+          {"id": "a", "text": "সমুদ্রের", "isCorrect": true},
+          {"id": "b", "text": "নদীর", "isCorrect": false},
+          {"id": "c", "text": "পুকুরের", "isCorrect": false},
+          {"id": "d", "text": "হ্রদের", "isCorrect": false}
+        ],
+        "explanation": "আন্টার্কটিকার বরফের স্তর গলে গেলে সমুদ্রের জলস্তর বেড়ে যাবে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "উত্তর মেরু অঞ্চলের প্রধান বাসিন্দা কোন প্রাণী?",
+        "options": [
+          {"id": "a", "text": "পেঙ্গুইন", "isCorrect": false},
+          {"id": "b", "text": "মেরু ভালুক", "isCorrect": true},
+          {"id": "c", "text": "সীল", "isCorrect": false},
+          {"id": "d", "text": "তিমি", "isCorrect": false}
+        ],
+        "explanation": "উত্তর মেরু অঞ্চলের প্রধান বাসিন্দা মেরু ভালুক।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "গ্রীষ্মকালে আন্টার্কটিকা নিরক্ষীয় অঞ্চলের থেকেও বেশি কী পায়?",
+        "options": [
+          {"id": "a", "text": "সূর্যকিরণ", "isCorrect": true},
+          {"id": "b", "text": "বৃষ্টিপাত", "isCorrect": false},
+          {"id": "c", "text": "বায়ুপ্রবাহ", "isCorrect": false},
+          {"id": "d", "text": "মেঘ", "isCorrect": false}
+        ],
+        "explanation": "গ্রীষ্মকালে আন্টার্কটিকা নিরক্ষীয় অঞ্চলের থেকেও বেশি সূর্যকিরণ পায়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "আন্টার্কটিকায় ভারতের প্রথম অভিযান কত সালে হয়েছিল?",
+        "options": [
+          {"id": "a", "text": "জানুয়ারি মাসে", "isCorrect": false},
+          {"id": "b", "text": "জুন মাসে", "isCorrect": false},
+          {"id": "c", "text": "সেপ্টেম্বর মাসে", "isCorrect": false},
+          {"id": "d", "text": "ডিসেম্বর মাসে", "isCorrect": true}
+        ],
+        "explanation": "আন্টার্কটিকায় ভারতের প্রথম অভিযান ডিসেম্বর মাসে হয়েছিল।",
+        "timerSeconds": 30
+      }
+    ]
+  }

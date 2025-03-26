@@ -1,0 +1,136 @@
+{
+    "quizId": "39",
+    "quizTitle": "জল-স্থল-বাতাস কুইজ",
+    "class": "6",
+    "subjectId": "6400f821c17b6f44511ea7e2",
+    "chapterId": "POEM10",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2024-10-27",
+      "durationMinutes": 15,
+      "topic": "জল-স্থল-বাতাস",
+      "description": "জল-স্থল-বাতাস থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "পৃথিবীকে ঘিরে থাকা বায়ুর স্তরকে কী বলে?",
+        "options": [
+          {"id": "a", "text": "বায়ুমণ্ডল", "isCorrect": true},
+          {"id": "b", "text": "জলমণ্ডল", "isCorrect": false},
+          {"id": "c", "text": "শিলামণ্ডল", "isCorrect": false},
+          {"id": "d", "text": "কেন্দ্রমণ্ডল", "isCorrect": false}
+        ],
+        "explanation": "পৃথিবীকে ঘিরে থাকা বায়ুর স্তরকে বায়ুমণ্ডল বলে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "দিনের বেলায় আকাশ নীল দেখানোর প্রধান কারণ কী?",
+        "options": [
+          {"id": "a", "text": "বাতাসে ধূলিকণার দ্বারা নীল রঙের আলোর বিচ্ছুরণ", "isCorrect": true},
+          {"id": "b", "text": "জলীয় বাষ্পের উপস্থিতি", "isCorrect": false},
+          {"id": "c", "text": "মেঘের রং", "isCorrect": false},
+          {"id": "d", "text": "সূর্যের আলোর নিজস্ব নীল রং", "isCorrect": false}
+        ],
+        "explanation": "দিনের বেলায় আকাশ নীল দেখানোর প্রধান কারণ বাতাসে ধূলিকণার দ্বারা নীল রঙের আলোর বিচ্ছুরণ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "ভূপৃষ্ঠ থেকে উপরে কত কিমি পর্যন্ত বায়ুস্তরকে ট্রপোস্ফিয়ার বলে?",
+        "options": [
+          {"id": "a", "text": "১৬ কিমি", "isCorrect": true},
+          {"id": "b", "text": "৫০ কিমি", "isCorrect": false},
+          {"id": "c", "text": "৮০ কিমি", "isCorrect": false},
+          {"id": "d", "text": "৩০০ কিমি", "isCorrect": false}
+        ],
+        "explanation": "ভূপৃষ্ঠ থেকে উপরে ১৬ কিমি পর্যন্ত বায়ুস্তরকে ট্রপোস্ফিয়ার বলে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "ট্রপোস্ফিয়ার স্তরে উচ্চতা বাড়ার সাথে সাথে তাপমাত্রার কী পরিবর্তন হয়?",
+        "options": [
+          {"id": "a", "text": "কমতে থাকে", "isCorrect": true},
+          {"id": "b", "text": "বাড়তে থাকে", "isCorrect": false},
+          {"id": "c", "text": "অপরিবর্তিত থাকে", "isCorrect": false},
+          {"id": "d", "text": "প্রথমে বাড়ে পরে কমে", "isCorrect": false}
+        ],
+        "explanation": "ট্রপোস্ফিয়ার স্তরে উচ্চতা বাড়ার সাথে সাথে তাপমাত্রা কমতে থাকে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "বায়ুমণ্ডলের কোন স্তরে জেটপ্লেন চলাচল করে?",
+        "options": [
+          {"id": "a", "text": "ট্রপোস্ফিয়ার", "isCorrect": false},
+          {"id": "b", "text": "স্ট্র্যাটোস্ফিয়ার", "isCorrect": true},
+          {"id": "c", "text": "মেসোস্ফিয়ার", "isCorrect": false},
+          {"id": "d", "text": "থার্মোস্ফিয়ার", "isCorrect": false}
+        ],
+        "explanation": "বায়ুমণ্ডলের স্ট্র্যাটোস্ফিয়ার স্তরে জেটপ্লেন চলাচল করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "সূর্য থেকে আসা ক্ষতিকারক অতিবেগুনি রশ্মি থেকে আমাদের রক্ষা করে বায়ুমণ্ডলের কোন স্তর?",
+        "options": [
+          {"id": "a", "text": "ওজোন স্তর (স্ট্র্যাটোস্ফিয়ার)", "isCorrect": true},
+          {"id": "b", "text": "ট্রপোস্ফিয়ার", "isCorrect": false},
+          {"id": "c", "text": "মেসোস্ফিয়ার", "isCorrect": false},
+          {"id": "d", "text": "থার্মোস্ফিয়ার", "isCorrect": false}
+        ],
+        "explanation": "সূর্য থেকে আসা ক্ষতিকারক অতিবেগুনি রশ্মি থেকে আমাদের রক্ষা করে ওজোন স্তর (স্ট্র্যাটোস্ফিয়ার)।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "বেতার তরঙ্গ প্রতিফলিত হয়ে পৃথিবীতে ফিরে আসে বায়ুমণ্ডলের কোন স্তর থেকে?",
+        "options": [
+          {"id": "a", "text": "ট্রপোস্ফিয়ার", "isCorrect": false},
+          {"id": "b", "text": "স্ট্র্যাটোস্ফিয়ার", "isCorrect": false},
+          {"id": "c", "text": "মেসোস্ফিয়ার", "isCorrect": false},
+          {"id": "d", "text": "থার্মোস্ফিয়ার (আয়নোস্ফিয়ার)", "isCorrect": true}
+        ],
+        "explanation": "বেতার তরঙ্গ প্রতিফলিত হয়ে পৃথিবীতে ফিরে আসে বায়ুমণ্ডলের থার্মোস্ফিয়ার (আয়নোস্ফিয়ার) স্তর থেকে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "বায়ুমণ্ডল না থাকলে দিনের বেলা পৃথিবী কেমন হত?",
+        "options": [
+          {"id": "a", "text": "ভীষণ গরম", "isCorrect": true},
+          {"id": "b", "text": "ভীষণ ঠান্ডা", "isCorrect": false},
+          {"id": "c", "text": "স্বাভাবিক তাপমাত্রা", "isCorrect": false},
+          {"id": "d", "text": "মেঘলা", "isCorrect": false}
+        ],
+        "explanation": "বায়ুমণ্ডল না থাকলে দিনের বেলা পৃথিবী ভীষণ গরম হত।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "নদ-নদী, জলাশয়, সমুদ্র থেকে সূর্যের তাপে জল বাষ্প হয়ে বাতাসে মেশাকে কী বলে?",
+        "options": [
+          {"id": "a", "text": "বাষ্পীভবন", "isCorrect": true},
+          {"id": "b", "text": "ঘনীভবন", "isCorrect": false},
+          {"id": "c", "text": "বৃষ্টিপাত", "isCorrect": false},
+          {"id": "d", "text": "তুষারপাত", "isCorrect": false}
+        ],
+        "explanation": "নদ-নদী, জলাশয়, সমুদ্র থেকে সূর্যের তাপে জল বাষ্প হয়ে বাতাসে মেশাকে বাষ্পীভবন বলে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "পৃথিবীর জল তরল, কঠিন ও গ্যাসীয় - এই তিনটি অবস্থাতেই পাওয়া যায় কিসের মাধ্যমে?",
+        "options": [
+          {"id": "a", "text": "জলচক্র", "isCorrect": true},
+          {"id": "b", "text": "বায়ুপ্রবাহ", "isCorrect": false},
+          {"id": "c", "text": "তাপ সঞ্চালন", "isCorrect": false},
+          {"id": "d", "text": "শিলাচক্র", "isCorrect": false}
+        ],
+        "explanation": "পৃথিবীর জল তরল, কঠিন ও গ্যাসীয় - এই তিনটি অবস্থাতেই পাওয়া যায় জলচক্রের মাধ্যমে।",
+        "timerSeconds": 30
+      }
+    ]
+  }

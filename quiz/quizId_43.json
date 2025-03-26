@@ -1,0 +1,136 @@
+{
+    "quizId": "43",
+    "quizTitle": "শব্দদূষণ কুইজ",
+    "class": "6",
+    "subjectId": "6400f821c17b6f44511ea7e2",
+    "chapterId": "POEM14",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2024-10-27",
+      "durationMinutes": 15,
+      "topic": "শব্দদূষণ",
+      "description": "শব্দদূষণ থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "শব্দের তীব্রতা মাপার একক কী?",
+        "options": [
+          {"id": "a", "text": "ডেসিবেল (db)", "isCorrect": true},
+          {"id": "b", "text": "মিটার", "isCorrect": false},
+          {"id": "c", "text": "কিলোগ্রাম", "isCorrect": false},
+          {"id": "d", "text": "লিটার", "isCorrect": false}
+        ],
+        "explanation": "শব্দের তীব্রতা মাপার একক ডেসিবেল (db)।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "কত ডেসিবেলের বেশি জোরে শব্দে মানুষ ও অন্যান্য প্রাণীর অসুবিধা হয়?",
+        "options": [
+          {"id": "a", "text": "৬৫ ডেসিবেল", "isCorrect": true},
+          {"id": "b", "text": "৪০ ডেসিবেল", "isCorrect": false},
+          {"id": "c", "text": "২০ ডেসিবেল", "isCorrect": false},
+          {"id": "d", "text": "৯০ ডেসিবেল", "isCorrect": false}
+        ],
+        "explanation": "৬৫ ডেসিবেলের বেশি জোরে শব্দে মানুষ ও অন্যান্য প্রাণীর অসুবিধা হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "নিচের কোনটি শব্দদূষণের উৎস?",
+        "options": [
+          {"id": "a", "text": "যানবাহনের আওয়াজ", "isCorrect": true},
+          {"id": "b", "text": "পাখির ডাক", "isCorrect": false},
+          {"id": "c", "text": "নদীর স্রোতের শব্দ", "isCorrect": false},
+          {"id": "d", "text": "বাতাসের শব্দ", "isCorrect": false}
+        ],
+        "explanation": "যানবাহনের আওয়াজ শব্দদূষণের উৎস।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "স্কুল, হাসপাতাল, বিভিন্ন প্রতিষ্ঠানের সামনে 'সাইলেন্স জোন'-এর অর্থ কী?",
+        "options": [
+          {"id": "a", "text": "হর্ন বাজানো নিষেধ", "isCorrect": true},
+          {"id": "b", "text": "জোরে কথা বলা নিষেধ", "isCorrect": false},
+          {"id": "c", "text": "দৌড়ানো নিষেধ", "isCorrect": false},
+          {"id": "d", "text": "থামা নিষেধ", "isCorrect": false}
+        ],
+        "explanation": "স্কুল, হাসপাতাল, বিভিন্ন প্রতিষ্ঠানের সামনে 'সাইলেন্স জোন'-এর অর্থ হর্ন বাজানো নিষেধ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "গ্রামাঞ্চলের তুলনায় শহরের মানুষের ওপর কিসের প্রভাব বেশি?",
+        "options": [
+          {"id": "a", "text": "শব্দদূষণ", "isCorrect": true},
+          {"id": "b", "text": "বায়ুদূষণ", "isCorrect": false},
+          {"id": "c", "text": "জলদূষণ", "isCorrect": false},
+          {"id": "d", "text": "মাটি দূষণ", "isCorrect": false}
+        ],
+        "explanation": "গ্রামাঞ্চলের তুলনায় শহরের মানুষের ওপর শব্দদূষণের প্রভাব বেশি।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "লাউডস্পিকারের শব্দের তীব্রতা সাধারণত কত ডেসিবেল হয়ে থাকে?",
+        "options": [
+          {"id": "a", "text": "৮০ ডেসিবেল", "isCorrect": true},
+          {"id": "b", "text": "২০ ডেসিবেল", "isCorrect": false},
+          {"id": "c", "text": "৪০ ডেসিবেল", "isCorrect": false},
+          {"id": "d", "text": "৬৫ ডেসিবেল", "isCorrect": false}
+        ],
+        "explanation": "লাউডস্পিকারের শব্দের তীব্রতা সাধারণত ৮০ ডেসিবেল হয়ে থাকে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "শব্দদূষণের ফলে মানুষের কী হতে পারে?",
+        "options": [
+          {"id": "a", "text": "অনিদ্রা", "isCorrect": true},
+          {"id": "b", "text": "ভালো ঘুম", "isCorrect": false},
+          {"id": "c", "text": "ক্ষুধা বৃদ্ধি", "isCorrect": false},
+          {"id": "d", "text": "স্মৃতিশক্তি বৃদ্ধি", "isCorrect": false}
+        ],
+        "explanation": "শব্দদূষণের ফলে মানুষের অনিদ্রা হতে পারে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "শব্দদূষণ নিয়ন্ত্রণে কী করা যেতে পারে?",
+        "options": [
+          {"id": "a", "text": "গাছের চারা লাগানো", "isCorrect": true},
+          {"id": "b", "text": "জোরে গান বাজানো", "isCorrect": false},
+          {"id": "c", "text": "বেশি হর্ন বাজানো", "isCorrect": false},
+          {"id": "d", "text": "বাজি ফাটানো", "isCorrect": false}
+        ],
+        "explanation": "শব্দদূষণ নিয়ন্ত্রণে গাছের চারা লাগানো যেতে পারে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "শব্দের উৎস ও শ্রোতার মধ্যে দূরত্ব বাড়ালে কী কমানো যায়?",
+        "options": [
+          {"id": "a", "text": "শব্দদূষণ", "isCorrect": true},
+          {"id": "b", "text": "বায়ুদূষণ", "isCorrect": false},
+          {"id": "c", "text": "জলদূষণ", "isCorrect": false},
+          {"id": "d", "text": "মাটি দূষণ", "isCorrect": false}
+        ],
+        "explanation": "শব্দের উৎস ও শ্রোতার মধ্যে দূরত্ব বাড়ালে শব্দদূষণ কমানো যায়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "সিনেমা বা অডিটোরিয়াম হলে শব্দের তীব্রতা কমানোর জন্য কী লাগানো থাকে?",
+        "options": [
+          {"id": "a", "text": "যন্ত্র", "isCorrect": false},
+          {"id": "b", "text": "পর্দা", "isCorrect": true},
+          {"id": "c", "text": "আলো", "isCorrect": false},
+          {"id": "d", "text": "পাখা", "isCorrect": false}
+        ],
+        "explanation": "সিনেমা বা অডিটোরিয়াম হলে শব্দের তীব্রতা কমানোর জন্য পর্দা লাগানো থাকে।",
+        "timerSeconds": 30
+      }
+    ]
+  }
