@@ -1,0 +1,136 @@
+{
+    "quizId": "20",
+    "quizTitle": "বাংলা সাহিত্য: রবীন্দ্রনাথের কবিতা",
+    "class": "10",
+    "subjectId": "LIT101",
+    "chapterId": "CH20",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2025-03-12",
+      "durationMinutes": 30,
+      "topic": "Bengali Literature: Robindronath's Poems",
+      "description": "এই কুইজটি রবীন্দ্রনাথ ঠাকুরের কবিতা সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "রবীন্দ্রনাথ ঠাকুরের 'সোনার তরী' কবিতাটি কোন কাব্যগ্রন্থের অন্তর্গত?",
+        "options": [
+          {"id": "a", "text": "মানসী", "isCorrect": false},
+          {"id": "b", "text": "সোনার তরী", "isCorrect": true},
+          {"id": "c", "text": "চিত্রা", "isCorrect": false},
+          {"id": "d", "text": "ক্ষণিকা", "isCorrect": false}
+        ],
+        "explanation": "'সোনার তরী' কবিতাটি 'সোনার তরী' কাব্যগ্রন্থের অন্তর্গত।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "রবীন্দ্রনাথ ঠাকুরের 'আফ্রিকা' কবিতাটি কোন কাব্যগ্রন্থের অন্তর্গত?",
+        "options": [
+          {"id": "a", "text": "পূরবী", "isCorrect": false},
+          {"id": "b", "text": "শেষ লেখা", "isCorrect": false},
+          {"id": "c", "text": "পত্রপুট", "isCorrect": false},
+          {"id": "d", "text": "পত্রপুট", "isCorrect": true}
+        ],
+        "explanation": "'আফ্রিকা' কবিতাটি 'পত্রপুট' কাব্যগ্রন্থের অন্তর্গত।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "রবীন্দ্রনাথ ঠাকুরের 'বাঁশি' কবিতাটি কোন কাব্যগ্রন্থের অন্তর্গত?",
+        "options": [
+          {"id": "a", "text": "ক্ষণিকা", "isCorrect": true},
+          {"id": "b", "text": "সোনার তরী", "isCorrect": false},
+          {"id": "c", "text": "চিত্রা", "isCorrect": false},
+          {"id": "d", "text": "বলাকা", "isCorrect": false}
+        ],
+        "explanation": "'বাঁশি' কবিতাটি 'ক্ষণিকা' কাব্যগ্রন্থের অন্তর্গত।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "রবীন্দ্রনাথ ঠাকুরের 'দুই বিঘা জমি' কবিতাটি কোন পত্রিকায় প্রথম প্রকাশিত হয়?",
+        "options": [
+          {"id": "a", "text": "বঙ্গদর্শন", "isCorrect": false},
+          {"id": "b", "text": "প্রবাসী", "isCorrect": false},
+          {"id": "c", "text": "সবুজপত্র", "isCorrect": false},
+          {"id": "d", "text": "ভারতী", "isCorrect": true}
+        ],
+        "explanation": "'দুই বিঘা জমি' কবিতাটি 'ভারতী' পত্রিকায় প্রথম প্রকাশিত হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "রবীন্দ্রনাথ ঠাকুরের 'সাধারণ মেয়ে' কবিতাটি কোন কাব্যগ্রন্থের অন্তর্গত?",
+        "options": [
+          {"id": "a", "text": "ক্ষণিকা", "isCorrect": false},
+          {"id": "b", "text": "চিত্রা", "isCorrect": true},
+          {"id": "c", "text": "বলাকা", "isCorrect": false},
+          {"id": "d", "text": "পূরবী", "isCorrect": false}
+        ],
+        "explanation": "'সাধারণ মেয়ে' কবিতাটি 'চিত্রা' কাব্যগ্রন্থের অন্তর্গত।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "রবীন্দ্রনাথ ঠাকুরের 'এবার ফিরাও মোরে' কবিতাটি কোন কাব্যগ্রন্থের অন্তর্গত?",
+        "options": [
+          {"id": "a", "text": "মানসী", "isCorrect": true},
+          {"id": "b", "text": "সোনার তরী", "isCorrect": false},
+          {"id": "c", "text": "চিত্রা", "isCorrect": false},
+          {"id": "d", "text": "ক্ষণিকা", "isCorrect": false}
+        ],
+        "explanation": "'এবার ফিরাও মোরে' কবিতাটি 'মানসী' কাব্যগ্রন্থের অন্তর্গত।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "রবীন্দ্রনাথ ঠাকুরের 'শিশু' কবিতাটি কোন কাব্যগ্রন্থের অন্তর্গত?",
+        "options": [
+          {"id": "a", "text": "শিশু", "isCorrect": true},
+          {"id": "b", "text": "শিশু ভোলানাথ", "isCorrect": false},
+          {"id": "c", "text": "পূরবী", "isCorrect": false},
+          {"id": "d", "text": "বলাকা", "isCorrect": false}
+        ],
+        "explanation": "'শিশু' কবিতাটি 'শিশু' কাব্যগ্রন্থের অন্তর্গত।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "রবীন্দ্রনাথ ঠাকুরের 'বসুন্ধরা' কবিতাটি কোন কাব্যগ্রন্থের অন্তর্গত?",
+        "options": [
+          {"id": "a", "text": "পূরবী", "isCorrect": false},
+          {"id": "b", "text": "বলাকা", "isCorrect": false},
+          {"id": "c", "text": "ক্ষণিকা", "isCorrect": false},
+          {"id": "d", "text": "জন্মদিনে", "isCorrect": true}
+        ],
+        "explanation": "'বসুন্ধরা' কবিতাটি 'জন্মদিনে' কাব্যগ্রন্থের অন্তর্গত।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "রবীন্দ্রনাথ ঠাকুরের 'আফ্রিকা' কবিতাটি কোন ছন্দে রচিত?",
+        "options": [
+          {"id": "a", "text": "অক্ষরবৃত্ত", "isCorrect": false},
+          {"id": "b", "text": "মাত্রাবৃত্ত", "isCorrect": false},
+          {"id": "c", "text": "গদ্য ছন্দ", "isCorrect": true},
+          {"id": "d", "text": "স্বরবৃত্ত", "isCorrect": false}
+        ],
+        "explanation": "'আফ্রিকা' কবিতাটি গদ্য ছন্দে রচিত।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "রবীন্দ্রনাথ ঠাকুরের 'সোনার তরী' কবিতায় 'ঠাঁই নাই ঠাঁই নাই' কেন বলা হয়েছে?",
+        "options": [
+          {"id": "a", "text": "নদীর স্রোতের কারণে", "isCorrect": false},
+          {"id": "b", "text": "স্বর্ণ যুগের কারণে", "isCorrect": false},
+          {"id": "c", "text": "কালের স্রোতে স্থান সংকুলান না হওয়ার কারণে", "isCorrect": true},
+          {"id": "d", "text": "মানুষের স্বার্থপরতার কারণে", "isCorrect": false}
+        ],
+        "explanation": "'সোনার তরী' কবিতায় 'ঠাঁই নাই ঠাঁই নাই' কালের স্রোতে স্থান সংকুলান না হওয়ার কারণে বলা হয়েছে।",
+        "timerSeconds": 30
+      }
+    ]
+  }

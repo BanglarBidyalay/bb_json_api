@@ -1,0 +1,136 @@
+{
+    "quizId": "17",
+    "quizTitle": "পদার্থের গুণাবলি",
+    "class": "10",
+    "subjectId": "CHE103",
+    "chapterId": "CH17",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2025-03-12",
+      "durationMinutes": 30,
+      "topic": "Properties of Matter",
+      "description": "এই কুইজটি পদার্থের গুণাবলি সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "কোনটি পদার্থের মৌলিক একক?",
+        "options": [
+          {"id": "a", "text": "অণু", "isCorrect": false},
+          {"id": "b", "text": "পরমাণু", "isCorrect": true},
+          {"id": "c", "text": "আয়ন", "isCorrect": false},
+          {"id": "d", "text": "ইলেকট্রন", "isCorrect": false}
+        ],
+        "explanation": "পরমাণু পদার্থের মৌলিক একক।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "কোনটি পদার্থের ভৌত অবস্থা নয়?",
+        "options": [
+          {"id": "a", "text": "কঠিন", "isCorrect": false},
+          {"id": "b", "text": "তরল", "isCorrect": false},
+          {"id": "c", "text": "গ্যাসীয়", "isCorrect": false},
+          {"id": "d", "text": "রাসায়নিক", "isCorrect": true}
+        ],
+        "explanation": "রাসায়নিক পদার্থের ভৌত অবস্থা নয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "কোন বৈশিষ্ট্যটি পদার্থের ঘনত্ব নির্দেশ করে?",
+        "options": [
+          {"id": "a", "text": "আয়তন", "isCorrect": false},
+          {"id": "b", "text": "ভর", "isCorrect": false},
+          {"id": "c", "text": "ভর/আয়তন", "isCorrect": true},
+          {"id": "d", "text": "তাপমাত্রা", "isCorrect": false}
+        ],
+        "explanation": "ভর/আয়তন পদার্থের ঘনত্ব নির্দেশ করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "কোনটি পদার্থের রাসায়নিক পরিবর্তন?",
+        "options": [
+          {"id": "a", "text": "বরফ গলানো", "isCorrect": false},
+          {"id": "b", "text": "জল বাষ্পীভূত হওয়া", "isCorrect": false},
+          {"id": "c", "text": "লোহার মরিচা পড়া", "isCorrect": true},
+          {"id": "d", "text": "কাগজ ছেঁড়া", "isCorrect": false}
+        ],
+        "explanation": "লোহার মরিচা পড়া পদার্থের রাসায়নিক পরিবর্তন।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "কোনটি পদার্থের স্থিতিস্থাপকতার উদাহরণ?",
+        "options": [
+          {"id": "a", "text": "লোহা বাঁকানো", "isCorrect": false},
+          {"id": "b", "text": "স্প্রিং প্রসারিত হওয়া", "isCorrect": true},
+          {"id": "c", "text": "কাগজ পোড়ানো", "isCorrect": false},
+          {"id": "d", "text": "জল জমে বরফ হওয়া", "isCorrect": false}
+        ],
+        "explanation": "স্প্রিং প্রসারিত হওয়া পদার্থের স্থিতিস্থাপকতার উদাহরণ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "কোন বৈশিষ্ট্যটি পদার্থের নমনীয়তা নির্দেশ করে?",
+        "options": [
+          {"id": "a", "text": "ভাঙন প্রবণতা", "isCorrect": false},
+          {"id": "b", "text": "পাতলা পাতে পরিণত হওয়ার ক্ষমতা", "isCorrect": true},
+          {"id": "c", "text": "তাপ পরিবাহিতা", "isCorrect": false},
+          {"id": "d", "text": "বিদ্যুৎ পরিবাহিতা", "isCorrect": false}
+        ],
+        "explanation": "পাতলা পাতে পরিণত হওয়ার ক্ষমতা পদার্থের নমনীয়তা নির্দেশ করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "কোনটি পদার্থের তাপ পরিবাহিতার উদাহরণ?",
+        "options": [
+          {"id": "a", "text": "কাঠের চামচ গরম হওয়া", "isCorrect": false},
+          {"id": "b", "text": "ধাতুর চামচ গরম হওয়া", "isCorrect": true},
+          {"id": "c", "text": "প্লাস্টিকের চামচ গরম হওয়া", "isCorrect": false},
+          {"id": "d", "text": "কাচের চামচ গরম হওয়া", "isCorrect": false}
+        ],
+        "explanation": "ধাতুর চামচ গরম হওয়া পদার্থের তাপ পরিবাহিতার উদাহরণ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "কোন বৈশিষ্ট্যটি পদার্থের দ্রাব্যতা নির্দেশ করে?",
+        "options": [
+          {"id": "a", "text": "ঘনত্ব", "isCorrect": false},
+          {"id": "b", "text": "গলনাঙ্ক", "isCorrect": false},
+          {"id": "c", "text": "দ্রবীভূত হওয়ার ক্ষমতা", "isCorrect": true},
+          {"id": "d", "text": "স্ফুটনাঙ্ক", "isCorrect": false}
+        ],
+        "explanation": "দ্রবীভূত হওয়ার ক্ষমতা পদার্থের দ্রাব্যতা নির্দেশ করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "কোনটি পদার্থের চৌম্বক ধর্মের উদাহরণ?",
+        "options": [
+          {"id": "a", "text": "তামা আকর্ষণ করা", "isCorrect": false},
+          {"id": "b", "text": "লোহা আকর্ষণ করা", "isCorrect": true},
+          {"id": "c", "text": "কাগজ আকর্ষণ করা", "isCorrect": false},
+          {"id": "d", "text": "প্লাস্টিক আকর্ষণ করা", "isCorrect": false}
+        ],
+        "explanation": "লোহা আকর্ষণ করা পদার্থের চৌম্বক ধর্মের উদাহরণ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "কোনটি পদার্থের বৈদ্যুতিক পরিবাহিতার উদাহরণ?",
+        "options": [
+          {"id": "a", "text": "রাবার বিদ্যুৎ পরিবহন করা", "isCorrect": false},
+          {"id": "b", "text": "কাগজ বিদ্যুৎ পরিবহন করা", "isCorrect": false},
+          {"id": "c", "text": "ধাতু বিদ্যুৎ পরিবহন করা", "isCorrect": true},
+          {"id": "d", "text": "কাঠ বিদ্যুৎ পরিবহন করা", "isCorrect": false}
+        ],
+        "explanation": "ধাতু বিদ্যুৎ পরিবহন করা পদার্থের বৈদ্যুতিক পরিবাহিতার উদাহরণ।",
+        "timerSeconds": 30
+      }
+    ]
+  }

@@ -1,0 +1,136 @@
+{
+    "quizId": "14",
+    "quizTitle": "কম্পিউটার নেটওয়ার্ক",
+    "class": "10",
+    "subjectId": "CS101",
+    "chapterId": "CH14",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2025-03-12",
+      "durationMinutes": 30,
+      "topic": "Computer Networks",
+      "description": "এই কুইজটি কম্পিউটার নেটওয়ার্ক সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "নিম্নলিখিত কোনটি একটি লোকাল এরিয়া নেটওয়ার্ক (LAN)?",
+        "options": [
+          {"id": "a", "text": "ইন্টারনেট", "isCorrect": false},
+          {"id": "b", "text": "বাড়ির ওয়াইফাই নেটওয়ার্ক", "isCorrect": true},
+          {"id": "c", "text": "মোবাইল ডেটা নেটওয়ার্ক", "isCorrect": false},
+          {"id": "d", "text": "স্যাটেলাইট নেটওয়ার্ক", "isCorrect": false}
+        ],
+        "explanation": "বাড়ির ওয়াইফাই নেটওয়ার্ক একটি লোকাল এরিয়া নেটওয়ার্ক (LAN)।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "কোন ডিভাইসটি নেটওয়ার্কে ডেটা প্যাকেট ফরওয়ার্ড করে?",
+        "options": [
+          {"id": "a", "text": "হাব", "isCorrect": false},
+          {"id": "b", "text": "সুইচ", "isCorrect": true},
+          {"id": "c", "text": "মডেম", "isCorrect": false},
+          {"id": "d", "text": "রিপিটার", "isCorrect": false}
+        ],
+        "explanation": "সুইচ নেটওয়ার্কে ডেটা প্যাকেট ফরওয়ার্ড করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "কোন প্রোটোকলটি ওয়েব পেজ অ্যাক্সেস করতে ব্যবহৃত হয়?",
+        "options": [
+          {"id": "a", "text": "TCP/IP", "isCorrect": false},
+          {"id": "b", "text": "HTTP", "isCorrect": true},
+          {"id": "c", "text": "FTP", "isCorrect": false},
+          {"id": "d", "text": "SMTP", "isCorrect": false}
+        ],
+        "explanation": "HTTP (Hypertext Transfer Protocol) ওয়েব পেজ অ্যাক্সেস করতে ব্যবহৃত হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "কোন ডিভাইসটি ডিজিটাল সংকেতকে অ্যানালগ সংকেতে রূপান্তর করে?",
+        "options": [
+          {"id": "a", "text": "রাউটার", "isCorrect": false},
+          {"id": "b", "text": "সুইচ", "isCorrect": false},
+          {"id": "c", "text": "মডেম", "isCorrect": true},
+          {"id": "d", "text": "হাব", "isCorrect": false}
+        ],
+        "explanation": "মডেম ডিজিটাল সংকেতকে অ্যানালগ সংকেতে রূপান্তর করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "কোন নেটওয়ার্ক টপোলজিতে প্রতিটি ডিভাইস একটি কেন্দ্রীয় হাবের সাথে সংযুক্ত থাকে?",
+        "options": [
+          {"id": "a", "text": "বাস টপোলজি", "isCorrect": false},
+          {"id": "b", "text": "রিং টপোলজি", "isCorrect": false},
+          {"id": "c", "text": "স্টার টপোলজি", "isCorrect": true},
+          {"id": "d", "text": "মেশ টপোলজি", "isCorrect": false}
+        ],
+        "explanation": "স্টার টপোলজিতে প্রতিটি ডিভাইস একটি কেন্দ্রীয় হাবের সাথে সংযুক্ত থাকে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "কোন ডিভাইসটি নেটওয়ার্কের মধ্যে ডেটা প্যাকেট ফিল্টার করে?",
+        "options": [
+          {"id": "a", "text": "হাব", "isCorrect": false},
+          {"id": "b", "text": "সুইচ", "isCorrect": false},
+          {"id": "c", "text": "ফায়ারওয়াল", "isCorrect": true},
+          {"id": "d", "text": "রিপিটার", "isCorrect": false}
+        ],
+        "explanation": "ফায়ারওয়াল নেটওয়ার্কের মধ্যে ডেটা প্যাকেট ফিল্টার করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "কোন প্রোটোকলটি ইমেল পাঠানোর জন্য ব্যবহৃত হয়?",
+        "options": [
+          {"id": "a", "text": "HTTP", "isCorrect": false},
+          {"id": "b", "text": "FTP", "isCorrect": false},
+          {"id": "c", "text": "SMTP", "isCorrect": true},
+          {"id": "d", "text": "TCP/IP", "isCorrect": false}
+        ],
+        "explanation": "SMTP (Simple Mail Transfer Protocol) ইমেল পাঠানোর জন্য ব্যবহৃত হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "কোন নেটওয়ার্ক ডিভাইসটি ডেটা সংকেতকে বুস্ট করে?",
+        "options": [
+          {"id": "a", "text": "হাব", "isCorrect": false},
+          {"id": "b", "text": "রিপিটার", "isCorrect": true},
+          {"id": "c", "text": "সুইচ", "isCorrect": false},
+          {"id": "d", "text": "রাউটার", "isCorrect": false}
+        ],
+        "explanation": "রিপিটার নেটওয়ার্ক ডিভাইসটি ডেটা সংকেতকে বুস্ট করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "কোন নেটওয়ার্ক টপোলজিতে প্রতিটি ডিভাইস সরাসরি একে অপরের সাথে সংযুক্ত থাকে?",
+        "options": [
+          {"id": "a", "text": "বাস টপোলজি", "isCorrect": false},
+          {"id": "b", "text": "রিং টপোলজি", "isCorrect": false},
+          {"id": "c", "text": "স্টার টপোলজি", "isCorrect": false},
+          {"id": "d", "text": "মেশ টপোলজি", "isCorrect": true}
+        ],
+        "explanation": "মেশ টপোলজিতে প্রতিটি ডিভাইস সরাসরি একে অপরের সাথে সংযুক্ত থাকে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "কোন ডিভাইসটি নেটওয়ার্কের মধ্যে আইপি অ্যাড্রেস বরাদ্দ করে?",
+        "options": [
+          {"id": "a", "text": "হাব", "isCorrect": false},
+          {"id": "b", "text": "সুইচ", "isCorrect": false},
+          {"id": "c", "text": "রাউটার", "isCorrect": true},
+          {"id": "d", "text": "মডেম", "isCorrect": false}
+        ],
+        "explanation": "রাউটার নেটওয়ার্কের মধ্যে আইপি অ্যাড্রেস বরাদ্দ করে।",
+        "timerSeconds": 30
+      }
+    ]
+  }

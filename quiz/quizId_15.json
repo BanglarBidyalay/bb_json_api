@@ -1,0 +1,136 @@
+{
+    "quizId": "15",
+    "quizTitle": "আলোক তরঙ্গ এবং প্রতিফলন",
+    "class": "10",
+    "subjectId": "PHY103",
+    "chapterId": "CH15",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2025-03-12",
+      "durationMinutes": 30,
+      "topic": "Light Waves and Reflection",
+      "description": "এই কুইজটি আলো তরঙ্গ এবং প্রতিফলন সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "আলো কোন ধরনের তরঙ্গ?",
+        "options": [
+          {"id": "a", "text": "শব্দ তরঙ্গ", "isCorrect": false},
+          {"id": "b", "text": "তড়িৎ চৌম্বকীয় তরঙ্গ", "isCorrect": true},
+          {"id": "c", "text": "যান্ত্রিক তরঙ্গ", "isCorrect": false},
+          {"id": "d", "text": "মহাকর্ষীয় তরঙ্গ", "isCorrect": false}
+        ],
+        "explanation": "আলো তড়িৎ চৌম্বকীয় তরঙ্গ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "আলোর প্রতিফলনের সূত্র কয়টি?",
+        "options": [
+          {"id": "a", "text": "১টি", "isCorrect": false},
+          {"id": "b", "text": "২টি", "isCorrect": true},
+          {"id": "c", "text": "৩টি", "isCorrect": false},
+          {"id": "d", "text": "৪টি", "isCorrect": false}
+        ],
+        "explanation": "আলোর প্রতিফলনের সূত্র ২টি।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "কোনটি আলোর প্রতিফলনের একটি উদাহরণ?",
+        "options": [
+          {"id": "a", "text": "রামধনু গঠন", "isCorrect": false},
+          {"id": "b", "text": "দর্পণে প্রতিবিম্ব গঠন", "isCorrect": true},
+          {"id": "c", "text": "প্রিজমের মাধ্যমে আলোর বিচ্ছুরণ", "isCorrect": false},
+          {"id": "d", "text": "লেন্সের মাধ্যমে আলোর প্রতিসরণ", "isCorrect": false}
+        ],
+        "explanation": "দর্পণে প্রতিবিম্ব গঠন আলোর প্রতিফলনের একটি উদাহরণ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "আলোর কোন ধর্মের জন্য আমরা বস্তু দেখতে পাই?",
+        "options": [
+          {"id": "a", "text": "প্রতিসরণ", "isCorrect": false},
+          {"id": "b", "text": "প্রতিফলন", "isCorrect": true},
+          {"id": "c", "text": "বিচ্ছুরণ", "isCorrect": false},
+          {"id": "d", "text": "অপবর্তন", "isCorrect": false}
+        ],
+        "explanation": "আলোর প্রতিফলনের জন্য আমরা বস্তু দেখতে পাই।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "আলোর বেগ সবচেয়ে বেশি কোথায়?",
+        "options": [
+          {"id": "a", "text": "জলে", "isCorrect": false},
+          {"id": "b", "text": "কাচে", "isCorrect": false},
+          {"id": "c", "text": "শূন্যস্থানে", "isCorrect": true},
+          {"id": "d", "text": "বায়ুতে", "isCorrect": false}
+        ],
+        "explanation": "আলোর বেগ সবচেয়ে বেশি শূন্যস্থানে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "আলোর তরঙ্গদৈর্ঘ্য কোন এককে মাপা হয়?",
+        "options": [
+          {"id": "a", "text": "মিটার", "isCorrect": false},
+          {"id": "b", "text": "সেন্টিমিটার", "isCorrect": false},
+          {"id": "c", "text": "ন্যানোমিটার", "isCorrect": true},
+          {"id": "d", "text": "কিলোমিটার", "isCorrect": false}
+        ],
+        "explanation": "আলোর তরঙ্গদৈর্ঘ্য ন্যানোমিটার এককে মাপা হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "কোন রঙের আলোর তরঙ্গদৈর্ঘ্য সবচেয়ে বেশি?",
+        "options": [
+          {"id": "a", "text": "বেগুনি", "isCorrect": false},
+          {"id": "b", "text": "নীল", "isCorrect": false},
+          {"id": "c", "text": "সবুজ", "isCorrect": false},
+          {"id": "d", "text": "লাল", "isCorrect": true}
+        ],
+        "explanation": "লাল রঙের আলোর তরঙ্গদৈর্ঘ্য সবচেয়ে বেশি।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "কোনটি আলোর প্রতিফলনের প্রকারভেদ?",
+        "options": [
+          {"id": "a", "text": "নিয়মিত প্রতিফলন", "isCorrect": false},
+          {"id": "b", "text": "অনিয়মিত প্রতিফলন", "isCorrect": false},
+          {"id": "c", "text": "পূর্ণ অভ্যন্তরীণ প্রতিফলন", "isCorrect": false},
+          {"id": "d", "text": "উপরের সবগুলো", "isCorrect": true}
+        ],
+        "explanation": "নিয়মিত প্রতিফলন, অনিয়মিত প্রতিফলন এবং পূর্ণ অভ্যন্তরীণ প্রতিফলন আলোর প্রতিফলনের প্রকারভেদ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "কোনটি উত্তল দর্পণের ব্যবহার?",
+        "options": [
+          {"id": "a", "text": "দাঁতের চিকিৎসায়", "isCorrect": false},
+          {"id": "b", "text": "গাড়ির হেডলাইটে", "isCorrect": false},
+          {"id": "c", "text": "গাড়ির রিয়ার ভিউ মিরর", "isCorrect": true},
+          {"id": "d", "text": "সৌর চুল্লিতে", "isCorrect": false}
+        ],
+        "explanation": "গাড়ির রিয়ার ভিউ মিরর উত্তল দর্পণের ব্যবহার।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "কোনটি অবতল দর্পণের ব্যবহার?",
+        "options": [
+          {"id": "a", "text": "গাড়ির রিয়ার ভিউ মিরর", "isCorrect": false},
+          {"id": "b", "text": "রাস্তার আলোতে", "isCorrect": false},
+          {"id": "c", "text": "দাঁতের চিকিৎসায়", "isCorrect": true},
+          {"id": "d", "text": "সুরক্ষা ক্যামেরায়", "isCorrect": false}
+        ],
+        "explanation": "দাঁতের চিকিৎসায় অবতল দর্পণের ব্যবহার।",
+        "timerSeconds": 30
+      }
+    ]
+  }

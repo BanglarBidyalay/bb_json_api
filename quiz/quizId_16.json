@@ -1,0 +1,136 @@
+{
+    "quizId": "16",
+    "quizTitle": "ধ্বনি এবং শব্দ",
+    "class": "10",
+    "subjectId": "PHY104",
+    "chapterId": "CH16",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2025-03-12",
+      "durationMinutes": 30,
+      "topic": "Sound and Waves",
+      "description": "এই কুইজটি ধ্বনি এবং শব্দ সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "শব্দ কোন ধরনের তরঙ্গ?",
+        "options": [
+          {"id": "a", "text": "তড়িৎ চৌম্বকীয় তরঙ্গ", "isCorrect": false},
+          {"id": "b", "text": "যান্ত্রিক তরঙ্গ", "isCorrect": true},
+          {"id": "c", "text": "আলো তরঙ্গ", "isCorrect": false},
+          {"id": "d", "text": "মহাকর্ষীয় তরঙ্গ", "isCorrect": false}
+        ],
+        "explanation": "শব্দ যান্ত্রিক তরঙ্গ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "শব্দের বেগ সবচেয়ে বেশি কোথায়?",
+        "options": [
+          {"id": "a", "text": "শূন্যস্থানে", "isCorrect": false},
+          {"id": "b", "text": "বায়ুতে", "isCorrect": false},
+          {"id": "c", "text": "জলে", "isCorrect": false},
+          {"id": "d", "text": "কঠিন পদার্থে", "isCorrect": true}
+        ],
+        "explanation": "শব্দের বেগ সবচেয়ে বেশি কঠিন পদার্থে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "শব্দের তীক্ষ্ণতা কিসের উপর নির্ভর করে?",
+        "options": [
+          {"id": "a", "text": "তরঙ্গদৈর্ঘ্য", "isCorrect": false},
+          {"id": "b", "text": "কম্পাঙ্ক", "isCorrect": true},
+          {"id": "c", "text": "বিস্তার", "isCorrect": false},
+          {"id": "d", "text": "গতি", "isCorrect": false}
+        ],
+        "explanation": "শব্দের তীক্ষ্ণতা কম্পাঙ্কের উপর নির্ভর করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "শব্দের তীব্রতা কিসের উপর নির্ভর করে?",
+        "options": [
+          {"id": "a", "text": "কম্পাঙ্ক", "isCorrect": false},
+          {"id": "b", "text": "তরঙ্গদৈর্ঘ্য", "isCorrect": false},
+          {"id": "c", "text": "বিস্তার", "isCorrect": true},
+          {"id": "d", "text": "গতি", "isCorrect": false}
+        ],
+        "explanation": "শব্দের তীব্রতা বিস্তারের উপর নির্ভর করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "শব্দের প্রতিধ্বনি শোনার জন্য ন্যূনতম দূরত্ব কত হওয়া প্রয়োজন?",
+        "options": [
+          {"id": "a", "text": "১০ মিটার", "isCorrect": false},
+          {"id": "b", "text": "১৭ মিটার", "isCorrect": true},
+          {"id": "c", "text": "২০ মিটার", "isCorrect": false},
+          {"id": "d", "text": "২৫ মিটার", "isCorrect": false}
+        ],
+        "explanation": "শব্দের প্রতিধ্বনি শোনার জন্য ন্যূনতম দূরত্ব ১৭ মিটার হওয়া প্রয়োজন।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "কোন এককে শব্দের তীব্রতা মাপা হয়?",
+        "options": [
+          {"id": "a", "text": "হার্জ", "isCorrect": false},
+          {"id": "b", "text": "ডেসিবল", "isCorrect": true},
+          {"id": "c", "text": "মিটার", "isCorrect": false},
+          {"id": "d", "text": "সেকেন্ড", "isCorrect": false}
+        ],
+        "explanation": "ডেসিবল এককে শব্দের তীব্রতা মাপা হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "কোন প্রাণী শব্দোত্তর তরঙ্গ ব্যবহার করে?",
+        "options": [
+          {"id": "a", "text": "কুকুর", "isCorrect": false},
+          {"id": "b", "text": "বাদুড়", "isCorrect": true},
+          {"id": "c", "text": "বিড়াল", "isCorrect": false},
+          {"id": "d", "text": "হাতি", "isCorrect": false}
+        ],
+        "explanation": "বাদুড় শব্দোত্তর তরঙ্গ ব্যবহার করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "কোন যন্ত্রের সাহায্যে শব্দের কম্পাঙ্ক মাপা হয়?",
+        "options": [
+          {"id": "a", "text": "ভোল্টমিটার", "isCorrect": false},
+          {"id": "b", "text": "অ্যামিটার", "isCorrect": false},
+          {"id": "c", "text": "অডিওমিটার", "isCorrect": true},
+          {"id": "d", "text": "থার্মোমিটার", "isCorrect": false}
+        ],
+        "explanation": "অডিওমিটার যন্ত্রের সাহায্যে শব্দের কম্পাঙ্ক মাপা হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "কোন ঘটনাটি শব্দের ব্যতিচারের উদাহরণ?",
+        "options": [
+          {"id": "a", "text": "প্রতিধ্বনি", "isCorrect": false},
+          {"id": "b", "text": "সুরশলাকার শব্দ", "isCorrect": true},
+          {"id": "c", "text": "শব্দ প্রতিফলন", "isCorrect": false},
+          {"id": "d", "text": "ডপলার প্রভাব", "isCorrect": false}
+        ],
+        "explanation": "সুরশলাকার শব্দ শব্দের ব্যতিচারের উদাহরণ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "কোনটি শব্দের বৈশিষ্ট্য নয়?",
+        "options": [
+          {"id": "a", "text": "কম্পাঙ্ক", "isCorrect": false},
+          {"id": "b", "text": "তরঙ্গদৈর্ঘ্য", "isCorrect": false},
+          {"id": "c", "text": "আলোর প্রতিফলন", "isCorrect": true},
+          {"id": "d", "text": "বিস্তার", "isCorrect": false}
+        ],
+        "explanation": "আলোর প্রতিফলন শব্দের বৈশিষ্ট্য নয়।",
+        "timerSeconds": 30
+      }
+    ]
+  }

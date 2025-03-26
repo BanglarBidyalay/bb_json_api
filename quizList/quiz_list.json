@@ -3,7 +3,7 @@
         "quizId": "1",
         "quizTitle": "পৃথিবীর পরিক্রমণ",
         "class": "10",
-        "subjectId": "GEO101",
+        "subjectId": "63fe2990c4e8c9fbac26351c",
         "chapterId": "CH1",
         "metadata": {
             "createdBy": "Banglar Bidyalay Team",
@@ -17,7 +17,7 @@
         "quizId": "2",
         "quizTitle": "রাসায়নিক বিক্রিয়া এবং সমীকরণ",
         "class": "10",
-        "subjectId": "CHE101",
+        "subjectId": "63fe296f26abd4392c88d04b",
         "chapterId": "CH2",
         "metadata": {
             "createdBy": "Banglar Bidyalay Team",
@@ -31,7 +31,7 @@
         "quizId": "3",
         "quizTitle": "চৌম্বক ক্ষেত্র এবং তড়িৎ প্রবাহ",
         "class": "10",
-        "subjectId": "PHY101",
+        "subjectId": "63fe296f26abd4392c88d04b",
         "chapterId": "CH3",
         "metadata": {
             "createdBy": "Banglar Bidyalay Team",
@@ -45,7 +45,7 @@
         "quizId": "4",
         "quizTitle": "জীবের বৈচিত্র্য",
         "class": "10",
-        "subjectId": "BIO101",
+        "subjectId": "63fe293da5acb333244e7571",
         "chapterId": "CH4",
         "metadata": {
             "createdBy": "Banglar Bidyalay Team",
@@ -73,7 +73,7 @@
         "quizId": "11",
         "quizTitle": "পৃথিবীর পরিবেশ এবং দূষণ",
         "class": "10",
-        "subjectId": "ENV101",
+        "subjectId": "63fe2990c4e8c9fbac26351c",
         "chapterId": "CH11",
         "metadata": {
             "createdBy": "Banglar Bidyalay Team",
@@ -129,7 +129,7 @@
         "quizId": "15",
         "quizTitle": "আলোক তরঙ্গ এবং প্রতিফলন",
         "class": "10",
-        "subjectId": "PHY103",
+        "subjectId": "63fe296f26abd4392c88d04b",
         "chapterId": "CH15",
         "metadata": {
             "createdBy": "Banglar Bidyalay Team",
@@ -143,7 +143,7 @@
         "quizId": "16",
         "quizTitle": "ধ্বনি এবং শব্দ",
         "class": "10",
-        "subjectId": "PHY104",
+        "subjectId": "63fe296f26abd4392c88d04b",
         "chapterId": "CH16",
         "metadata": {
             "createdBy": "Banglar Bidyalay Team",
@@ -157,7 +157,7 @@
         "quizId": "17",
         "quizTitle": "পদার্থের গুণাবলি",
         "class": "10",
-        "subjectId": "CHE103",
+        "subjectId": "63fe296f26abd4392c88d04b",
         "chapterId": "CH17",
         "metadata": {
             "createdBy": "Banglar Bidyalay Team",
@@ -171,7 +171,7 @@
         "quizId": "18",
         "quizTitle": "প্রাণীর আচরণ এবং অভিযোজন",
         "class": "10",
-        "subjectId": "BIO103",
+        "subjectId": "63fe293da5acb333244e7571",
         "chapterId": "CH18",
         "metadata": {
             "createdBy": "Banglar Bidyalay Team",

@@ -1,0 +1,136 @@
+{
+    "quizId": "18",
+    "quizTitle": "প্রাণীর আচরণ এবং অভিযোজন",
+    "class": "10",
+    "subjectId": "BIO103",
+    "chapterId": "CH18",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2025-03-12",
+      "durationMinutes": 30,
+      "topic": "Animal Behavior and Adaptation",
+      "description": "এই কুইজটি প্রাণীদের আচরণ এবং অভিযোজন সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "কোন আচরণটি প্রাণীদের প্রজননে সাহায্য করে?",
+        "options": [
+          {"id": "a", "text": "খাদ্য সংগ্রহ", "isCorrect": false},
+          {"id": "b", "text": "বাসস্থান নির্মাণ", "isCorrect": false},
+          {"id": "c", "text": "সঙ্গীর জন্য প্রতিযোগিতা", "isCorrect": true},
+          {"id": "d", "text": "শিকার থেকে আত্মরক্ষা", "isCorrect": false}
+        ],
+        "explanation": "সঙ্গীর জন্য প্রতিযোগিতা প্রাণীদের প্রজননে সাহায্য করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "কোন অভিযোজনটি মরুভূমির প্রাণীদের জলের অভাব সহ্য করতে সাহায্য করে?",
+        "options": [
+          {"id": "a", "text": "ঘন পশম", "isCorrect": false},
+          {"id": "b", "text": "জল সঞ্চয়কারী অঙ্গ", "isCorrect": true},
+          {"id": "c", "text": "ধারালো দাঁত", "isCorrect": false},
+          {"id": "d", "text": "শক্ত নখর", "isCorrect": false}
+        ],
+        "explanation": "জল সঞ্চয়কারী অঙ্গ মরুভূমির প্রাণীদের জলের অভাব সহ্য করতে সাহায্য করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "কোন আচরণটি প্রাণীদের সামাজিক জীবনযাপনে সাহায্য করে?",
+        "options": [
+          {"id": "a", "text": "একা শিকার করা", "isCorrect": false},
+          {"id": "b", "text": "দলবদ্ধভাবে বসবাস করা", "isCorrect": true},
+          {"id": "c", "text": "একাকী ঘুরে বেড়ানো", "isCorrect": false},
+          {"id": "d", "text": "অন্য প্রাণীদের আক্রমণ করা", "isCorrect": false}
+        ],
+        "explanation": "দলবদ্ধভাবে বসবাস করা প্রাণীদের সামাজিক জীবনযাপনে সাহায্য করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "কোন অভিযোজনটি মেরু অঞ্চলের প্রাণীদের ঠান্ডা থেকে রক্ষা করে?",
+        "options": [
+          {"id": "a", "text": "পাতলা চামড়া", "isCorrect": false},
+          {"id": "b", "text": "ঘন পশম ও চর্বির স্তর", "isCorrect": true},
+          {"id": "c", "text": "লম্বা পা", "isCorrect": false},
+          {"id": "d", "text": "বড় কান", "isCorrect": false}
+        ],
+        "explanation": "ঘন পশম ও চর্বির স্তর মেরু অঞ্চলের প্রাণীদের ঠান্ডা থেকে রক্ষা করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "কোন আচরণটি প্রাণীদের শিকার ধরতে সাহায্য করে?",
+        "options": [
+          {"id": "a", "text": "ঘুমন্ত থাকা", "isCorrect": false},
+          {"id": "b", "text": "আক্রমণাত্মক আচরণ", "isCorrect": true},
+          {"id": "c", "text": "শান্ত থাকা", "isCorrect": false},
+          {"id": "d", "text": "পালাতে থাকা", "isCorrect": false}
+        ],
+        "explanation": "আক্রমণাত্মক আচরণ প্রাণীদের শিকার ধরতে সাহায্য করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "কোন অভিযোজনটি জলজ প্রাণীদের জলে সাঁতার কাটতে সাহায্য করে?",
+        "options": [
+          {"id": "a", "text": "পাখা ও পাখনা", "isCorrect": true},
+          {"id": "b", "text": "লম্বা পা", "isCorrect": false},
+          {"id": "c", "text": "ধারালো দাঁত", "isCorrect": false},
+          {"id": "d", "text": "ঘন পশম", "isCorrect": false}
+        ],
+        "explanation": "পাখা ও পাখনা জলজ প্রাণীদের জলে সাঁতার কাটতে সাহায্য করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "কোন আচরণটি প্রাণীদের আত্মরক্ষায় সাহায্য করে?",
+        "options": [
+          {"id": "a", "text": "মিথোজীবিতা", "isCorrect": false},
+          {"id": "b", "text": "ছদ্মবেশ ধারণ", "isCorrect": true},
+          {"id": "c", "text": "সামাজিক আচরণ", "isCorrect": false},
+          {"id": "d", "text": "প্রজনন আচরণ", "isCorrect": false}
+        ],
+        "explanation": "ছদ্মবেশ ধারণ প্রাণীদের আত্মরক্ষায় সাহায্য করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "কোন অভিযোজনটি উড়ন্ত প্রাণীদের আকাশে উড়তে সাহায্য করে?",
+        "options": [
+          {"id": "a", "text": "শক্ত নখর", "isCorrect": false},
+          {"id": "b", "text": "হালকা হাড় ও ডানা", "isCorrect": true},
+          {"id": "c", "text": "ধারালো দাঁত", "isCorrect": false},
+          {"id": "d", "text": "ঘন পশম", "isCorrect": false}
+        ],
+        "explanation": "হালকা হাড় ও ডানা উড়ন্ত প্রাণীদের আকাশে উড়তে সাহায্য করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "কোন আচরণটি প্রাণীদের বাসস্থান নির্মাণে সাহায্য করে?",
+        "options": [
+          {"id": "a", "text": "শিকার করা", "isCorrect": false},
+          {"id": "b", "text": "খাদ্য সংগ্রহ করা", "isCorrect": false},
+          {"id": "c", "text": "বাসা তৈরি করা", "isCorrect": true},
+          {"id": "d", "text": "প্রজনন করা", "isCorrect": false}
+        ],
+        "explanation": "বাসা তৈরি করা প্রাণীদের বাসস্থান নির্মাণে সাহায্য করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "কোন অভিযোজনটি তৃণভোজী প্রাণীদের ঘাস খেতে সাহায্য করে?",
+        "options": [
+          {"id": "a", "text": "ধারালো দাঁত", "isCorrect": false},
+          {"id": "b", "text": "শক্ত নখর", "isCorrect": false},
+          {"id": "c", "text": "চ্যাপ্টা ও প্রশস্ত দাঁত", "isCorrect": true},
+          {"id": "d", "text": "লম্বা পা", "isCorrect": false}
+        ],
+        "explanation": "চ্যাপ্টা ও প্রশস্ত দাঁত তৃণভোজী প্রাণীদের ঘাস খেতে সাহায্য করে।",
+        "timerSeconds": 30
+      }
+    ]
+  }

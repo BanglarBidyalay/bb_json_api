@@ -1,0 +1,136 @@
+{
+    "quizId": "19",
+    "quizTitle": "বিশ্ব ইতিহাসের গুরুত্বপূর্ণ ঘটনা",
+    "class": "10",
+    "subjectId": "63fe298126abd4392c88d387",
+    "chapterId": "CH19",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2025-03-12",
+      "durationMinutes": 30,
+      "topic": "World History Events",
+      "description": "এই কুইজটি বিশ্ব ইতিহাসের গুরুত্বপূর্ণ ঘটনা সম্পর্কিত বিভিন্ন প্রশ্ন নিয়ে গঠিত।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "ফরাসি বিপ্লব কত সালে শুরু হয়েছিল?",
+        "options": [
+          {"id": "a", "text": "১৭৭৬", "isCorrect": false},
+          {"id": "b", "text": "১৭৮৯", "isCorrect": true},
+          {"id": "c", "text": "১৮১৫", "isCorrect": false},
+          {"id": "d", "text": "১৮৪৮", "isCorrect": false}
+        ],
+        "explanation": "ফরাসি বিপ্লব ১৭৮৯ সালে শুরু হয়েছিল।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "প্রথম বিশ্বযুদ্ধ কত সালে শুরু হয়েছিল?",
+        "options": [
+          {"id": "a", "text": "১৯১৪", "isCorrect": true},
+          {"id": "b", "text": "১৯১৭", "isCorrect": false},
+          {"id": "c", "text": "১৯১৮", "isCorrect": false},
+          {"id": "d", "text": "১৯৩৯", "isCorrect": false}
+        ],
+        "explanation": "প্রথম বিশ্বযুদ্ধ ১৯১৪ সালে শুরু হয়েছিল।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "দ্বিতীয় বিশ্বযুদ্ধ কত সালে শেষ হয়েছিল?",
+        "options": [
+          {"id": "a", "text": "১৯৩৯", "isCorrect": false},
+          {"id": "b", "text": "১৯৪৫", "isCorrect": true},
+          {"id": "c", "text": "১৯৪৮", "isCorrect": false},
+          {"id": "d", "text": "১৯৫০", "isCorrect": false}
+        ],
+        "explanation": "দ্বিতীয় বিশ্বযুদ্ধ ১৯৪৫ সালে শেষ হয়েছিল।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "কোন বছর বার্লিনের প্রাচীর ভেঙে ফেলা হয়েছিল?",
+        "options": [
+          {"id": "a", "text": "১৯৮৯", "isCorrect": true},
+          {"id": "b", "text": "১৯৯০", "isCorrect": false},
+          {"id": "c", "text": "১৯৯১", "isCorrect": false},
+          {"id": "d", "text": "১৯৯২", "isCorrect": false}
+        ],
+        "explanation": "১৯৮৯ সালে বার্লিনের প্রাচীর ভেঙে ফেলা হয়েছিল।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "কোন ঘটনার মাধ্যমে আমেরিকার স্বাধীনতা যুদ্ধ শুরু হয়েছিল?",
+        "options": [
+          {"id": "a", "text": "বোস্টন টি পার্টি", "isCorrect": true},
+          {"id": "b", "text": "ফিলাডেলফিয়া সম্মেলন", "isCorrect": false},
+          {"id": "c", "text": "স্বাধীনতার ঘোষণা", "isCorrect": false},
+          {"id": "d", "text": "ইয়র্কটাউনের যুদ্ধ", "isCorrect": false}
+        ],
+        "explanation": "বোস্টন টি পার্টির মাধ্যমে আমেরিকার স্বাধীনতা যুদ্ধ শুরু হয়েছিল।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "কোন বছর রুশ বিপ্লব সংঘটিত হয়েছিল?",
+        "options": [
+          {"id": "a", "text": "১৯০৫", "isCorrect": false},
+          {"id": "b", "text": "১৯১৭", "isCorrect": true},
+          {"id": "c", "text": "১৯২১", "isCorrect": false},
+          {"id": "d", "text": "১৯২৪", "isCorrect": false}
+        ],
+        "explanation": "১৯১৭ সালে রুশ বিপ্লব সংঘটিত হয়েছিল।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "কোন চুক্তির মাধ্যমে প্রথম বিশ্বযুদ্ধের অবসান ঘটেছিল?",
+        "options": [
+          {"id": "a", "text": "ভার্সাই চুক্তি", "isCorrect": true},
+          {"id": "b", "text": "পটসডাম চুক্তি", "isCorrect": false},
+          {"id": "c", "text": "ইয়াল্টা চুক্তি", "isCorrect": false},
+          {"id": "d", "text": "ভিয়েনা চুক্তি", "isCorrect": false}
+        ],
+        "explanation": "ভার্সাই চুক্তির মাধ্যমে প্রথম বিশ্বযুদ্ধের অবসান ঘটেছিল।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "কোন বছর জাতিসংঘ প্রতিষ্ঠিত হয়েছিল?",
+        "options": [
+          {"id": "a", "text": "১৯৪৫", "isCorrect": true},
+          {"id": "b", "text": "১৯৪৬", "isCorrect": false},
+          {"id": "c", "text": "১৯৪৮", "isCorrect": false},
+          {"id": "d", "text": "১৯৫০", "isCorrect": false}
+        ],
+        "explanation": "১৯৪৫ সালে জাতিসংঘ প্রতিষ্ঠিত হয়েছিল।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "কোন বছর ঠান্ডা যুদ্ধ শেষ হয়েছিল?",
+        "options": [
+          {"id": "a", "text": "১৯৮৯", "isCorrect": false},
+          {"id": "b", "text": "১৯৯০", "isCorrect": false},
+          {"id": "c", "text": "১৯৯১", "isCorrect": true},
+          {"id": "d", "text": "১৯৯২", "isCorrect": false}
+        ],
+        "explanation": "১৯৯১ সালে ঠান্ডা যুদ্ধ শেষ হয়েছিল।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "কোন বছর ইউরোপীয় ইউনিয়ন প্রতিষ্ঠিত হয়েছিল?",
+        "options": [
+          {"id": "a", "text": "১৯৫৭", "isCorrect": false},
+          {"id": "b", "text": "১৯৯২", "isCorrect": false},
+          {"id": "c", "text": "১৯৯৩", "isCorrect": true},
+          {"id": "d", "text": "১৯৯৯", "isCorrect": false}
+        ],
+        "explanation": "১৯৯৩ সালে ইউরোপীয় ইউনিয়ন প্রতিষ্ঠিত হয়েছিল।",
+        "timerSeconds": 30
+      }
+    ]
+  }
