@@ -1,0 +1,136 @@
+{
+    "quizId": "37",
+    "quizTitle": "তুমি কোথায় আছ কুইজ",
+    "class": "6",
+    "subjectId": "6400f821c17b6f44511ea7e2",
+    "chapterId": "POEM08",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2024-10-27",
+      "durationMinutes": 15,
+      "topic": "তুমি কোথায় আছ",
+      "description": "তুমি কোথায় আছ থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "মাঠে বন্ধুদের সঙ্গে খেলবার সময় নিজের অবস্থান বোঝানোর জন্য কিসের সাহায্য নেওয়া যেতে পারে?",
+        "options": [
+          {"id": "a", "text": "গাছ, খুঁটি, ল্যাম্পপোস্ট", "isCorrect": true},
+          {"id": "b", "text": "মেঘের অবস্থান", "isCorrect": false},
+          {"id": "c", "text": "সূর্যের আলো", "isCorrect": false},
+          {"id": "d", "text": "পাখির ডাক", "isCorrect": false}
+        ],
+        "explanation": "মাঠে বন্ধুদের সঙ্গে খেলবার সময় নিজের অবস্থান বোঝানোর জন্য গাছ, খুঁটি, ল্যাম্পপোস্টের সাহায্য নেওয়া যেতে পারে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "কোনো স্থানের কতটা উত্তরে বা দক্ষিণে অবস্থিত তা কিসের মাধ্যমে জানা যায়?",
+        "options": [
+          {"id": "a", "text": "অক্ষরেখা", "isCorrect": true},
+          {"id": "b", "text": "দ্রাঘিমারেখা", "isCorrect": false},
+          {"id": "c", "text": "নিরক্ষরেখা", "isCorrect": false},
+          {"id": "d", "text": "মূলমধ্যরেখা", "isCorrect": false}
+        ],
+        "explanation": "কোনো স্থানের কতটা উত্তরে বা দক্ষিণে অবস্থিত তা অক্ষরেখার মাধ্যমে জানা যায়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "নিরক্ষরেখা পৃথিবীকে কয়টি সমান অংশে ভাগ করে?",
+        "options": [
+          {"id": "a", "text": "দুটি", "isCorrect": true},
+          {"id": "b", "text": "তিনটি", "isCorrect": false},
+          {"id": "c", "text": "চারটি", "isCorrect": false},
+          {"id": "d", "text": "কোনো অংশে নয়", "isCorrect": false}
+        ],
+        "explanation": "নিরক্ষরেখা পৃথিবীকে দুটি সমান অংশে ভাগ করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "উত্তর মেরু থেকে দক্ষিণ মেরু পর্যন্ত বিস্তৃত রেখাগুলোকে কী বলে?",
+        "options": [
+          {"id": "a", "text": "অক্ষরেখা", "isCorrect": false},
+          {"id": "b", "text": "দ্রাঘিমারেখা", "isCorrect": true},
+          {"id": "c", "text": "নিরক্ষরেখা", "isCorrect": false},
+          {"id": "d", "text": "আন্তর্জাতিক তারিখ রেখা", "isCorrect": false}
+        ],
+        "explanation": "উত্তর মেরু থেকে দক্ষিণ মেরু পর্যন্ত বিস্তৃত রেখাগুলোকে দ্রাঘিমারেখা বলে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "দ্রাঘিমারেখাগুলো অক্ষরেখাগুলোকে কত ডিগ্রি কোণে ছেদ করে?",
+        "options": [
+          {"id": "a", "text": "৯০°", "isCorrect": true},
+          {"id": "b", "text": "০°", "isCorrect": false},
+          {"id": "c", "text": "১৮০°", "isCorrect": false},
+          {"id": "d", "text": "২৩½°", "isCorrect": false}
+        ],
+        "explanation": "দ্রাঘিমারেখাগুলো অক্ষরেখাগুলোকে ৯০° কোণে ছেদ করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "কোন দ্রাঘিমারেখা থেকে অন্যান্য দ্রাঘিমারেখার গণনা শুরু হয়?",
+        "options": [
+          {"id": "a", "text": "মূলমধ্যরেখা", "isCorrect": true},
+          {"id": "b", "text": "নিরক্ষরেখা", "isCorrect": false},
+          {"id": "c", "text": "কর্কটক্রান্তি রেখা", "isCorrect": false},
+          {"id": "d", "text": "মকরক্রান্তি রেখা", "isCorrect": false}
+        ],
+        "explanation": "মূলমধ্যরেখা থেকে অন্যান্য দ্রাঘিমারেখার গণনা শুরু হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "মূলমধ্যরেখা পৃথিবীকে কোন দুটি গোলার্ধে ভাগ করে?",
+        "options": [
+          {"id": "a", "text": "পূর্ব গোলার্ধ ও পশ্চিম গোলার্ধ", "isCorrect": true},
+          {"id": "b", "text": "উত্তর গোলার্ধ ও দক্ষিণ গোলার্ধ", "isCorrect": false},
+          {"id": "c", "text": "স্থল গোলার্ধ ও জল গোলার্ধ", "isCorrect": false},
+          {"id": "d", "text": "আলো গোলার্ধ ও অন্ধকার গোলার্ধ", "isCorrect": false}
+        ],
+        "explanation": "মূলমধ্যরেখা পৃথিবীকে পূর্ব গোলার্ধ ও পশ্চিম গোলার্ধে ভাগ করে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "কোন রেখাটি পূর্ণ বৃত্তরেখা?",
+        "options": [
+          {"id": "a", "text": "নিরক্ষরেখা", "isCorrect": true},
+          {"id": "b", "text": "মূলমধ্যরেখা", "isCorrect": false},
+          {"id": "c", "text": "দ্রাঘিমারেখা", "isCorrect": false},
+          {"id": "d", "text": "অক্ষরেখা", "isCorrect": false}
+        ],
+        "explanation": "নিরক্ষরেখা পূর্ণ বৃত্তরেখা।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "কোনো গোলকের পৃষ্ঠে দুটি বিন্দুর মধ্যে সবচেয়ে কম দূরত্ব কোনটি?",
+        "options": [
+          {"id": "a", "text": "সরলরেখা", "isCorrect": false},
+          {"id": "b", "text": "মহাবৃত্তের বৃত্তচাপ", "isCorrect": true},
+          {"id": "c", "text": "যে কোনো বক্ররেখা", "isCorrect": false},
+          {"id": "d", "text": "লম্বালম্বি রেখা", "isCorrect": false}
+        ],
+        "explanation": "কোনো গোলকের পৃষ্ঠে দুটি বিন্দুর মধ্যে সবচেয়ে কম দূরত্ব মহাবৃত্তের বৃত্তচাপ।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "সমুদ্রে বা আকাশে চলাচলের সময় নাবিকরা কোন পথে চলাচল করেন?",
+        "options": [
+          {"id": "a", "text": "মহাবৃত্তের পথ", "isCorrect": true},
+          {"id": "b", "text": "অক্ষরেখার পথ", "isCorrect": false},
+          {"id": "c", "text": "দ্রাঘিমারেখার পথ", "isCorrect": false},
+          {"id": "d", "text": "তীর্যক পথ", "isCorrect": false}
+        ],
+        "explanation": "সমুদ্রে বা আকাশে চলাচলের সময় নাবিকরা মহাবৃত্তের পথে চলাচল করেন।",
+        "timerSeconds": 30
+      }
+    ]
+  }

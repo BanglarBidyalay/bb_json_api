@@ -1,0 +1,136 @@
+{
+    "quizId": "36",
+    "quizTitle": "পৃথিবী কী গোল কুইজ",
+    "class": "6",
+    "subjectId": "6400f821c17b6f44511ea7e2",
+    "chapterId": "POEM07",
+    "metadata": {
+      "createdBy": "Banglar Bidyalay Team",
+      "createdDate": "2024-10-27",
+      "durationMinutes": 15,
+      "topic": "পৃথিবী কী গোল",
+      "description": "পৃথিবী কী গোল থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+    },
+    "questions": [
+      {
+        "id": 1,
+        "question": "প্রাচীনকালে মানুষ পৃথিবী সম্পর্কে কী বিশ্বাস করত?",
+        "options": [
+          {"id": "a", "text": "গোলাকার", "isCorrect": false},
+          {"id": "b", "text": "চ্যাপ্টা", "isCorrect": true},
+          {"id": "c", "text": "ডিম্বাকৃতি", "isCorrect": false},
+          {"id": "d", "text": "ত্রিকোণাকার", "isCorrect": false}
+        ],
+        "explanation": "প্রাচীনকালে মানুষ পৃথিবী সম্পর্কে চ্যাপ্টা বিশ্বাস করত।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 2,
+        "question": "সমুদ্রের দিকে যাত্রা করলে জাহাজটিকে দূর থেকে দেখলে প্রথমে কোনটি অদৃশ্য হয়?",
+        "options": [
+          {"id": "a", "text": "মাস্তুলের মাথা", "isCorrect": false},
+          {"id": "b", "text": "গোটা জাহাজটা", "isCorrect": true},
+          {"id": "c", "text": "জাহাজের পাল", "isCorrect": false},
+          {"id": "d", "text": "কিছুই না", "isCorrect": false}
+        ],
+        "explanation": "সমুদ্রের দিকে যাত্রা করলে জাহাজটিকে দূর থেকে দেখলে প্রথমে গোটা জাহাজটা অদৃশ্য হয়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 3,
+        "question": "খ্রিস্ট জন্মের দুশো বছর আগে কোন গ্রিক দার্শনিক পৃথিবী গোলাকার বলেছিলেন?",
+        "options": [
+          {"id": "a", "text": "এরাটোসথেনিস", "isCorrect": true},
+          {"id": "b", "text": "অ্যারিস্টটল", "isCorrect": false},
+          {"id": "c", "text": "প্লেটো", "isCorrect": false},
+          {"id": "d", "text": "সক্রেটিস", "isCorrect": false}
+        ],
+        "explanation": "খ্রিস্ট জন্মের দুশো বছর আগে এরাটোসথেনিস গ্রিক দার্শনিক পৃথিবী গোলাকার বলেছিলেন।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 4,
+        "question": "কত সালে পোর্তুগিজ ভূপর্যটক ম্যাগেলান পৃথিবী পরিক্রমা শুরু করেছিলেন?",
+        "options": [
+          {"id": "a", "text": "১৪৯২ সালে", "isCorrect": false},
+          {"id": "b", "text": "১৫১৯ সালে", "isCorrect": true},
+          {"id": "c", "text": "১৬০৫ সালে", "isCorrect": false},
+          {"id": "d", "text": "১৭৭৬ সালে", "isCorrect": false}
+        ],
+        "explanation": "১৫১৯ সালে পোর্তুগিজ ভূপর্যটক ম্যাগেলান পৃথিবী পরিক্রমা শুরু করেছিলেন।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 5,
+        "question": "পৃথিবী এত বিশাল হওয়ার কারণে আমরা তাকে কেমন বলে ভুল করি?",
+        "options": [
+          {"id": "a", "text": "চ্যাপ্টা সমতল", "isCorrect": true},
+          {"id": "b", "text": "উঁচুনিচু", "isCorrect": false},
+          {"id": "c", "text": "ঢেউ খেলানো", "isCorrect": false},
+          {"id": "d", "text": "গম্বুজের মতো", "isCorrect": false}
+        ],
+        "explanation": "পৃথিবী এত বিশাল হওয়ার কারণে আমরা তাকে চ্যাপ্টা সমতল বলে ভুল করি।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 6,
+        "question": "চন্দ্রগ্রহণের সময় চাঁদের ওপর কিসের ছায়া পড়ে?",
+        "options": [
+          {"id": "a", "text": "পৃথিবীর গোলাকার ছায়া", "isCorrect": true},
+          {"id": "b", "text": "সূর্যের আংশিক ছায়া", "isCorrect": false},
+          {"id": "c", "text": "অন্য কোনো গ্রহের ছায়া", "isCorrect": false},
+          {"id": "d", "text": "কোনো ছায়াই পড়ে না", "isCorrect": false}
+        ],
+        "explanation": "চন্দ্রগ্রহণের সময় চাঁদের ওপর পৃথিবীর গোলাকার ছায়া পড়ে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 7,
+        "question": "পৃথিবী গোলাকার - এই ধারণা প্রথম কে দিয়েছিলেন?",
+        "options": [
+          {"id": "a", "text": "গ্রিক দার্শনিক অ্যারিস্টটল", "isCorrect": false},
+          {"id": "b", "text": "ভারতীয় বিজ্ঞানী আর্যভট্ট", "isCorrect": false},
+          {"id": "c", "text": "গ্রিক ভূগোলবিদ এরাটোসথেনিস", "isCorrect": true},
+          {"id": "d", "text": "ম্যাগেলান", "isCorrect": false}
+        ],
+        "explanation": "পৃথিবী গোলাকার - এই ধারণা প্রথম দিয়েছিলেন গ্রিক ভূগোলবিদ এরাটোসথেনিস।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 8,
+        "question": "দিগন্তরেখাকে কেমন মনে হয় যখন কোনো ফাঁকা মাঠ বা খোলা জায়গায় দাঁড়ানো যায়?",
+        "options": [
+          {"id": "a", "text": "সরলরেখা", "isCorrect": true},
+          {"id": "b", "text": "গোলাকার", "isCorrect": false},
+          {"id": "c", "text": "ঢেউ খেলানো", "isCorrect": false},
+          {"id": "d", "text": "উপবৃত্তাকার", "isCorrect": false}
+        ],
+        "explanation": "দিগন্তরেখাকে সরলরেখা মনে হয় যখন কোনো ফাঁকা মাঠ বা খোলা জায়গায় দাঁড়ানো যায়।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 9,
+        "question": "যত উঁচু জায়গা থেকে দেখা যায়, পৃথিবীর কত অংশ চোখে পড়ে?",
+        "options": [
+          {"id": "a", "text": "কম অংশ", "isCorrect": false},
+          {"id": "b", "text": "বেশি অংশ", "isCorrect": true},
+          {"id": "c", "text": "একই অংশ", "isCorrect": false},
+          {"id": "d", "text": "কোনো অংশই না", "isCorrect": false}
+        ],
+        "explanation": "যত উঁচু জায়গা থেকে দেখা যায়, পৃথিবীর বেশি অংশ চোখে পড়ে।",
+        "timerSeconds": 30
+      },
+      {
+        "id": 10,
+        "question": "এরোপ্লেন ও কৃত্রিম উপগ্রহ থেকে কিসের ছবি তোলা সম্ভব হয়েছে?",
+        "options": [
+          {"id": "a", "text": "পৃথিবীর", "isCorrect": true},
+          {"id": "b", "text": "চাঁদের", "isCorrect": false},
+          {"id": "c", "text": "সূর্যের", "isCorrect": false},
+          {"id": "d", "text": "মহাকাশের", "isCorrect": false}
+        ],
+        "explanation": "এরোপ্লেন ও কৃত্রিম উপগ্রহ থেকে পৃথিবীর ছবি তোলা সম্ভব হয়েছে।",
+        "timerSeconds": 30
+      }
+    ]
+  }

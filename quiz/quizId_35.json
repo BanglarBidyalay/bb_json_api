@@ -1,0 +1,296 @@
+{
+    "quizId": "35",
+    "quizTitle": "আকাশ ভরা সূর্য তারা কুইজ",
+    "class": "6",
+    "subjectId": "6400f821c17b6f44511ea7e2",
+    "chapterId": "POEM06",
+    "metadata": {
+        "createdBy": "Banglar Bidyalay Team",
+        "createdDate": "2024-10-27",
+        "durationMinutes": 15,
+        "topic": "আকাশ ভরা সূর্য তারা",
+        "description": "আকাশ ভরা সূর্য তারা থেকে তৈরি করা বহুনির্বাচনী প্রশ্ন।"
+    },
+    "questions": [
+        {
+            "id": 1,
+            "question": "রাতের আকাশে চাঁদ সহ আলো দেওয়া বস্তুগুলোকে কী বলে?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "গ্রহ (Planets)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "b",
+                    "text": "উপগ্রহ (Satellites)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "c",
+                    "text": "জ্যোতিষ্ক (Celestial bodies)",
+                    "isCorrect": true
+                },
+                {
+                    "id": "d",
+                    "text": "উল্কা (Meteors)",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": "রাতের আকাশে চাঁদ সহ আলো দেওয়া বস্তুগুলোকে জ্যোতিষ্ক (Celestial bodies) বলে।",
+            "timerSeconds": 30
+        },
+        {
+            "id": 2,
+            "question": "অসংখ্য জ্যোতিষ্ক ধারণকারী অসীম শূন্য স্থানকে কী বলে?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "ছায়াপথ (Galaxy)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "b",
+                    "text": "নীহারিকা (Nebula)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "c",
+                    "text": "মহাবিশ্ব (Universe)",
+                    "isCorrect": true
+                },
+                {
+                    "id": "d",
+                    "text": "সৌরজগৎ (Solar System)",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": "অসংখ্য জ্যোতিষ্ক ধারণকারী অসীম শূন্য স্থানকে মহাবিশ্ব (Universe) বলে।",
+            "timerSeconds": 30
+        },
+        {
+            "id": 3,
+            "question": "আধুনিক তত্ত্ব অনুযায়ী, কোটি কোটি বছর আগে মহাবিশ্বের সমস্ত বস্তু কী অবস্থায় ছিল?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "একটি বিশাল জ্বলন্ত তারা (A massive burning star)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "b",
+                    "text": "ধুলো ও গ্যাসের একটি বড় মেঘ (A large cloud of dust and gas)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "c",
+                    "text": "একটি বালির দানার চেয়েও ছোট (Smaller than a grain of sand)",
+                    "isCorrect": true
+                },
+                {
+                    "id": "d",
+                    "text": "মহাকাশে সমানভাবে ছড়ানো (Spread out evenly in space)",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": "আধুনিক তত্ত্ব অনুযায়ী, কোটি কোটি বছর আগে মহাবিশ্বের সমস্ত বস্তু একটি বালির দানার চেয়েও ছোট অবস্থায় ছিল।",
+            "timerSeconds": 30
+        },
+        {
+            "id": 4,
+            "question": "আধুনিক তত্ত্ব অনুযায়ী, আনুমানিক কত বছর আগে মহাবিশ্বের সম্প্রসারণ শুরু হয়েছিল?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "১৪ মিলিয়ন (14 million)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "b",
+                    "text": "১৪ বিলিয়ন (14 billion)",
+                    "isCorrect": true
+                },
+                {
+                    "id": "c",
+                    "text": "১৪০০ কোটি (14 billion)",
+                    "isCorrect": true
+                },
+                {
+                    "id": "d",
+                    "text": "১৪ হাজার (14 thousand)",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": "আধুনিক তত্ত্ব অনুযায়ী, আনুমানিক ১৪ বিলিয়ন (১৪০০ কোটি) বছর আগে মহাবিশ্বের সম্প্রসারণ শুরু হয়েছিল। ",
+            "timerSeconds": 30
+        },
+        {
+            "id": 5,
+            "question": "মহাবিশ্বের সম্প্রসারণের সময় সৃষ্ট ধুলো ও গ্যাসের মহাজাগতিক মেঘ থেকে কোন মহাজাগতিক ঘটনা তৈরি হয়?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "গ্রহ ও উপগ্রহ (Planets and satellites)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "b",
+                    "text": "ধূমকেতু এবং উল্কা (Comets and meteors)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "c",
+                    "text": "নীহারিকা (Nebulae)",
+                    "isCorrect": true
+                },
+                {
+                    "id": "d",
+                    "text": "ছায়াপথ (Galaxies)",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": "মহাবিশ্বের সম্প্রসারণের সময় সৃষ্ট ধুলো ও গ্যাসের মহাজাগতিক মেঘ থেকে নীহারিকা (Nebulae) তৈরি হয়।",
+            "timerSeconds": 30
+        },
+        {
+            "id": 6,
+            "question": "দিনের বেলায় তারা সাধারণত দেখা যায় না কেন?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "তারা পৃথিবীর পিছনে চলে যায়। (They move behind the Earth.)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "b",
+                    "text": "পৃথিবীর বায়ুমণ্ডল তাদের আলো সম্পূর্ণরূপে আটকে দেয়। (The Earth's atmosphere blocks their light completely.)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "c",
+                    "text": "উজ্জ্বল সূর্যের আলো তাদের ক্ষীণ আলোকে ছাপিয়ে যায়। (The bright sunlight overwhelms their faint light.)",
+                    "isCorrect": true
+                },
+                {
+                    "id": "d",
+                    "text": "তারা দিনের বেলায় আলো দেওয়া বন্ধ করে দেয়। (They cease to emit light during the day.)",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": "দিনের বেলায় উজ্জ্বল সূর্যের আলো তাদের ক্ষীণ আলোকে ছাপিয়ে যায়, তাই তারা দেখা যায় না। ",
+            "timerSeconds": 30
+        },
+        {
+            "id": 7,
+            "question": "পৃথিবী থেকে দেখলে রাতের আকাশে তারা কেন মিটমিট করে?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "তারা স্পন্দিত আলো দেয়। (They emit pulsating light.)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "b",
+                    "text": "পৃথিবীর বায়ুমণ্ডলের মধ্য দিয়ে যাওয়ার সময় তাদের আলো কেঁপে যায়। (Their light wavers as it passes through the Earth's atmosphere.)",
+                    "isCorrect": true
+                },
+                {
+                    "id": "c",
+                    "text": "তারা ক্রমাগত উচ্চ গতিতে চলে। (They are constantly moving at high speeds.)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "d",
+                    "text": "মহাকাশের ধুলোর মেঘ মাঝে মাঝে তাদের আলো আটকে দেয়। (Dust clouds in space intermittently block their light.)",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": "পৃথিবীর বায়ুমণ্ডলের মধ্য দিয়ে যাওয়ার সময় তাদের আলো কেঁপে যায়, তাই তারা মিটমিট করে।",
+            "timerSeconds": 30
+        },
+        {
+            "id": 8,
+            "question": "কোন তারাটি নাবিক এবং অভিযাত্রীরা রাতের বেলায় 'উত্তর' দিক নির্ধারণ করতে শতাব্দী ধরে ব্যবহার করে আসছে?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "সিরিয়াস (Sirius)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "b",
+                    "text": "ওরিয়ন (Orion)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "c",
+                    "text": "ধ্রুবতারা (Pole Star)",
+                    "isCorrect": true
+                },
+                {
+                    "id": "d",
+                    "text": "সপ্তর্ষি মণ্ডল (Big Dipper)",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": "ধ্রুবতারা (Pole Star) নাবিক এবং অভিযাত্রীরা রাতের বেলায় 'উত্তর' দিক নির্ধারণ করতে শতাব্দী ধরে ব্যবহার করে আসছে।",
+            "timerSeconds": 30
+        },
+        {
+            "id": 9,
+            "question": "মানুষ পৃথিবীতে বসে মহাকাশের দূরবর্তী বস্তু পর্যবেক্ষণ করার জন্য কোন যন্ত্র ব্যবহার করে?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "মাইক্রোস্কোপ (Microscope)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "b",
+                    "text": "দূরবীন (Binoculars)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "c",
+                    "text": "টেলিস্কোপ (Telescope)",
+                    "isCorrect": true
+                },
+                {
+                    "id": "d",
+                    "text": "স্পেকট্রোস্কোপ (Spectroscope)",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": "মানুষ পৃথিবীতে বসে মহাকাশের দূরবর্তী বস্তু পর্যবেক্ষণ করার জন্য টেলিস্কোপ (Telescope) ব্যবহার করে।",
+            "timerSeconds": 30
+        },
+        {
+            "id": 10,
+            "question": "আকাশ পর্যবেক্ষণের জন্য টেলিস্কোপ রাখার জন্য তৈরি করা বড় গম্বুজ আকৃতির কাঠামোকে কী বলে?",
+            "options": [
+                {
+                    "id": "a",
+                    "text": "প্ল্যানেটেরিয়াম (Planetarium)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "b",
+                    "text": "মানমন্দির (Observatory)",
+                    "isCorrect": true
+                },
+                {
+                    "id": "c",
+                    "text": "স্পেস স্টেশন (Space station)",
+                    "isCorrect": false
+                },
+                {
+                    "id": "d",
+                    "text": "স্যাটেলাইট ডিশ (Satellite dish)",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": "আকাশ পর্যবেক্ষণের জন্য টেলিস্কোপ রাখার জন্য তৈরি করা বড় গম্বুজ আকৃতির কাঠামোকে মানমন্দির (Observatory) বলে।",
+            "timerSeconds": 30
+        }
+    ]
+}
